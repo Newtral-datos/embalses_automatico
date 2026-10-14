@@ -76,9 +76,9 @@ vacíos, para que la línea del gráfico se corte en esas semanas.
 
 | Gráfico | Datos | Nota al pie |
 |---|---|---|
-| Línea | https://raw.githubusercontent.com/SarahIshtar/embalses_automatico/main/graficos/linea/datos.csv | https://raw.githubusercontent.com/SarahIshtar/embalses_automatico/main/graficos/linea/metadata.json |
-| Cuencas | https://raw.githubusercontent.com/SarahIshtar/embalses_automatico/main/graficos/cuencas/datos.csv | https://raw.githubusercontent.com/SarahIshtar/embalses_automatico/main/graficos/cuencas/metadata.json |
-| Embalses | https://raw.githubusercontent.com/SarahIshtar/embalses_automatico/main/graficos/embalses/datos.csv | https://raw.githubusercontent.com/SarahIshtar/embalses_automatico/main/graficos/embalses/metadata.json |
+| Línea | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/linea/datos.csv | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/linea/metadata.json |
+| Cuencas | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/cuencas/datos.csv | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/cuencas/metadata.json |
+| Embalses | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/embalses/datos.csv | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/embalses/metadata.json |
 
 ## Si llega un correo de error
 
