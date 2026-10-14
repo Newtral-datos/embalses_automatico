@@ -2,7 +2,10 @@
 
 Actualiza cada semana los datos de los tres gráficos de embalses de Datawrapper a partir de los
 boletines del Ministerio para la Transición Ecológica (MITECO). Lo ejecuta GitHub Actions los
-**jueves a las 06:00 UTC** (08:00 en Madrid en verano, 07:00 en invierno). También se puede lanzar a mano.
+**martes a las 15:00 UTC** (17:00 en Madrid en verano, 16:00 en invierno) y, como respaldo por si
+el MITECO aún no ha publicado el boletín, los **miércoles a las 08:00 UTC** (10:00 en verano, 09:00 en
+invierno). Si el martes ya se actualizó, la ejecución del miércoles no encuentra novedades y no cambia
+nada. También se puede lanzar a mano.
 
 Cada gráfico lee de este repositorio dos archivos: su `datos.csv` y un `metadata.json` con la nota al pie.
 

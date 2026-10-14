@@ -2,8 +2,11 @@ name: Embalses
 
 on:
   schedule:
-    # Jueves a las 06:00 UTC = 08:00 en Madrid en horario de verano, 07:00 en invierno.
-    - cron: "0 6 * * 4"
+    # Martes a las 15:00 UTC = 17:00 en Madrid en horario de verano, 16:00 en invierno.
+    - cron: "0 15 * * 2"
+    # Respaldo: miércoles a las 08:00 UTC (10:00 / 09:00 en Madrid), por si el martes el
+    # MITECO aún no había publicado el boletín. Si ya se actualizó, no cambia nada.
+    - cron: "0 8 * * 3"
   workflow_dispatch:
 
 permissions:
