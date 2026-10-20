@@ -1,376 +1,751 @@
 Fecha,Embalse_PDF,Río_PDF,Capacidad,Actual,Dif_semana_anterior,Energia_capacidad,Energia_actual,Porcentaje_Actual,Embalses,Nombre completo,Ríos,Cuenca,Latitude,Longitude
-2026-10-05,Añarbe,Añarbe,38,21,-1,0,0,55.3,Añarbe,Embalse de Añarbe,Añarbe,Cantábrico Oriental,43.2205115,-1.8751321
-2026-10-05,Ibiur,Ibiur,8,6,0,0,0,75.0,Ibiur,Embalse de Ibiur,Ibiur,Cantábrico Oriental,43.081951,-2.1254698
-2026-10-05,Ordunte,Ordunte,22,11,-1,0,0,50.0,Ordunte,Embalse del Ordunte,Ordunte,Cantábrico Oriental,43.1611914,-3.2823462
-2026-10-05,San Antón,Endara,5,4,0,0,0,80.0,San Antón,Embalse de San Antón,Endara,Cantábrico Oriental,43.2743832838029,-1.77348065861694
-2026-10-05,Alfilorios,Barrea,8,3,0,0,0,37.5,Alfilorios,Embalse de Alfilorios,Barrea,Cantábrico Occidental,43.2917805,-5.917858
-2026-10-05,Alsa - Mediajo,Torina,22,18,-1,27,15,81.8,Alsa - Mediajo,Embalse de Alsa - Mediajo,Torina,Cantábrico Occidental,43.078611,-3.957222
-2026-10-05,Arbón,Navia,41,37,0,1,1,90.2,Arbón,Embalse de Arbón,Navia,Cantábrico Occidental,43.4770527,-6.7302435
-2026-10-05,"Barca, La",Narcea,29,23,-1,3,2,79.3,La Barca,Embalse de La Barca,Narcea,Cantábrico Occidental,43.296808,-6.3405544
-2026-10-05,"Cohilla, La",Nansa,12,2,0,16,3,16.7,La Cohilla,Embalse de La Cohilla,Nansa,Cantábrico Occidental,43.1332518,-4.3902585
-2026-10-05,Doiras,Navia,97,71,-1,19,12,73.2,Doiras,Embalse de Doiras,Navia,Cantábrico Occidental,43.387222,-6.823889
-2026-10-05,Rioseco,Nalón,4,3,0,0,0,75.0,Rioseco,Embalse de Rioseco,Nalón,Cantábrico Occidental,43.2246056,-5.4633649
-2026-10-05,Salime,Navia,238,99,-6,99,32,41.6,Salime,Embalse de Salime,Navia,Cantábrico Occidental,43.1590562,-6.8692778
-2026-10-05,Tanes,Nalón,34,20,-2,6,2,58.8,Tanes,Embalse de Tanes,Nalón,Cantábrico Occidental,43.2050532,-5.4050813
-2026-10-05,Albarellos,Avia,91,22,-2,32,6,24.2,Albarellos,Embalse de Albarellos,Avia,Miño-Sil,42.3991760357656,-8.20234891317513
-2026-10-05,Bao,Bibey,238,204,-2,290,239,85.7,Bao,Embalse de Bao,Bibey,Miño-Sil,42.2484,-7.1664
-2026-10-05,Bárcena,Sil,341,218,-11,333,181,63.9,Bárcena,Embalse de Bárcena,Sil,Miño-Sil,42.5775131,-6.559887
-2026-10-05,Belesar,Miño,655,184,-8,370,73,28.1,Belesar,Embalse de Belesar,Miño,Miño-Sil,42.6286685,-7.7121655
-2026-10-05,"Campañana, La",Sil,14,9,-1,8,4,64.3,La Campañana,Embalse de La Campañana,Sil,Miño-Sil,42.5056303,-6.7818585
-2026-10-05,Castrelo,Miño,60,51,-1,4,3,85.0,Castrelo,Embalse de Castrelo,Miño,Miño-Sil,42.4811884,-8.803152
-2026-10-05,Cenza,Cenza,40,9,-5,112,15,22.5,Cenza,Embalse de Cenza,Cenza,Miño-Sil,42.2009154691097,-7.26317246356753
-2026-10-05,Chandrexa,Navea,61,26,-4,101,34,42.6,Chandrexa,Embalse de Chandrexa,Navea,Miño-Sil,42.2500206,-7.4172309
-2026-10-05,"Conchas, Las",Limia,80,29,-2,30,9,36.2,Las Conchas,Embalse de Las Conchas,Limia,Miño-Sil,41.9691216790891,-7.97958471458453
-2026-10-05,Edrada-Mao,Mao,14,3,-1,22,5,21.4,Edrada-Mao,Embalse de Edrada-Mao,Mao,Miño-Sil,42.1489919,-7.2346105
-2026-10-05,Frieira,Miño,44,38,-1,1,1,86.4,Frieira,Embalse de Frieira,Miño,Miño-Sil,42.2099606,-8.1919112
-2026-10-05,Guístolas,Navea,5,2,0,4,0,40.0,Guístolas,Embalse de Guístolas,Navea,Miño-Sil,42.3387768910082,-7.31496286831345
-2026-10-05,Matalavilla,Valseco,65,31,3,115,46,47.7,Matalavilla,Embalse de Matalavilla,Valseco,Miño-Sil,42.8353684,-6.4330305
-2026-10-05,Montefurado,Bibey-Sil,10,10,0,4,4,100.0,Montefurado,Embalse de Montefurado,Bibey-Sil,Miño-Sil,42.3956785,-7.2029234
-2026-10-05,"Peares, Os",Miño,182,164,-6,50,44,90.1,Os Peares,Embalse de Os Peares,Miño,Miño-Sil,42.532535,-7.7104428
-2026-10-05,Peñarrubia,Sil,13,11,0,5,4,84.6,Peñarrubia,Embalse de Peñarrubia,Sil,Miño-Sil,42.4625865,-6.8123247
-2026-10-05,Pías (San Agustín),Bibey,10,4,0,19,6,40.0,Pías (San Agustín),Embalse de Pías (San Agustín),Bibey,Miño-Sil,42.1110396,-6.9893766
-2026-10-05,"Portas, Las",Camba,536,304,-32,906,444,56.7,Las Portas,Embalse de Las Portas,Camba,Miño-Sil,42.1167,-7.2093
-2026-10-05,Prada,Jares,122,86,-3,221,153,70.5,Prada,Embalse de Prada,Jares,Miño-Sil,42.2996301,-7.0377463
-2026-10-05,"Rozas, Las",Sil,28,6,-2,55,10,21.4,Las Rozas,Embalse de Las Rozas,Sil,Miño-Sil,42.9182108,-6.3398896
-2026-10-05,Salas,Salas,87,25,-1,79,21,28.7,Salas,Embalse de Salas,Salas,Miño-Sil,41.9864525860087,-7.99955535999446
-2026-10-05,San. Estevo,Sil,213,170,-16,77,58,79.8,San. Estevo,Embalse de San. Estevo,Sil,Miño-Sil,42.3854073227088,-7.51184114103975
-2026-10-05,San Martiño,Sil,10,9,0,2,2,90.0,San Martiño,Embalse de San Martiño,Sil,Miño-Sil,42.3854742850496,-7.11754672838874
-2026-10-05,San Pedro,Sil,6,5,0,1,0,83.3,San Pedro,Embalse de San Pedro,Sil,Miño-Sil,42.4525907727791,-7.71931774590953
-2026-10-05,San Sebastián,Bibey,46,14,-1,116,35,30.4,San Sebastián,Embalse de San Sebastián,Bibey,Miño-Sil,42.1487345,-6.935674
-2026-10-05,Santa Eulalia,Jares,10,6,-2,7,2,60.0,Santa Eulalia,Embalse de Santa Eulalia,Jares,Miño-Sil,42.3497,-7.0625
-2026-10-05,Sequeiros,Sil,11,10,0,3,3,90.9,Sequeiros,Embalse de Sequeiros,Sil,Miño-Sil,42.4377020336185,-7.21673321471883
-2026-10-05,Velle,Miño,17,14,1,1,1,82.4,Velle,Embalse de Velle,Miño,Miño-Sil,42.3787614,-7.8265973
-2026-10-05,Vilasouto,Mao,21,7,0,0,0,33.3,Vilasouto,Embalse de Vilasouto,Mao,Miño-Sil,42.6639318,-7.417857
-2026-10-05,Barrie de la Maza,Tambre,31,10,0,8,2,32.3,Barrie de la Maza,Embalse de Barrie de la Maza,Tambre,Galicia Costa,42.8727676,-8.7584426
-2026-10-05,Cecebre,Mero,22,10,-1,0,0,45.5,Cecebre,Embalse de Cecebre,Mero,Galicia Costa,43.2829606,-8.2977251
-2026-10-05,Eiras,Oitavén,22,11,0,0,0,50.0,Eiras,Embalse de Eiras,Oitavén,Galicia Costa,42.3461379,-8.4903865
-2026-10-05,Eume,Eume,123,84,-2,54,36,68.3,Eume,Embalse de Eume,Eume,Galicia Costa,43.3763925,-7.9906232
-2026-10-05,Fervenza,Jallas,103,39,-2,112,41,37.9,Fervenza,Embalse de Fervenza,Jallas,Galicia Costa,42.9975289,-8.9935558
-2026-10-05,"Forcadas, As",Forcadas,11,4,0,0,0,36.4,As Forcadas,Embalse de As Forcadas,Forcadas,Galicia Costa,43.6176,-8.0839
-2026-10-05,Portodemouros,Ulla,297,139,-7,39,12,46.8,Portodemouros,Embalse de Portodemouros,Ulla,Galicia Costa,42.8388311,-8.1297595
-2026-10-05,"Ribeira, A",Eume,33,17,0,16,6,51.5,A Ribeira,Embalse de A Ribeira,Eume,Galicia Costa,42.5540645,-8.9922481
-2026-10-05,Riocobo,Cobo,6,2,0,0,0,33.3,Riocobo,Embalse de Riocobo,Cobo,Galicia Costa,43.6748439567132,-7.44653815686947
-2026-10-05,Sta Uxia,Jallas,18,12,1,7,3,66.7,Sta Uxia,Embalse de Sta Uxia,Jallas,Galicia Costa,42.9176447321584,-9.09925275911726
-2026-10-05,Villagudín,Veduino,18,15,0,0,0,83.3,Villagudín,Embalse de Villagudín,Veduino,Galicia Costa,43.094887,-8.4915277
-2026-10-05,Ibai-Eder,Ibai-Eder,11,7,0,0,0,63.6,Ibai-Eder,Embalse de Ibai-Eder,Ibai-Eder,Cuencas Internas del País Vasco,43.1234072098623,-2.22521233982946
-2026-10-05,Urkulu,Urkulu,10,8,0,0,0,80.0,Urkulu,Embalse de Urkulu,Urkulu,Cuencas Internas del País Vasco,43.0190927,-2.4784518
-2026-10-05,"Agavanzal, Nª Sª de",Tera,36,35,1,34,29,97.2,Nuestra Señora de Agavanzal,Embalse de Nuestra Señora de Agavanzal,Tera,Duero,41.9751551189605,-6.15928175503354
-2026-10-05,Águeda,Águeda,15,10,0,0,0,66.7,Águeda,Embalse de Águeda,Águeda,Duero,40.5298774,-6.4816084
-2026-10-05,Aguilar,Pisuerga,247,99,-2,66,26,40.1,Aguilar,Embalse de Aguilar,Pisuerga,Duero,42.8095736,-4.3128549
-2026-10-05,Aldeadávila,Duero,114,110,5,35,33,96.5,Aldeadávila,Embalse de Aldeadávila,Duero,Duero,41.2113789,-6.6862008
-2026-10-05,Almendra,Tormes,2649,1477,-103,3458,1906,55.8,Almendra,Embalse de Almendra,Tormes,Duero,41.2607875,-6.2694608
-2026-10-05,Arlanzón,Arlanzón,22,9,0,4,2,40.9,Arlanzón,Embalse de Arlanzón,Arlanzón,Duero,42.252480475864,-3.33593499944234
-2026-10-05,Barrios de Luna,Luna,311,73,-1,252,56,23.5,Barrios de Luna,Embalse de Barrios de Luna,Luna,Duero,42.8497549,-5.8637585
-2026-10-05,Burgomillodo,Duratón,14,8,-2,6,3,57.1,Burgomillodo,Embalse de Burgomillodo,Duratón,Duero,41.3315989,-3.880167
-2026-10-05,Camporredondo,Carrión,69,15,0,43,7,21.7,Camporredondo,Embalse de Camporredondo,Carrión,Duero,42.9,-4.7166667
-2026-10-05,Casares de Arbas,Casares,37,17,0,0,0,45.9,Casares de Arbas,Embalse de Casares de Arbas,Casares,Duero,42.927778,-5.758889
-2026-10-05,Castro,Duero,27,25,1,14,13,92.6,Castro,Embalse de Castro,Duero,Duero,41.5814768,-6.1676132
-2026-10-05,Castro de las Cogotas,Adaja,58,22,0,18,7,37.9,Castro de las Cogotas,Embalse de Castro de las Cogotas,Adaja,Duero,40.723889,-4.698333
-2026-10-05,Cernadilla,Tera,255,38,-8,297,39,14.9,Cernadilla,Embalse de Cernadilla,Tera,Duero,42.0124314,-6.5203088
-2026-10-05,Cervera,Rivera,10,9,0,3,2,90.0,Cervera,Embalse de Cervera,Rivera,Duero,42.866667,-4.528889
-2026-10-05,Compuerto,Carrión,95,23,-1,42,9,24.2,Compuerto,Embalse de Compuerto,Carrión,Duero,42.8789433,-4.8015285
-2026-10-05,Cuerda del Pozo,Duero,249,128,-2,58,32,51.4,Cuerda del Pozo,Embalse de Cuerda del Pozo,Duero,Duero,41.8546786,-2.7456298
-2026-10-05,Irueña,Águeda,110,54,-1,0,0,49.1,Irueña,Embalse de Irueña,Águeda,Duero,40.4463,-6.5766
-2026-10-05,Linares del Arroyo,Riaza,54,20,-1,14,5,37.0,Linares del Arroyo,Embalse de Linares del Arroyo,Riaza,Duero,41.5060816,-3.5268841
-2026-10-05,"Pontón Alto, El",Eresma,7,5,0,0,0,71.4,El Pontón Alto,Embalse de El Pontón Alto,Eresma,Duero,40.9142742,-4.0318696
-2026-10-05,Porma-(Juan Benet),Porma,318,122,-2,137,48,38.4,Porma-(Juan Benet),Embalse de Porma-(Juan Benet),Porma,Duero,42.9488854,-5.2815051
-2026-10-05,Puente Porto,Segundera,23,2,-1,54,5,8.7,Puente Porto,Embalse de Puente Porto,Segundera,Duero,42.1130422,-6.83376
-2026-10-05,Rábanos,Duero,8,8,0,3,3,100.0,Rábanos,Embalse de Rábanos,Duero,Duero,41.7264342231568,2.4518845045754
-2026-10-05,Requejada,Pisuerga,59,33,-1,23,12,55.9,Requejada,Embalse de Requejada,Pisuerga,Duero,42.9155016,-4.4992928
-2026-10-05,Riaño,Esla,641,239,-4,372,97,37.3,Riaño,Embalse de Riaño,Esla,Duero,42.9705355,-5.0156456
-2026-10-05,Ricobayo,Esla,1145,433,-65,945,329,37.8,Ricobayo,Embalse de Ricobayo,Esla,Duero,41.6588218,-5.8591247
-2026-10-05,San José,Duero,6,6,0,2,2,100.0,San José,Embalse de San José,Duero,Duero,41.4038271,-5.2730534
-2026-10-05,Santa Teresa,Tormes,496,233,-6,406,184,47.0,Santa Teresa,Embalse de Santa Teresa,Tormes,Duero,40.6690424,-5.6044606
-2026-10-05,Saucelle,Duero,181,176,1,10,9,97.2,Saucelle,Embalse de Saucelle,Duero,Duero,41.0872746,-6.7698536
-2026-10-05,Serones,Voltoya,6,6,0,0,0,100.0,Serones,Embalse de Serones,Voltoya,Duero,40.689722,-4.473889
-2026-10-05,Úzquiza,Arlanzón,75,46,-1,15,9,61.3,Úzquiza,Embalse de Úzquiza,Arlanzón,Duero,42.3069973,-3.3477076
-2026-10-05,Valparaíso,Tera,169,159,1,165,149,94.1,Valparaíso,Embalse de Valparaíso,Tera,Duero,41.9677297,-6.2933711
-2026-10-05,"Vencías, Las",Duratón,5,4,-1,2,1,80.0,Las Vencías,Embalse de Las Vencías,Duratón,Duero,41.4201845,-3.9604246
-2026-10-05,Villagonzalo,Tormes,6,6,0,3,3,100.0,Villagonzalo,Embalse de Villagonzalo,Tormes,Duero,40.8731953,-5.4951721
-2026-10-05,Villalcampo,Duero,66,63,1,41,39,95.5,Villalcampo,Embalse de Villalcampo,Duero,Duero,41.491111,-6.085278
-2026-10-05,Villameca,Tuerto,19,2,0,6,1,10.5,Villameca,Embalse de Villameca,Tuerto,Duero,42.6534432,-6.0778484
-2026-10-05,Aceña,Aceña,24,14,0,0,0,58.3,Aceña,Embalse de Aceña,Aceña,Tajo,40.6192838,-4.2211616
-2026-10-05,Alcántara,Tajo,3160,1764,-67,791,330,55.8,Alcántara,Embalse de Alcántara,Tajo,Tajo,39.73,-6.884722
-2026-10-05,Alcorlo,Bornova,180,96,-1,0,0,53.3,Alcorlo,Embalse de Alcorlo,Bornova,Tajo,41.022516,-3.0250778
-2026-10-05,Almoguera,Tajo,7,6,0,2,1,85.7,Almoguera,Embalse de Almoguera,Tajo,Tajo,40.275556,-2.9575
-2026-10-05,"Atance, El",Salado,35,18,0,0,0,51.4,El Atance,Embalse de El Atance,Salado,Tajo,41.0954055,-2.7792261
-2026-10-05,"Atazar, El",Lozoya,426,286,-3,0,0,67.1,El Atazar,Embalse de El Atazar,Lozoya,Tajo,40.9018994,-3.5433199
-2026-10-05,Azután,Tajo,113,79,-4,59,35,69.9,Azután,Embalse de Azután,Tajo,Tajo,39.7780137,-5.0884823
-2026-10-05,Baños,Baños,41,25,0,0,0,61.0,Baños,Embalse de Baños,Baños,Tajo,40.29054,-5.8894741
-2026-10-05,Beleña,Sorbe,53,21,-2,0,0,39.6,Beleña,Embalse de Beleña,Sorbe,Tajo,40.950963,-3.2018198
-2026-10-05,Bolarque,Tajo,31,27,0,15,10,87.1,Bolarque,Embalse de Bolarque,Tajo,Tajo,40.3637929600671,-2.81585645197501
-2026-10-05,Borbollon,Árrago,88,38,0,30,9,43.2,Borbollon,Embalse de Borbollon,Árrago,Tajo,40.141467,-6.5543199
-2026-10-05,Buendía,Guadiela,1705,797,6,1515,595,46.7,Buendía,Embalse de Buendía,Guadiela,Tajo,40.4132674480319,-2.72240670641006
-2026-10-05,Burguillo - Puente Nuevo,Alberche,201,89,0,218,62,44.3,Burguillo - Puente Nuevo,Embalse de Burguillo - Puente Nuevo,Alberche,Tajo,40.4234346,-4.5817889
-2026-10-05,Cáceres - Guadiloba,Guadiloba,20,10,0,0,0,50.0,Cáceres - Guadiloba,Embalse de Cáceres - Guadiloba,Guadiloba,Tajo,39.4859827,-6.2867284
-2026-10-05,Castrejón,Tajo,44,43,0,15,13,97.7,Castrejón,Embalse de Castrejón,Tajo,Tajo,39.8585834,-4.2871904
-2026-10-05,"Castro, El",Algodor,8,3,0,0,0,37.5,"Castro, El","Embalse de Castro, El",Algodor,Tajo,39.8079,-3.7514
-2026-10-05,Cazalegas,Alberche,7,6,0,0,0,85.7,Cazalegas,Embalse de Cazalegas,Alberche,Tajo,40.0169519,-4.6993044
-2026-10-05,Cedillo,Tajo,260,253,1,17,16,97.3,Cedillo,Embalse de Cedillo,Tajo,Tajo,39.666759981849,-7.53050026604892
-2026-10-05,Entrepeñas,Tajo,813,487,0,782,387,59.9,Entrepeñas,Embalse de Entrepeñas,Tajo,Tajo,40.5136201,-2.7307058
-2026-10-05,Finisterre,Algodor,133,24,0,0,0,18.0,Finisterre,Embalse de Finisterre,Algodor,Tajo,39.6192717,-3.6876803
-2026-10-05,Gabriel y Galán,Alagón,911,340,-8,419,39,37.3,Gabriel y Galán,Embalse de Gabriel y Galán,Alagón,Tajo,40.2819282,-6.1288426
-2026-10-05,Guajaraz,Guajaraz,18,15,0,0,0,83.3,Guajaraz,Embalse de Guajaraz,Guajaraz,Tajo,39.7957553,-4.0894544
-2026-10-05,Guijo de Granadilla,Alagón,13,12,0,3,2,92.3,Guijo de Granadilla,Embalse de Guijo de Granadilla,Alagón,Tajo,40.1928553,-6.1639671
-2026-10-05,"Jarosa, La",La Jarosa,7,3,0,0,0,42.9,La Jarosa,Embalse de La Jarosa,La Jarosa,Tajo,40.6690996,-4.1219537
-2026-10-05,Jerte - Plasencia,Jerte,59,29,-1,0,0,49.2,Jerte - Plasencia,Embalse de Jerte - Plasencia,Jerte,Tajo,40.0776825,-6.0136694
-2026-10-05,Molino de Chincha,Guadiela,6,5,0,4,3,83.3,Molino de Chincha,Embalse de Molino de Chincha,Guadiela,Tajo,40.5441727052279,-2.16835837509503
-2026-10-05,Navacerrada,Navacerrada,11,4,0,0,0,36.4,Navacerrada,Embalse de Navacerrada,Navacerrada,Tajo,40.7187095,-4.0069802
-2026-10-05,Navalcán,Guayerbas,34,20,-3,0,0,58.8,Navalcán,Embalse de Navalcán,Guayerbas,Tajo,40.0352162,-5.1145455
-2026-10-05,Navamuño,Angostura,14,6,0,0,0,42.9,Navamuño,Embalse de Navamuño,Angostura,Tajo,40.3431491,-5.7817325
-2026-10-05,Pálmaces,Cañamares,31,19,0,0,0,61.3,Pálmaces,Embalse de Pálmaces,Cañamares,Tajo,41.0593077,-2.9163471
-2026-10-05,"Pardo, El",Manzanares,43,13,0,0,0,30.2,El Pardo,Embalse de El Pardo,Manzanares,Tajo,40.538611,-3.786944
-2026-10-05,Picadas,Alberche,15,11,-3,9,5,73.3,Picadas,Embalse de Picadas,Alberche,Tajo,40.3332076,-4.2491977
-2026-10-05,Pinilla,Lozoya,38,17,0,0,0,44.7,Pinilla,Embalse de Pinilla,Lozoya,Tajo,40.9392529,-3.7955506
-2026-10-05,Portaje,Fresnedilla,23,16,1,0,0,69.6,Portaje,Embalse de Portaje,Fresnedilla,Tajo,39.8772877,-6.527643
-2026-10-05,"Portiña, La",Portiña,5,2,0,0,0,40.0,La Portiña,Embalse de La Portiña,Portiña,Tajo,40.0001945,-4.8423417
-2026-10-05,Puentes Viejas,Lozoya,53,32,0,0,0,60.4,Puentes Viejas,Embalse de Puentes Viejas,Lozoya,Tajo,40.9931645,-3.5709094
-2026-10-05,Riosequillo,Lozoya,50,32,-1,0,0,64.0,Riosequillo,Embalse de Riosequillo,Lozoya,Tajo,40.9830271,-3.6509177
-2026-10-05,Rivera de Gata,Rivera de Gata,49,8,0,0,0,16.3,Rivera de Gata,Embalse de Rivera de Gata,Rivera de Gata,Tajo,40.0663136276903,-6.6691687765364
-2026-10-05,Rosarito,Tiétar,82,11,3,0,0,13.4,Rosarito,Embalse de Rosarito,Tiétar,Tajo,40.1032226,-5.3076366
-2026-10-05,Salor,Salor,14,7,0,0,0,50.0,Salor,Embalse de Salor,Salor,Tajo,39.3541485830414,-6.28382202672256
-2026-10-05,San Juan,Alberche,138,71,-2,104,31,51.4,San Juan,Embalse de San Juan,Alberche,Tajo,40.3867776,-4.3449529
-2026-10-05,Santillana,Manzanares,91,52,-1,0,0,57.1,Santillana,Embalse de Santillana,Manzanares,Tajo,40.7183943,-3.8697527
-2026-10-05,"Tajera, La",Tajuña,64,33,-1,0,0,51.6,La Tajera,Embalse de La Tajera,Tajuña,Tajo,40.8549702,-2.6003235
-2026-10-05,Torcón,Torcón,7,3,0,0,0,42.9,Torcón,Embalse de Torcón,Torcón,Tajo,39.7667868188369,-4.41306706786682
-2026-10-05,Torrejón (Tajo - Tietar),Tiétar,188,153,-20,25,8,81.4,Torrejón (Tajo - Tietar),Embalse de Torrejón (Tajo - Tietar),Tiétar,Tajo,40.1956649164494,-4.8739305422929
-2026-10-05,"Vado, El",Jarama,56,16,-1,0,0,28.6,El Vado,Embalse de El Vado,Jarama,Tajo,41.0034172,-3.3008706
-2026-10-05,Valdecañas,Tajo,1446,790,27,664,261,54.6,Valdecañas,Embalse de Valdecañas,Tajo,Tajo,39.8189578,-5.4201377
-2026-10-05,Valdeobispo,Alagón,53,50,0,14,12,94.3,Valdeobispo,Embalse de Valdeobispo,Alagón,Tajo,40.1168156,-6.2389221
-2026-10-05,Valmayor,Aulencia,124,84,0,0,0,67.7,Valmayor,Embalse de Valmayor,Aulencia,Tajo,40.5458978,-4.0567709
-2026-10-05,"Vellón,El-(Pedrezuela)",Guadalix,41,33,0,0,0,80.5,El Vellón (Pedrezuela),Embalse de El Vellón (Pedrezuela),Guadalix,Tajo,40.7619893,-3.6244392
-2026-10-05,"Villar, El",Lozoya,23,15,0,0,0,65.2,El Villar,Embalse de El Villar,Lozoya,Tajo,40.9474275,-3.5630884
-2026-10-05,"Aguijón, El",Alcarrache,11,10,1,0,0,90.9,El Aguijón,Embalse de El Aguijón,Alcarrache,Guadiana,38.1286111,-2.7758333
-2026-10-05,Alange,Matachel,852,434,1,0,0,50.9,Alange,Embalse de Alange,Matachel,Guadiana,38.7478671,-6.2482149
-2026-10-05,Alcollarín,Alcollarín,52,19,0,0,0,36.5,Alcollarín,Embalse de Alcollarín,Alcollarín,Guadiana,39.2472299,-5.7484747
-2026-10-05,Andévalo,Malagón,634,538,-5,0,0,84.9,Andévalo,Embalse de Andévalo,Malagón,Guadiana,37.6753112,-7.179026
-2026-10-05,Boquerón,Rosal,6,4,0,0,0,66.7,Boquerón,Embalse de Boquerón,Rosal,Guadiana,39.1728495281979,-6.42720979818816
-2026-10-05,Brovales,Brovales,7,4,0,0,0,57.1,Brovales,Embalse de Brovales,Brovales,Guadiana,38.3558277,-6.6945568
-2026-10-05,Búrdalo,Búrdalo,79,22,0,0,0,27.8,Búrdalo,Embalse de Búrdalo,Búrdalo,Guadiana,39.1467077899557,-5.9623467648986
-2026-10-05,Canchales,Lácara,26,19,0,0,0,73.1,Canchales,Embalse de Canchales,Lácara,Guadiana,37.1569777,-3.4687701
-2026-10-05,Cancho del Fresno,Ruecas,15,12,0,0,0,80.0,Cancho del Fresno,Embalse de Cancho del Fresno,Ruecas,Guadiana,39.4020651,-5.3874113
-2026-10-05,Chanza,Chanza,338,194,1,0,0,57.4,Chanza,Embalse de Chanza,Chanza,Guadiana,37.5584663,-7.5207942
-2026-10-05,Cijara,Guadiana,1505,1138,1,296,216,75.6,Cijara,Embalse de Cijara,Guadiana,Guadiana,39.3244044,-4.8909681
-2026-10-05,Cornalbo,Albarregas,3,2,0,0,0,66.7,Cornalbo,Embalse de Cornalbo,Albarregas,Guadiana,38.9883478,-6.1910614
-2026-10-05,Cubilar,Cubilar,6,5,0,0,0,83.3,Cubilar,Embalse de Cubilar,Cubilar,Guadiana,37.2765577,-3.6711972
-2026-10-05,El Vicario,Guadiana,32,19,0,0,0,59.4,El Vicario,Embalse de El Vicario,Guadiana,Guadiana,39.059722,-3.995556
-2026-10-05,García de Sola,Guadiana,554,267,-1,38,6,48.2,García de Sola,Embalse de García de Sola,Guadiana,Guadiana,39.1682283294725,-5.21867504845419
-2026-10-05,Gargáligas,Gargáligas,21,14,0,0,0,66.7,Gargáligas,Embalse de Gargáligas,Gargáligas,Guadiana,39.0527721,-5.6523679
-2026-10-05,Gasset,Becea,39,25,0,0,0,64.1,Gasset,Embalse de Gasset,Becea,Guadiana,39.1420809,-3.9546877
-2026-10-05,Horno Tejero,Lácara,24,13,-1,0,0,54.2,Horno Tejero,Embalse de Horno Tejero,Lácara,Guadiana,39.1563553,-6.431699
-2026-10-05,La Cabezuela,Jabalón,43,23,0,0,0,53.5,La Cabezuela,Embalse de La Cabezuela,Jabalón,Guadiana,38.7143280356693,-3.25317552830371
-2026-10-05,La Colada,Guadamatilla,58,47,0,0,0,81.0,La Colada,Embalse de La Colada,Guadamatilla,Guadiana,38.5475,-5.0093
-2026-10-05,La Serena,Zújar,3219,2631,0,421,343,81.7,La Serena,Embalse de La Serena,Zújar,Guadiana,38.9285143,-5.2214477
-2026-10-05,Llerena,Conejo,8,7,0,0,0,87.5,Llerena,Embalse de Llerena,Conejo,Guadiana,38.3087412,-5.9105957
-2026-10-05,Los Molinos,Matachel,34,30,0,0,0,88.2,Los Molinos,Embalse de Los Molinos,Matachel,Guadiana,38.5133912654302,-6.11230521683746
-2026-10-05,Montijo,Guadiana,11,11,0,0,0,100.0,Montijo,Embalse de Montijo,Guadiana,Guadiana,38.933125,-6.4090668
-2026-10-05,Nogales,Nogales,18,12,1,0,0,66.7,Nogales,Embalse de Nogales,Nogales,Guadiana,38.5570713159997,-6.73067026391768
-2026-10-05,Orellana,Guadiana,808,593,0,20,0,73.4,Orellana,Embalse de Orellana,Guadiana,Guadiana,39.0324017,-5.3965729
-2026-10-05,Peñarroya,Guadiana,51,44,0,0,0,86.3,Peñarroya,Embalse de Peñarroya,Guadiana,Guadiana,39.0346779871601,-2.96199078698037
-2026-10-05,Piedra Aguda,Olivenza,16,12,0,0,0,75.0,Piedra Aguda,Embalse de Piedra Aguda,Olivenza,Guadiana,38.6630572,-7.0296822
-2026-10-05,Proserpina,Pardilla,5,4,0,0,0,80.0,Proserpina,Embalse de Proserpina,Pardilla,Guadiana,38.969544,-6.366433
-2026-10-05,Pto. Vallehermoso,Azuer,7,6,0,0,0,85.7,Pto. Vallehermoso,Embalse de Pto. Vallehermoso,Azuer,Guadiana,38.8614509645976,-3.16267524939947
-2026-10-05,Ruecas,Ruecas,42,28,0,0,0,66.7,Ruecas,Embalse del Ruecas,Ruecas,Guadiana,39.2829457084821,-5.47769001359411
-2026-10-05,Sierra Brava,Pizarroso,233,82,0,0,0,35.2,Sierra Brava,Embalse de Sierra Brava,Pizarroso,Guadiana,39.2315102,-5.6300233
-2026-10-05,Tentudia,Bodión,5,4,0,0,0,80.0,Tentudia,Embalse de Tentudia,Bodión,Guadiana,38.0935964,-6.3179551
-2026-10-05,Torre de Abrahán,Bullaque,183,134,-1,0,0,73.2,Torre de Abrahán,Embalse de Torre de Abrahán,Bullaque,Guadiana,39.3745771,-4.2477779
-2026-10-05,Valuengo,Ardila,20,7,0,0,0,35.0,Valuengo,Embalse de Valuengo,Ardila,Guadiana,38.3048965,-6.6678214
-2026-10-05,Vega del Jabalón,Jabalón,34,12,0,0,0,35.3,Vega del Jabalón,Embalse de Vega del Jabalón,Jabalón,Guadiana,38.8288405024577,-3.93834886181352
-2026-10-05,Villalba de los Barros,Guadajira,106,94,0,0,0,88.7,Villalba de los Barros,Embalse de Villalba de los Barros,Guadajira,Guadiana,38.5820754,-6.5051827
-2026-10-05,Villar del Rey,Zapatón,131,95,-1,0,0,72.5,Villar del Rey,Embalse de Villar del Rey,Zapatón,Guadiana,39.1319915,-6.8478307
-2026-10-05,Zújar,Zújar,302,260,2,18,14,86.1,Zújar,Embalse de Zújar,Zújar,Guadiana,38.916944,-5.478889
-2026-10-05,Corumbel Bajo,Corumbel,19,13,0,0,0,68.4,Corumbel Bajo,Embalse de Corumbel Bajo,Corumbel,"Tinto, Odiel y Piedras",37.4390078,-6.5576553
-2026-10-05,Jarrama,Jarrama,43,26,0,0,0,60.5,Jarrama,Embalse de Jarrama,Jarrama,"Tinto, Odiel y Piedras",37.6675839,-6.5094369
-2026-10-05,Los Machos,Piedras,12,3,0,0,0,25.0,Los Machos,Embalse de Los Machos,Piedras,"Tinto, Odiel y Piedras",37.3550949248481,-7.2544986479835
-2026-10-05,Odiel,Odiel,8,7,0,0,0,87.5,Odiel,Embalse de Odiel,Odiel,"Tinto, Odiel y Piedras",37.4699852233098,-6.74990954008527
-2026-10-05,Olivargas,Olivargas,29,22,0,0,0,75.9,Olivargas,Embalse de Olivargas,Olivargas,"Tinto, Odiel y Piedras",37.7195741,-6.8123247
-2026-10-05,Piedras,Piedras,60,26,-4,0,0,43.3,Piedras,Embalse de Piedras,Piedras,"Tinto, Odiel y Piedras",37.386156,-7.2679832
-2026-10-05,Sancho,Meca,58,48,0,0,0,82.8,Sancho,Embalse de Sancho,Meca,"Tinto, Odiel y Piedras",37.4793975,-7.0216191
-2026-10-05,Almodóvar,Almodóvar,6,3,0,0,0,50.0,Almodóvar,Embalse de Almodóvar,Almodóvar,Guadalete-Barbate,36.1560848,-5.6444806
-2026-10-05,Arcos de la Frontera,Guadalete,14,13,0,0,0,92.9,Arcos de la Frontera,Embalse de Arcos de la Frontera,Guadalete,Guadalete-Barbate,36.7638075,-5.7892476
-2026-10-05,Barbate,Barbate,228,157,-1,0,0,68.9,Barbate,Embalse de Barbate,Barbate,Guadalete-Barbate,36.381161,-5.7141879
-2026-10-05,Bornos,Guadalete,200,129,-1,18,10,64.5,Bornos,Embalse de Bornos,Guadalete,Guadalete-Barbate,36.8117195,-5.7141879
-2026-10-05,Celemín,Celemín,45,33,0,0,0,73.3,Celemín,Embalse de Celemín,Celemín,Guadalete-Barbate,36.3063696,-5.7536812
-2026-10-05,Guadalcacín II,Majaceite,800,675,-4,0,0,84.4,Guadalcacín II,Embalse de Guadalcacín II,Majaceite,Guadalete-Barbate,36.6333463680494,-5.7016050421496
-2026-10-05,"Hurones, Los",Majaceite,135,87,-2,23,12,64.4,Los Hurones,Embalse de Los Hurones,Majaceite,Guadalete-Barbate,36.6872725,-5.5341696
-2026-10-05,Zahara-El Gastor,Guadalete,223,146,-2,0,0,65.5,Zahara-El Gastor,Embalse de Zahara-El Gastor,Guadalete,Guadalete-Barbate,36.841141,-5.3704009
-2026-10-05,Agrio (Aznalcollar),Agrio,20,16,0,0,0,80.0,Agrio (Aznalcollar),Embalse de Agrio (Aznalcollar),Agrio,Guadalquivir,37.5191373,-6.2681327
-2026-10-05,Aguascebas,Aguascebas,6,3,0,0,0,50.0,Aguascebas,Embalse de Aguascebas,Aguascebas,Guadalquivir,38.0440983,-2.9506893
-2026-10-05,Aracena,Rivera de Huelva,129,103,0,0,0,79.8,Aracena,Embalse de Aracena,Rivera de Huelva,Guadalquivir,37.9205421,-6.4583355
-2026-10-05,Arenoso,Arenoso,167,116,0,0,0,69.5,Arenoso,Embalse de Arenoso,Arenoso,Guadalquivir,40.0938706,-0.5596874
-2026-10-05,Bembézar,Bembézar,328,254,-3,53,38,77.4,Bembézar,Embalse de Bembézar,Bembézar,Guadalquivir,37.977222,-5.302278
-2026-10-05,Bermejales,Cacín,91,61,-1,6,5,67.0,Bermejales,Embalse de Bermejales,Cacín,Guadalquivir,36.9846076,-3.8884417
-2026-10-05,"Bolera, La",Guadalentín,54,25,-1,0,0,46.3,La Bolera,Embalse de La Bolera,Guadalentín,Guadalquivir,37.7799373,-2.8963776
-2026-10-05,"Breña II, La",Guadiato,823,627,-1,0,0,76.2,La Breña II,Embalse de La Breña II,Guadiato,Guadalquivir,37.845556,-5.050556
-2026-10-05,Cala,Rivera de Cala,59,28,0,21,10,47.5,Cala,Embalse de Cala,Rivera de Cala,Guadalquivir,37.7113698,-6.1043336
-2026-10-05,Canales,Genil,70,57,0,43,39,81.4,Canales,Embalse de Canales,Genil,Guadalquivir,37.1569777,-3.4687701
-2026-10-05,Colomera,Colomera,40,31,0,0,0,77.5,Colomera,Embalse de Colomera,Colomera,Guadalquivir,37.4031614,-3.7193936
-2026-10-05,Cubillas,Cubillas,14,7,0,0,0,50.0,Cubillas,Embalse de Cubillas,Cubillas,Guadalquivir,37.2765577,-3.6711972
-2026-10-05,El Portillo,Castril,31,29,0,0,0,93.5,El Portillo,Embalse de El Portillo,Castril,Guadalquivir,37.805833,-2.788889
-2026-10-05,"Fernandina, La",Guarrizas,247,177,0,0,0,71.7,La Fernandina,Embalse de La Fernandina,Guarrizas,Guadalquivir,38.2070039,-3.5736771
-2026-10-05,Francisco Abellán,Fardes,58,25,0,0,0,43.1,Francisco Abellán,Embalse de Francisco Abellán,Fardes,Guadalquivir,37.3076425,-3.2703078
-2026-10-05,Fresneda,Fresneda,19,15,0,0,0,78.9,Fresneda,Embalse de Fresneda,Fresneda,Guadalquivir,38.5406973804847,-3.61862802771065
-2026-10-05,Gergal,Rivera de Huelva,35,23,-1,0,0,65.7,Gergal,Embalse de Gergal,Rivera de Huelva,Guadalquivir,37.570278,-6.049167
-2026-10-05,Giribaile,Guadalimar,491,341,-4,0,0,69.5,Giribaile,Embalse de Giribaile,Guadalimar,Guadalquivir,38.1100868,-3.4624575
-2026-10-05,Guadalén,Guadalén,163,72,0,13,5,44.2,Guadalén,Embalse de Guadalén,Guadalén,Guadalquivir,38.1890877,-3.4675075
-2026-10-05,Guadalmellato,Guadalmellato,145,119,0,13,10,82.1,Guadalmellato,Embalse de Guadalmellato,Guadalmellato,Guadalquivir,38.068056,-4.689167
-2026-10-05,Guadalmena,Guadalmena,345,270,-3,86,37,78.3,Guadalmena,Embalse de Guadalmena,Guadalmena,Guadalquivir,38.3939057,-2.9051132
-2026-10-05,Huesna,Rivera de Huesna,135,91,0,0,0,67.4,Huesna,Embalse de Huesna,Rivera de Huesna,Guadalquivir,37.7834728470249,-5.68847713732673
-2026-10-05,Iznájar,Genil,920,673,-3,279,103,73.2,Iznájar,Embalse de Iznájar,Genil,Guadalquivir,37.258424,-4.3282595
-2026-10-05,Jándula,Jándula,325,180,-2,86,13,55.4,Jándula,Embalse de Jándula,Jándula,Guadalquivir,38.2587298,-3.9342953
-2026-10-05,José Torán,Guadalbarcar,101,57,0,0,0,56.4,José Torán,Embalse de José Torán,Guadalbarcar,Guadalquivir,37.7480606,-5.4845959
-2026-10-05,Martín Gonzalo,Martín Gonzalo,20,13,0,0,0,65.0,Martín Gonzalo,Embalse de Martín Gonzalo,Martín Gonzalo,Guadalquivir,38.1018411,-4.3301854
-2026-10-05,"Melonares, Los",Viar,186,159,-3,0,0,85.5,Los Melonares,Embalse de Los Melonares,Viar,Guadalquivir,37.765257,-5.890794
-2026-10-05,"Minilla, La",Rivera de Huelva,58,31,-4,0,0,53.4,La Minilla,Embalse de La Minilla,Rivera de Huelva,Guadalquivir,37.6893836,-6.1957953
-2026-10-05,Montoro,Montoro,105,93,-1,0,0,88.6,Montoro,Embalse de Montoro,Montoro,Guadalquivir,38.0226527,-4.3834962
-2026-10-05,Negratín,Guadiana Menor,571,334,-1,45,25,58.5,Negratín,Embalse de Negratín,Guadiana Menor,Guadalquivir,37.5928463,-2.8315345
-2026-10-05,"Pintado, El",Viar,215,166,0,77,56,77.2,El Pintado,Embalse de El Pintado,Viar,Guadalquivir,37.9869909,-5.9554931
-2026-10-05,Puebla de Cazalla,Carbones,63,38,-1,0,0,60.3,Puebla de Cazalla,Embalse de Puebla de Cazalla,Carbones,Guadalquivir,37.1223564,-5.2201428
-2026-10-05,Puente Nuevo,Guadiato,281,209,-2,9,5,74.4,Puente Nuevo,Embalse de Puente Nuevo,Guadiato,Guadalquivir,38.1022203,-4.9402863
-2026-10-05,Quéntar,Aguas Blancas,14,3,-1,0,0,21.4,Quéntar,Embalse de Quéntar,Aguas Blancas,Guadalquivir,37.2081452,-3.4340605
-2026-10-05,Quiebrajano,Quiebrajano,33,27,0,4,3,81.8,Quiebrajano,Embalse de Quiebrajano,Quiebrajano,Guadalquivir,37.6292053,-3.7270077
-2026-10-05,Retortillo,Retortillo,61,42,-1,2,1,68.9,Retortillo,Embalse de Retortillo,Retortillo,Guadalquivir,37.8522348,-5.3717092
-2026-10-05,Rumblar,Rumblar,140,81,-1,16,10,57.9,Rumblar,Embalse de Rumblar,Rumblar,Guadalquivir,38.1911604,-3.7854209
-2026-10-05,San Clemente,Guardal,117,21,0,0,0,17.9,San Clemente,Embalse de San Clemente,Guardal,Guadalquivir,37.8666913,-2.6462262
-2026-10-05,San Rafael de Navallana,Guadalmellato,160,74,-2,0,0,46.2,San Rafael de Navallana,Embalse de San Rafael de Navallana,Guadalmellato,Guadalquivir,37.9896207,-4.6256661
-2026-10-05,Sierra Boyera,Guadiato,39,29,0,0,0,74.4,Sierra Boyera,Embalse de Sierra Boyera,Guadiato,Guadalquivir,38.2744896,-5.2488573
-2026-10-05,Siles,Guadalimar,30,21,0,0,0,70.0,Siles,Embalse de Siles,Guadalimar,Guadalquivir,38.405301761574,-2.60556982434747
-2026-10-05,Torre del Águila,Salado,48,8,-1,0,0,16.7,Torre del Águila,Embalse de Torre del Águila,Salado,Guadalquivir,37.0524002,-5.7518088
-2026-10-05,Tranco de Beas,Guadalquivir,506,364,-3,175,66,71.9,Tranco de Beas,Embalse de Tranco de Beas,Guadalquivir,Guadalquivir,38.1286111,-2.7758333
-2026-10-05,Vadomojón,Guadajoz,146,115,-2,0,0,78.8,Vadomojón,Embalse de Vadomojón,Guadajoz,Guadalquivir,37.6350312,-4.2256464
-2026-10-05,Víboras,Víboras,17,8,0,0,0,47.1,Víboras,Embalse de Víboras,Víboras,Guadalquivir,37.6381932656207,-3.98761741964581
-2026-10-05,Yeguas,Yeguas,229,176,-1,29,22,76.9,Yeguas,Embalse de Yeguas,Yeguas,Guadalquivir,38.080556,-4.230556
-2026-10-05,Zufre,Rivera de Huelva,175,134,-1,0,0,76.6,Zufre,Embalse de Zufre,Rivera de Huelva,Guadalquivir,37.8275653,-6.297357
-2026-10-05,Benínar,Grande de Adra,63,10,0,0,0,15.9,Benínar,Embalse de Benínar,Grande de Adra,Cuenca Mediterránea Andaluza,36.8825,-3.025278
-2026-10-05,Béznar,Izbor,53,36,-1,0,0,67.9,Béznar,Embalse de Béznar,Izbor,Cuenca Mediterránea Andaluza,36.921389,-3.552222
-2026-10-05,Casasola,Campanillas,22,7,0,0,0,31.8,Casasola,Embalse de Casasola,Campanillas,Cuenca Mediterránea Andaluza,36.8081341064868,-4.49235673083119
-2026-10-05,Charco Redondo,Palmones,82,50,-1,0,0,61.0,Charco Redondo,Embalse de Charco Redondo,Palmones,Cuenca Mediterránea Andaluza,36.253889,-5.565
-2026-10-05,Concepción,Verde de Marbella,62,30,-1,0,0,48.4,Concepción,Embalse de Concepción,Verde de Marbella,Cuenca Mediterránea Andaluza,36.548231,-4.9623639
-2026-10-05,Conde Guadalhorce,Turón,66,41,-1,5,4,62.1,Conde Guadalhorce,Embalse de Conde Guadalhorce,Turón,Cuenca Mediterránea Andaluza,36.7100573211009,-4.57549907665795
-2026-10-05,Cuevas de Almanzora,Almanzora,161,15,1,0,0,9.3,Cuevas de Almanzora,Embalse de Cuevas de Almanzora,Almanzora,Cuenca Mediterránea Andaluza,37.3315192,-1.8964922
-2026-10-05,Guadalhorce-Guadalteba,Gudalhorce-Guadalteba,279,250,-1,23,23,89.6,Guadalhorce-Guadalteba,Embalse de Guadalhorce-Guadalteba,Gudalhorce-Guadalteba,Cuenca Mediterránea Andaluza,36.9551122,-4.8391015
-2026-10-05,Guadarranque,Guadarranque,88,67,0,0,0,76.1,Guadarranque,Embalse de Guadarranque,Guadarranque,Cuenca Mediterránea Andaluza,36.318611,-5.468333
-2026-10-05,Limonero,Guadalmedina,22,14,0,0,0,63.6,Limonero,Embalse de Limonero,Guadalmedina,Cuenca Mediterránea Andaluza,36.7703091,-4.4317144
-2026-10-05,Rules,Guadalfeo,111,91,-1,0,0,82.0,Rules,Embalse de Rules,Guadalfeo,Cuenca Mediterránea Andaluza,36.8598329,-3.4953143
-2026-10-05,"Viñuela, La",Guaro,165,139,0,0,0,84.2,La Viñuela,Embalse de La Viñuela,Guaro,Cuenca Mediterránea Andaluza,36.8785087,-4.1692941
-2026-10-05,Alfonso XIII,Quípar,22,0,0,4,0,0.0,Alfonso XIII,Embalse de Alfonso XIII,Quípar,Segura,38.2146862,-1.6044591
-2026-10-05,Algeciras,Algeciras,45,8,0,0,0,17.8,Algeciras,Embalse de Algeciras,Algeciras,Segura,37.8921029,-1.3915491
-2026-10-05,Anchuricas,Segura,6,1,0,4,1,16.7,Anchuricas,Embalse de Anchuricas,Segura,Segura,38.1958611,-2.5430087
-2026-10-05,Argos,Argos,10,6,0,2,1,60.0,Argos,Embalse de Argos,Argos,Segura,38.1685604,-1.7398895
-2026-10-05,Camarillas,Mundo,36,9,0,8,2,25.0,Camarillas,Embalse de Camarillas,Mundo,Segura,38.3605308,-1.6347878
-2026-10-05,Cenajo,Segura,437,256,-5,103,57,58.6,Cenajo,Embalse de Cenajo,Segura,Segura,38.3722005,-1.8257384
-2026-10-05,"Cierva, La",Mula,7,4,0,0,0,57.1,La Cierva,Embalse de La Cierva,Mula,Segura,38.0611831,-1.4865835
-2026-10-05,Crevillente,Rambla de Bosch,13,8,0,0,0,61.5,Crevillente,Embalse de Crevillente,Rambla de Bosch,Segura,38.2446844,-0.8113636
-2026-10-05,Fuensanta,Segura,210,152,-4,45,34,72.4,Fuensanta,Embalse de Fuensanta,Segura,Segura,38.4066732,-2.2642702
-2026-10-05,La Pedrera,Dep.Arr.Grande,246,88,1,0,0,35.8,La Pedrera,Embalse de La Pedrera,Dep.Arr.Grande,Segura,38.0338723,-0.8710856
-2026-10-05,Puentes,Guadalentín,26,12,0,0,0,46.2,Puentes,Embalse de Puentes,Guadalentín,Segura,37.7348846,-1.8192702
-2026-10-05,Santomera,Rambla Salada,26,2,-1,0,0,7.7,Santomera,Embalse de Santomera,Rambla Salada,Segura,38.0953218,-1.0885631
-2026-10-05,Taibilla,Taibilla,9,8,0,2,2,88.9,Taibilla,Embalse de Taibilla,Taibilla,Segura,38.1930152,-2.2615004
-2026-10-05,Talave,Mundo,35,8,0,10,2,22.9,Talave,Embalse de Talave,Mundo,Segura,38.5094017,-1.8781829
-2026-10-05,Valdeinfierno,Alcaide,12,0,0,0,0,0.0,Valdeinfierno,Embalse de Valdeinfierno,Alcaide,Segura,37.8109247,-1.9710284
-2026-10-05,Alarcón,Júcar,1118,798,1,1596,1145,71.4,Alarcón,Embalse de Alarcón,Júcar,Júcar,39.6539699,-2.2162882
-2026-10-05,Algar,Palancia,6,0,0,0,0,0.0,Algar,Embalse de Algar,Palancia,Júcar,39.7879092,-0.3765436
-2026-10-05,Amadorio,Amadorio,16,4,0,0,0,25.0,Amadorio,Embalse de Amadorio,Amadorio,Júcar,38.535209,-0.2632115
-2026-10-05,Arenós,Mijares,137,52,0,113,45,38.0,Arenós,Embalse de Arenós,Mijares,Júcar,40.0938706,-0.5596874
-2026-10-05,Arquillo de San Blas,Turia,21,14,0,7,5,66.7,Arquillo de San Blas,Embalse de Arquillo de San Blas,Turia,Júcar,40.3718676,-1.2295586
-2026-10-05,Bellús,Albaida,69,11,1,0,0,15.9,Bellús,Embalse de Bellús,Albaida,Júcar,38.9312654,-0.4755993
-2026-10-05,Benagéber,Turia,221,80,1,59,21,36.2,Benagéber,Embalse de Benagéber,Turia,Júcar,39.7419003,-1.1137191
-2026-10-05,Beniarrés,Serpis,27,6,0,0,0,22.2,Beniarrés,Embalse de Beniarrés,Serpis,Júcar,38.8149329,-0.3561709
-2026-10-05,Buseo,Sot de Chera,8,1,0,0,0,12.5,Buseo,Embalse de Buseo,Sot de Chera,Júcar,39.594722,-0.938611
-2026-10-05,Contreras,Cabriel,361,247,-3,232,159,68.4,Contreras,Embalse de Contreras,Cabriel,Júcar,39.5928206,-1.5232832
-2026-10-05,Cortes II,Júcar,118,109,-1,17,12,92.4,Cortes II,Embalse de Cortes II,Júcar,Júcar,39.2620263,-0.9183368
-2026-10-05,El Naranjero,Júcar,29,22,-3,0,0,75.9,El Naranjero,Embalse de El Naranjero,Júcar,Júcar,39.275282,-0.8609602
-2026-10-05,Escalona,Escalona,99,5,0,0,0,5.1,Escalona,Embalse de Escalona,Escalona,Júcar,39.1281706,-0.7063724
-2026-10-05,Forata,Magro,37,17,0,0,0,45.9,Forata,Embalse de Forata,Magro,Júcar,39.3420541,-0.8663219
-2026-10-05,Guadalest,Guadalest,13,3,0,0,0,23.1,Guadalest,Embalse de Guadalest,Guadalest,Júcar,38.6836086,-0.2004374
-2026-10-05,La Muela,Júcar,20,10,4,0,0,50.0,La Muela,Embalse de La Muela,Júcar,Júcar,39.2620263,-0.9183368
-2026-10-05,La Toba,Júcar,10,4,0,17,7,40.0,La Toba,Embalse de La Toba,Júcar,Júcar,40.2082812,-1.9068708
-2026-10-05,Loriguilla,Turia,73,22,0,18,6,30.1,Loriguilla,Embalse de Loriguilla,Turia,Júcar,39.675286,-0.9187842
-2026-10-05,María Cristina,Rambla Viuda,18,5,0,0,0,27.8,María Cristina,Embalse de María Cristina,Rambla Viuda,Júcar,40.0356395,-0.1606176
-2026-10-05,Regajo,Palancia,6,2,0,0,0,33.3,Regajo,Embalse de Regajo,Palancia,Júcar,39.8933544,-0.5275546
-2026-10-05,Sichar,Mijares,49,15,0,3,1,30.6,Sichar,Embalse de Sichar,Mijares,Júcar,40.0156221,-0.2420576
-2026-10-05,Tous - La Ribera,Júcar,379,42,-1,0,0,11.1,Tous - La Ribera,Embalse de Tous - La Ribera,Júcar,Júcar,39.145556,-0.66
-2026-10-05,Ulldecona,Cenia,11,7,-1,0,0,63.6,Ulldecona,Embalse de Ulldecona,Cenia,Júcar,40.670833,0.231111
-2026-10-05,Albiña,Albiña,5,3,0,3,2,60.0,Albiña,Embalse de Albiña,Albiña,Ebro,43.0027839,-2.6276116
-2026-10-05,Alcañiz (Estanca),Guadalope,7,6,0,3,2,85.7,Alcañiz (Estanca),Embalse de Alcañiz (Estanca),Guadalope,Ebro,41.0510353,-0.1335373
-2026-10-05,Alloz,Salado,66,21,-2,40,12,31.8,Alloz,Embalse de Alloz,Salado,Ebro,42.7218764,-1.936573
-2026-10-05,Barasona,Ésera,85,14,-1,54,9,16.5,Barasona,Embalse de Barasona,Ésera,Ebro,42.1411111,0.3261111
-2026-10-05,Baserca,Noguera-Ribagorzana,22,13,0,98,58,59.1,Baserca,Embalse de Baserca,Noguera-Ribagorzana,Ebro,42.5913193,0.7615995
-2026-10-05,Búbal,Gállego,63,3,0,73,3,4.8,Búbal,Embalse de Búbal,Gállego,Ebro,42.7010756,-0.312503
-2026-10-05,Calanda,Guadalope,54,26,-1,16,7,48.1,Calanda,Embalse de Calanda,Guadalope,Ebro,40.9067308,-0.2092267
-2026-10-05,Camarasa,Noguera-Pallaresa,163,85,-2,63,19,52.1,Camarasa,Embalse de Camarasa,Noguera-Pallaresa,Ebro,41.9350644,0.8567905
-2026-10-05,Canelles,Noguera-Ribagorzana,679,313,-4,395,156,46.1,Canelles,Embalse de Canelles,Noguera-Ribagorzana,Ebro,41.9784145,0.61246
-2026-10-05,Cañón de Santolea,Guadalope,82,15,0,9,0,18.3,Cañón de Santolea,Embalse del Cañón de Santolea,Guadalupe,Ebro,40.7564462,-0.3538888
-2026-10-05,Caspe,Guadalope,82,51,0,17,10,62.2,Caspe,Embalse de Caspe,Guadalope,Ebro,41.1212587,-0.0244872
-2026-10-05,Cavallers,Noguera de Tort,16,12,0,54,41,75.0,Cavallers,Embalse de Cavallers,Noguera de Tort,Ebro,42.5906494,0.8567905
-2026-10-05,Certescáns,Certescáns,16,8,0,97,45,50.0,Certescáns,Embalse de Certescáns,Certescáns,Ebro,42.703887,1.3065128
-2026-10-05,Ciurana,Ciurana,12,9,0,0,0,75.0,Ciurana,Embalse de Ciurana,Ciurana,Ebro,41.2508273,0.9126746
-2026-10-05,Cueva Foradada,Martín,22,16,0,4,3,72.7,Cueva Foradada,Embalse de Cueva Foradada,Martín,Ebro,40.9704816,-0.6950987
-2026-10-05,Ebro,Ebro,541,287,-7,468,248,53.0,Ebro,Embalse de Ebro,Ebro,Ebro,43.0206347,-3.9164585
-2026-10-05,Enciso,Cidacos,46,18,0,19,7,39.1,Enciso,Embalse de Enciso,Cidacos,Ebro,42.1426477081533,-2.27923341045313
-2026-10-05,Escales,Noguera-Ribagorzana,152,124,-4,149,119,81.6,Escales,Embalse de Escales,Noguera-Ribagorzana,Ebro,42.3259265,0.742902
-2026-10-05,Eúgui,Arga,21,10,0,10,4,47.6,Eúgui,Embalse de Eúgui,Arga,Ebro,42.9790958,-1.5172315
+2026-10-05,Añarbe,Añarbe,38,21,-1.0,0,0,55.3,Añarbe,Embalse de Añarbe,Añarbe,Cantábrico Oriental,43.2205115,-1.8751321
+2026-10-05,Ibiur,Ibiur,8,6,0.0,0,0,75.0,Ibiur,Embalse de Ibiur,Ibiur,Cantábrico Oriental,43.081951,-2.1254698
+2026-10-05,Ordunte,Ordunte,22,11,-1.0,0,0,50.0,Ordunte,Embalse del Ordunte,Ordunte,Cantábrico Oriental,43.1611914,-3.2823462
+2026-10-05,San Antón,Endara,5,4,0.0,0,0,80.0,San Antón,Embalse de San Antón,Endara,Cantábrico Oriental,43.2743832838029,-1.77348065861694
+2026-10-05,Alfilorios,Barrea,8,3,0.0,0,0,37.5,Alfilorios,Embalse de Alfilorios,Barrea,Cantábrico Occidental,43.2917805,-5.917858
+2026-10-05,Alsa - Mediajo,Torina,22,18,-1.0,27,15,81.8,Alsa - Mediajo,Embalse de Alsa - Mediajo,Torina,Cantábrico Occidental,43.078611,-3.957222
+2026-10-05,Arbón,Navia,41,37,0.0,1,1,90.2,Arbón,Embalse de Arbón,Navia,Cantábrico Occidental,43.4770527,-6.7302435
+2026-10-05,"Barca, La",Narcea,29,23,-1.0,3,2,79.3,La Barca,Embalse de La Barca,Narcea,Cantábrico Occidental,43.296808,-6.3405544
+2026-10-05,"Cohilla, La",Nansa,12,2,0.0,16,3,16.7,La Cohilla,Embalse de La Cohilla,Nansa,Cantábrico Occidental,43.1332518,-4.3902585
+2026-10-05,Doiras,Navia,97,71,-1.0,19,12,73.2,Doiras,Embalse de Doiras,Navia,Cantábrico Occidental,43.387222,-6.823889
+2026-10-05,Rioseco,Nalón,4,3,0.0,0,0,75.0,Rioseco,Embalse de Rioseco,Nalón,Cantábrico Occidental,43.2246056,-5.4633649
+2026-10-05,Salime,Navia,238,99,-6.0,99,32,41.6,Salime,Embalse de Salime,Navia,Cantábrico Occidental,43.1590562,-6.8692778
+2026-10-05,Tanes,Nalón,34,20,-2.0,6,2,58.8,Tanes,Embalse de Tanes,Nalón,Cantábrico Occidental,43.2050532,-5.4050813
+2026-10-05,Albarellos,Avia,91,22,-2.0,32,6,24.2,Albarellos,Embalse de Albarellos,Avia,Miño-Sil,42.3991760357656,-8.20234891317513
+2026-10-05,Bao,Bibey,238,204,-2.0,290,239,85.7,Bao,Embalse de Bao,Bibey,Miño-Sil,42.2484,-7.1664
+2026-10-05,Bárcena,Sil,341,218,-11.0,333,181,63.9,Bárcena,Embalse de Bárcena,Sil,Miño-Sil,42.5775131,-6.559887
+2026-10-05,Belesar,Miño,655,184,-8.0,370,73,28.1,Belesar,Embalse de Belesar,Miño,Miño-Sil,42.6286685,-7.7121655
+2026-10-05,"Campañana, La",Sil,14,9,-1.0,8,4,64.3,La Campañana,Embalse de La Campañana,Sil,Miño-Sil,42.5056303,-6.7818585
+2026-10-05,Castrelo,Miño,60,51,-1.0,4,3,85.0,Castrelo,Embalse de Castrelo,Miño,Miño-Sil,42.4811884,-8.803152
+2026-10-05,Cenza,Cenza,40,9,-5.0,112,15,22.5,Cenza,Embalse de Cenza,Cenza,Miño-Sil,42.2009154691097,-7.26317246356753
+2026-10-05,Chandrexa,Navea,61,26,-4.0,101,34,42.6,Chandrexa,Embalse de Chandrexa,Navea,Miño-Sil,42.2500206,-7.4172309
+2026-10-05,"Conchas, Las",Limia,80,29,-2.0,30,9,36.2,Las Conchas,Embalse de Las Conchas,Limia,Miño-Sil,41.9691216790891,-7.97958471458453
+2026-10-05,Edrada-Mao,Mao,14,3,-1.0,22,5,21.4,Edrada-Mao,Embalse de Edrada-Mao,Mao,Miño-Sil,42.1489919,-7.2346105
+2026-10-05,Frieira,Miño,44,38,-1.0,1,1,86.4,Frieira,Embalse de Frieira,Miño,Miño-Sil,42.2099606,-8.1919112
+2026-10-05,Guístolas,Navea,5,2,0.0,4,0,40.0,Guístolas,Embalse de Guístolas,Navea,Miño-Sil,42.3387768910082,-7.31496286831345
+2026-10-05,Matalavilla,Valseco,65,31,3.0,115,46,47.7,Matalavilla,Embalse de Matalavilla,Valseco,Miño-Sil,42.8353684,-6.4330305
+2026-10-05,Montefurado,Bibey-Sil,10,10,0.0,4,4,100.0,Montefurado,Embalse de Montefurado,Bibey-Sil,Miño-Sil,42.3956785,-7.2029234
+2026-10-05,"Peares, Os",Miño,182,164,-6.0,50,44,90.1,Os Peares,Embalse de Os Peares,Miño,Miño-Sil,42.532535,-7.7104428
+2026-10-05,Peñarrubia,Sil,13,11,0.0,5,4,84.6,Peñarrubia,Embalse de Peñarrubia,Sil,Miño-Sil,42.4625865,-6.8123247
+2026-10-05,Pías (San Agustín),Bibey,10,4,0.0,19,6,40.0,Pías (San Agustín),Embalse de Pías (San Agustín),Bibey,Miño-Sil,42.1110396,-6.9893766
+2026-10-05,"Portas, Las",Camba,536,304,-32.0,906,444,56.7,Las Portas,Embalse de Las Portas,Camba,Miño-Sil,42.1167,-7.2093
+2026-10-05,Prada,Jares,122,86,-3.0,221,153,70.5,Prada,Embalse de Prada,Jares,Miño-Sil,42.2996301,-7.0377463
+2026-10-05,"Rozas, Las",Sil,28,6,-2.0,55,10,21.4,Las Rozas,Embalse de Las Rozas,Sil,Miño-Sil,42.9182108,-6.3398896
+2026-10-05,Salas,Salas,87,25,-1.0,79,21,28.7,Salas,Embalse de Salas,Salas,Miño-Sil,41.9864525860087,-7.99955535999446
+2026-10-05,San. Estevo,Sil,213,170,-16.0,77,58,79.8,San. Estevo,Embalse de San. Estevo,Sil,Miño-Sil,42.3854073227088,-7.51184114103975
+2026-10-05,San Martiño,Sil,10,9,0.0,2,2,90.0,San Martiño,Embalse de San Martiño,Sil,Miño-Sil,42.3854742850496,-7.11754672838874
+2026-10-05,San Pedro,Sil,6,5,0.0,1,0,83.3,San Pedro,Embalse de San Pedro,Sil,Miño-Sil,42.4525907727791,-7.71931774590953
+2026-10-05,San Sebastián,Bibey,46,14,-1.0,116,35,30.4,San Sebastián,Embalse de San Sebastián,Bibey,Miño-Sil,42.1487345,-6.935674
+2026-10-05,Santa Eulalia,Jares,10,6,-2.0,7,2,60.0,Santa Eulalia,Embalse de Santa Eulalia,Jares,Miño-Sil,42.3497,-7.0625
+2026-10-05,Sequeiros,Sil,11,10,0.0,3,3,90.9,Sequeiros,Embalse de Sequeiros,Sil,Miño-Sil,42.4377020336185,-7.21673321471883
+2026-10-05,Velle,Miño,17,14,1.0,1,1,82.4,Velle,Embalse de Velle,Miño,Miño-Sil,42.3787614,-7.8265973
+2026-10-05,Vilasouto,Mao,21,7,0.0,0,0,33.3,Vilasouto,Embalse de Vilasouto,Mao,Miño-Sil,42.6639318,-7.417857
+2026-10-05,Barrie de la Maza,Tambre,31,10,0.0,8,2,32.3,Barrie de la Maza,Embalse de Barrie de la Maza,Tambre,Galicia Costa,42.8727676,-8.7584426
+2026-10-05,Cecebre,Mero,22,10,-1.0,0,0,45.5,Cecebre,Embalse de Cecebre,Mero,Galicia Costa,43.2829606,-8.2977251
+2026-10-05,Eiras,Oitavén,22,11,0.0,0,0,50.0,Eiras,Embalse de Eiras,Oitavén,Galicia Costa,42.3461379,-8.4903865
+2026-10-05,Eume,Eume,123,84,-2.0,54,36,68.3,Eume,Embalse de Eume,Eume,Galicia Costa,43.3763925,-7.9906232
+2026-10-05,Fervenza,Jallas,103,39,-2.0,112,41,37.9,Fervenza,Embalse de Fervenza,Jallas,Galicia Costa,42.9975289,-8.9935558
+2026-10-05,"Forcadas, As",Forcadas,11,4,0.0,0,0,36.4,As Forcadas,Embalse de As Forcadas,Forcadas,Galicia Costa,43.6176,-8.0839
+2026-10-05,Portodemouros,Ulla,297,139,-7.0,39,12,46.8,Portodemouros,Embalse de Portodemouros,Ulla,Galicia Costa,42.8388311,-8.1297595
+2026-10-05,"Ribeira, A",Eume,33,17,0.0,16,6,51.5,A Ribeira,Embalse de A Ribeira,Eume,Galicia Costa,42.5540645,-8.9922481
+2026-10-05,Riocobo,Cobo,6,2,0.0,0,0,33.3,Riocobo,Embalse de Riocobo,Cobo,Galicia Costa,43.6748439567132,-7.44653815686947
+2026-10-05,Sta Uxia,Jallas,18,12,1.0,7,3,66.7,Sta Uxia,Embalse de Sta Uxia,Jallas,Galicia Costa,42.9176447321584,-9.09925275911726
+2026-10-05,Villagudín,Veduino,18,15,0.0,0,0,83.3,Villagudín,Embalse de Villagudín,Veduino,Galicia Costa,43.094887,-8.4915277
+2026-10-05,Ibai-Eder,Ibai-Eder,11,7,0.0,0,0,63.6,Ibai-Eder,Embalse de Ibai-Eder,Ibai-Eder,Cuencas Internas del País Vasco,43.1234072098623,-2.22521233982946
+2026-10-05,Urkulu,Urkulu,10,8,0.0,0,0,80.0,Urkulu,Embalse de Urkulu,Urkulu,Cuencas Internas del País Vasco,43.0190927,-2.4784518
+2026-10-05,"Agavanzal, Nª Sª de",Tera,36,35,1.0,34,29,97.2,Nuestra Señora de Agavanzal,Embalse de Nuestra Señora de Agavanzal,Tera,Duero,41.9751551189605,-6.15928175503354
+2026-10-05,Águeda,Águeda,15,10,0.0,0,0,66.7,Águeda,Embalse de Águeda,Águeda,Duero,40.5298774,-6.4816084
+2026-10-05,Aguilar,Pisuerga,247,99,-2.0,66,26,40.1,Aguilar,Embalse de Aguilar,Pisuerga,Duero,42.8095736,-4.3128549
+2026-10-05,Aldeadávila,Duero,114,110,5.0,35,33,96.5,Aldeadávila,Embalse de Aldeadávila,Duero,Duero,41.2113789,-6.6862008
+2026-10-05,Almendra,Tormes,2649,1477,-103.0,3458,1906,55.8,Almendra,Embalse de Almendra,Tormes,Duero,41.2607875,-6.2694608
+2026-10-05,Arlanzón,Arlanzón,22,9,0.0,4,2,40.9,Arlanzón,Embalse de Arlanzón,Arlanzón,Duero,42.252480475864,-3.33593499944234
+2026-10-05,Barrios de Luna,Luna,311,73,-1.0,252,56,23.5,Barrios de Luna,Embalse de Barrios de Luna,Luna,Duero,42.8497549,-5.8637585
+2026-10-05,Burgomillodo,Duratón,14,8,-2.0,6,3,57.1,Burgomillodo,Embalse de Burgomillodo,Duratón,Duero,41.3315989,-3.880167
+2026-10-05,Camporredondo,Carrión,69,15,0.0,43,7,21.7,Camporredondo,Embalse de Camporredondo,Carrión,Duero,42.9,-4.7166667
+2026-10-05,Casares de Arbas,Casares,37,17,0.0,0,0,45.9,Casares de Arbas,Embalse de Casares de Arbas,Casares,Duero,42.927778,-5.758889
+2026-10-05,Castro,Duero,27,25,1.0,14,13,92.6,Castro,Embalse de Castro,Duero,Duero,41.5814768,-6.1676132
+2026-10-05,Castro de las Cogotas,Adaja,58,22,0.0,18,7,37.9,Castro de las Cogotas,Embalse de Castro de las Cogotas,Adaja,Duero,40.723889,-4.698333
+2026-10-05,Cernadilla,Tera,255,38,-8.0,297,39,14.9,Cernadilla,Embalse de Cernadilla,Tera,Duero,42.0124314,-6.5203088
+2026-10-05,Cervera,Rivera,10,9,0.0,3,2,90.0,Cervera,Embalse de Cervera,Rivera,Duero,42.866667,-4.528889
+2026-10-05,Compuerto,Carrión,95,23,-1.0,42,9,24.2,Compuerto,Embalse de Compuerto,Carrión,Duero,42.8789433,-4.8015285
+2026-10-05,Cuerda del Pozo,Duero,249,128,-2.0,58,32,51.4,Cuerda del Pozo,Embalse de Cuerda del Pozo,Duero,Duero,41.8546786,-2.7456298
+2026-10-05,Irueña,Águeda,110,54,-1.0,0,0,49.1,Irueña,Embalse de Irueña,Águeda,Duero,40.4463,-6.5766
+2026-10-05,Linares del Arroyo,Riaza,54,20,-1.0,14,5,37.0,Linares del Arroyo,Embalse de Linares del Arroyo,Riaza,Duero,41.5060816,-3.5268841
+2026-10-05,"Pontón Alto, El",Eresma,7,5,0.0,0,0,71.4,El Pontón Alto,Embalse de El Pontón Alto,Eresma,Duero,40.9142742,-4.0318696
+2026-10-05,Porma-(Juan Benet),Porma,318,122,-2.0,137,48,38.4,Porma-(Juan Benet),Embalse de Porma-(Juan Benet),Porma,Duero,42.9488854,-5.2815051
+2026-10-05,Puente Porto,Segundera,23,2,-1.0,54,5,8.7,Puente Porto,Embalse de Puente Porto,Segundera,Duero,42.1130422,-6.83376
+2026-10-05,Rábanos,Duero,8,8,0.0,3,3,100.0,Rábanos,Embalse de Rábanos,Duero,Duero,41.7264342231568,2.4518845045754
+2026-10-05,Requejada,Pisuerga,59,33,-1.0,23,12,55.9,Requejada,Embalse de Requejada,Pisuerga,Duero,42.9155016,-4.4992928
+2026-10-05,Riaño,Esla,641,239,-4.0,372,97,37.3,Riaño,Embalse de Riaño,Esla,Duero,42.9705355,-5.0156456
+2026-10-05,Ricobayo,Esla,1145,433,-65.0,945,329,37.8,Ricobayo,Embalse de Ricobayo,Esla,Duero,41.6588218,-5.8591247
+2026-10-05,San José,Duero,6,6,0.0,2,2,100.0,San José,Embalse de San José,Duero,Duero,41.4038271,-5.2730534
+2026-10-05,Santa Teresa,Tormes,496,233,-6.0,406,184,47.0,Santa Teresa,Embalse de Santa Teresa,Tormes,Duero,40.6690424,-5.6044606
+2026-10-05,Saucelle,Duero,181,176,1.0,10,9,97.2,Saucelle,Embalse de Saucelle,Duero,Duero,41.0872746,-6.7698536
+2026-10-05,Serones,Voltoya,6,6,0.0,0,0,100.0,Serones,Embalse de Serones,Voltoya,Duero,40.689722,-4.473889
+2026-10-05,Úzquiza,Arlanzón,75,46,-1.0,15,9,61.3,Úzquiza,Embalse de Úzquiza,Arlanzón,Duero,42.3069973,-3.3477076
+2026-10-05,Valparaíso,Tera,169,159,1.0,165,149,94.1,Valparaíso,Embalse de Valparaíso,Tera,Duero,41.9677297,-6.2933711
+2026-10-05,"Vencías, Las",Duratón,5,4,-1.0,2,1,80.0,Las Vencías,Embalse de Las Vencías,Duratón,Duero,41.4201845,-3.9604246
+2026-10-05,Villagonzalo,Tormes,6,6,0.0,3,3,100.0,Villagonzalo,Embalse de Villagonzalo,Tormes,Duero,40.8731953,-5.4951721
+2026-10-05,Villalcampo,Duero,66,63,1.0,41,39,95.5,Villalcampo,Embalse de Villalcampo,Duero,Duero,41.491111,-6.085278
+2026-10-05,Villameca,Tuerto,19,2,0.0,6,1,10.5,Villameca,Embalse de Villameca,Tuerto,Duero,42.6534432,-6.0778484
+2026-10-05,Aceña,Aceña,24,14,0.0,0,0,58.3,Aceña,Embalse de Aceña,Aceña,Tajo,40.6192838,-4.2211616
+2026-10-05,Alcántara,Tajo,3160,1764,-67.0,791,330,55.8,Alcántara,Embalse de Alcántara,Tajo,Tajo,39.73,-6.884722
+2026-10-05,Alcorlo,Bornova,180,96,-1.0,0,0,53.3,Alcorlo,Embalse de Alcorlo,Bornova,Tajo,41.022516,-3.0250778
+2026-10-05,Almoguera,Tajo,7,6,0.0,2,1,85.7,Almoguera,Embalse de Almoguera,Tajo,Tajo,40.275556,-2.9575
+2026-10-05,"Atance, El",Salado,35,18,0.0,0,0,51.4,El Atance,Embalse de El Atance,Salado,Tajo,41.0954055,-2.7792261
+2026-10-05,"Atazar, El",Lozoya,426,286,-3.0,0,0,67.1,El Atazar,Embalse de El Atazar,Lozoya,Tajo,40.9018994,-3.5433199
+2026-10-05,Azután,Tajo,113,79,-4.0,59,35,69.9,Azután,Embalse de Azután,Tajo,Tajo,39.7780137,-5.0884823
+2026-10-05,Baños,Baños,41,25,0.0,0,0,61.0,Baños,Embalse de Baños,Baños,Tajo,40.29054,-5.8894741
+2026-10-05,Beleña,Sorbe,53,21,-2.0,0,0,39.6,Beleña,Embalse de Beleña,Sorbe,Tajo,40.950963,-3.2018198
+2026-10-05,Bolarque,Tajo,31,27,0.0,15,10,87.1,Bolarque,Embalse de Bolarque,Tajo,Tajo,40.3637929600671,-2.81585645197501
+2026-10-05,Borbollon,Árrago,88,38,0.0,30,9,43.2,Borbollon,Embalse de Borbollon,Árrago,Tajo,40.141467,-6.5543199
+2026-10-05,Buendía,Guadiela,1705,797,6.0,1515,595,46.7,Buendía,Embalse de Buendía,Guadiela,Tajo,40.4132674480319,-2.72240670641006
+2026-10-05,Burguillo - Puente Nuevo,Alberche,201,89,0.0,218,62,44.3,Burguillo - Puente Nuevo,Embalse de Burguillo - Puente Nuevo,Alberche,Tajo,40.4234346,-4.5817889
+2026-10-05,Cáceres - Guadiloba,Guadiloba,20,10,0.0,0,0,50.0,Cáceres - Guadiloba,Embalse de Cáceres - Guadiloba,Guadiloba,Tajo,39.4859827,-6.2867284
+2026-10-05,Castrejón,Tajo,44,43,0.0,15,13,97.7,Castrejón,Embalse de Castrejón,Tajo,Tajo,39.8585834,-4.2871904
+2026-10-05,"Castro, El",Algodor,8,3,0.0,0,0,37.5,"Castro, El","Embalse de Castro, El",Algodor,Tajo,39.8079,-3.7514
+2026-10-05,Cazalegas,Alberche,7,6,0.0,0,0,85.7,Cazalegas,Embalse de Cazalegas,Alberche,Tajo,40.0169519,-4.6993044
+2026-10-05,Cedillo,Tajo,260,253,1.0,17,16,97.3,Cedillo,Embalse de Cedillo,Tajo,Tajo,39.666759981849,-7.53050026604892
+2026-10-05,Entrepeñas,Tajo,813,487,0.0,782,387,59.9,Entrepeñas,Embalse de Entrepeñas,Tajo,Tajo,40.5136201,-2.7307058
+2026-10-05,Finisterre,Algodor,133,24,0.0,0,0,18.0,Finisterre,Embalse de Finisterre,Algodor,Tajo,39.6192717,-3.6876803
+2026-10-05,Gabriel y Galán,Alagón,911,340,-8.0,419,39,37.3,Gabriel y Galán,Embalse de Gabriel y Galán,Alagón,Tajo,40.2819282,-6.1288426
+2026-10-05,Guajaraz,Guajaraz,18,15,0.0,0,0,83.3,Guajaraz,Embalse de Guajaraz,Guajaraz,Tajo,39.7957553,-4.0894544
+2026-10-05,Guijo de Granadilla,Alagón,13,12,0.0,3,2,92.3,Guijo de Granadilla,Embalse de Guijo de Granadilla,Alagón,Tajo,40.1928553,-6.1639671
+2026-10-05,"Jarosa, La",La Jarosa,7,3,0.0,0,0,42.9,La Jarosa,Embalse de La Jarosa,La Jarosa,Tajo,40.6690996,-4.1219537
+2026-10-05,Jerte - Plasencia,Jerte,59,29,-1.0,0,0,49.2,Jerte - Plasencia,Embalse de Jerte - Plasencia,Jerte,Tajo,40.0776825,-6.0136694
+2026-10-05,Molino de Chincha,Guadiela,6,5,0.0,4,3,83.3,Molino de Chincha,Embalse de Molino de Chincha,Guadiela,Tajo,40.5441727052279,-2.16835837509503
+2026-10-05,Navacerrada,Navacerrada,11,4,0.0,0,0,36.4,Navacerrada,Embalse de Navacerrada,Navacerrada,Tajo,40.7187095,-4.0069802
+2026-10-05,Navalcán,Guayerbas,34,20,-3.0,0,0,58.8,Navalcán,Embalse de Navalcán,Guayerbas,Tajo,40.0352162,-5.1145455
+2026-10-05,Navamuño,Angostura,14,6,0.0,0,0,42.9,Navamuño,Embalse de Navamuño,Angostura,Tajo,40.3431491,-5.7817325
+2026-10-05,Pálmaces,Cañamares,31,19,0.0,0,0,61.3,Pálmaces,Embalse de Pálmaces,Cañamares,Tajo,41.0593077,-2.9163471
+2026-10-05,"Pardo, El",Manzanares,43,13,0.0,0,0,30.2,El Pardo,Embalse de El Pardo,Manzanares,Tajo,40.538611,-3.786944
+2026-10-05,Picadas,Alberche,15,11,-3.0,9,5,73.3,Picadas,Embalse de Picadas,Alberche,Tajo,40.3332076,-4.2491977
+2026-10-05,Pinilla,Lozoya,38,17,0.0,0,0,44.7,Pinilla,Embalse de Pinilla,Lozoya,Tajo,40.9392529,-3.7955506
+2026-10-05,Portaje,Fresnedilla,23,16,1.0,0,0,69.6,Portaje,Embalse de Portaje,Fresnedilla,Tajo,39.8772877,-6.527643
+2026-10-05,"Portiña, La",Portiña,5,2,0.0,0,0,40.0,La Portiña,Embalse de La Portiña,Portiña,Tajo,40.0001945,-4.8423417
+2026-10-05,Puentes Viejas,Lozoya,53,32,0.0,0,0,60.4,Puentes Viejas,Embalse de Puentes Viejas,Lozoya,Tajo,40.9931645,-3.5709094
+2026-10-05,Riosequillo,Lozoya,50,32,-1.0,0,0,64.0,Riosequillo,Embalse de Riosequillo,Lozoya,Tajo,40.9830271,-3.6509177
+2026-10-05,Rivera de Gata,Rivera de Gata,49,8,0.0,0,0,16.3,Rivera de Gata,Embalse de Rivera de Gata,Rivera de Gata,Tajo,40.0663136276903,-6.6691687765364
+2026-10-05,Rosarito,Tiétar,82,11,3.0,0,0,13.4,Rosarito,Embalse de Rosarito,Tiétar,Tajo,40.1032226,-5.3076366
+2026-10-05,Salor,Salor,14,7,0.0,0,0,50.0,Salor,Embalse de Salor,Salor,Tajo,39.3541485830414,-6.28382202672256
+2026-10-05,San Juan,Alberche,138,71,-2.0,104,31,51.4,San Juan,Embalse de San Juan,Alberche,Tajo,40.3867776,-4.3449529
+2026-10-05,Santillana,Manzanares,91,52,-1.0,0,0,57.1,Santillana,Embalse de Santillana,Manzanares,Tajo,40.7183943,-3.8697527
+2026-10-05,"Tajera, La",Tajuña,64,33,-1.0,0,0,51.6,La Tajera,Embalse de La Tajera,Tajuña,Tajo,40.8549702,-2.6003235
+2026-10-05,Torcón,Torcón,7,3,0.0,0,0,42.9,Torcón,Embalse de Torcón,Torcón,Tajo,39.7667868188369,-4.41306706786682
+2026-10-05,Torrejón (Tajo - Tietar),Tiétar,188,153,-20.0,25,8,81.4,Torrejón (Tajo - Tietar),Embalse de Torrejón (Tajo - Tietar),Tiétar,Tajo,40.1956649164494,-4.8739305422929
+2026-10-05,"Vado, El",Jarama,56,16,-1.0,0,0,28.6,El Vado,Embalse de El Vado,Jarama,Tajo,41.0034172,-3.3008706
+2026-10-05,Valdecañas,Tajo,1446,790,27.0,664,261,54.6,Valdecañas,Embalse de Valdecañas,Tajo,Tajo,39.8189578,-5.4201377
+2026-10-05,Valdeobispo,Alagón,53,50,0.0,14,12,94.3,Valdeobispo,Embalse de Valdeobispo,Alagón,Tajo,40.1168156,-6.2389221
+2026-10-05,Valmayor,Aulencia,124,84,0.0,0,0,67.7,Valmayor,Embalse de Valmayor,Aulencia,Tajo,40.5458978,-4.0567709
+2026-10-05,"Vellón,El-(Pedrezuela)",Guadalix,41,33,0.0,0,0,80.5,El Vellón (Pedrezuela),Embalse de El Vellón (Pedrezuela),Guadalix,Tajo,40.7619893,-3.6244392
+2026-10-05,"Villar, El",Lozoya,23,15,0.0,0,0,65.2,El Villar,Embalse de El Villar,Lozoya,Tajo,40.9474275,-3.5630884
+2026-10-05,"Aguijón, El",Alcarrache,11,10,1.0,0,0,90.9,El Aguijón,Embalse de El Aguijón,Alcarrache,Guadiana,38.1286111,-2.7758333
+2026-10-05,Alange,Matachel,852,434,1.0,0,0,50.9,Alange,Embalse de Alange,Matachel,Guadiana,38.7478671,-6.2482149
+2026-10-05,Alcollarín,Alcollarín,52,19,0.0,0,0,36.5,Alcollarín,Embalse de Alcollarín,Alcollarín,Guadiana,39.2472299,-5.7484747
+2026-10-05,Andévalo,Malagón,634,538,-5.0,0,0,84.9,Andévalo,Embalse de Andévalo,Malagón,Guadiana,37.6753112,-7.179026
+2026-10-05,Boquerón,Rosal,6,4,0.0,0,0,66.7,Boquerón,Embalse de Boquerón,Rosal,Guadiana,39.1728495281979,-6.42720979818816
+2026-10-05,Brovales,Brovales,7,4,0.0,0,0,57.1,Brovales,Embalse de Brovales,Brovales,Guadiana,38.3558277,-6.6945568
+2026-10-05,Búrdalo,Búrdalo,79,22,0.0,0,0,27.8,Búrdalo,Embalse de Búrdalo,Búrdalo,Guadiana,39.1467077899557,-5.9623467648986
+2026-10-05,Canchales,Lácara,26,19,0.0,0,0,73.1,Canchales,Embalse de Canchales,Lácara,Guadiana,37.1569777,-3.4687701
+2026-10-05,Cancho del Fresno,Ruecas,15,12,0.0,0,0,80.0,Cancho del Fresno,Embalse de Cancho del Fresno,Ruecas,Guadiana,39.4020651,-5.3874113
+2026-10-05,Chanza,Chanza,338,194,1.0,0,0,57.4,Chanza,Embalse de Chanza,Chanza,Guadiana,37.5584663,-7.5207942
+2026-10-05,Cijara,Guadiana,1505,1138,1.0,296,216,75.6,Cijara,Embalse de Cijara,Guadiana,Guadiana,39.3244044,-4.8909681
+2026-10-05,Cornalbo,Albarregas,3,2,0.0,0,0,66.7,Cornalbo,Embalse de Cornalbo,Albarregas,Guadiana,38.9883478,-6.1910614
+2026-10-05,Cubilar,Cubilar,6,5,0.0,0,0,83.3,Cubilar,Embalse de Cubilar,Cubilar,Guadiana,37.2765577,-3.6711972
+2026-10-05,El Vicario,Guadiana,32,19,0.0,0,0,59.4,El Vicario,Embalse de El Vicario,Guadiana,Guadiana,39.059722,-3.995556
+2026-10-05,García de Sola,Guadiana,554,267,-1.0,38,6,48.2,García de Sola,Embalse de García de Sola,Guadiana,Guadiana,39.1682283294725,-5.21867504845419
+2026-10-05,Gargáligas,Gargáligas,21,14,0.0,0,0,66.7,Gargáligas,Embalse de Gargáligas,Gargáligas,Guadiana,39.0527721,-5.6523679
+2026-10-05,Gasset,Becea,39,25,0.0,0,0,64.1,Gasset,Embalse de Gasset,Becea,Guadiana,39.1420809,-3.9546877
+2026-10-05,Horno Tejero,Lácara,24,13,-1.0,0,0,54.2,Horno Tejero,Embalse de Horno Tejero,Lácara,Guadiana,39.1563553,-6.431699
+2026-10-05,La Cabezuela,Jabalón,43,23,0.0,0,0,53.5,La Cabezuela,Embalse de La Cabezuela,Jabalón,Guadiana,38.7143280356693,-3.25317552830371
+2026-10-05,La Colada,Guadamatilla,58,47,0.0,0,0,81.0,La Colada,Embalse de La Colada,Guadamatilla,Guadiana,38.5475,-5.0093
+2026-10-05,La Serena,Zújar,3219,2631,0.0,421,343,81.7,La Serena,Embalse de La Serena,Zújar,Guadiana,38.9285143,-5.2214477
+2026-10-05,Llerena,Conejo,8,7,0.0,0,0,87.5,Llerena,Embalse de Llerena,Conejo,Guadiana,38.3087412,-5.9105957
+2026-10-05,Los Molinos,Matachel,34,30,0.0,0,0,88.2,Los Molinos,Embalse de Los Molinos,Matachel,Guadiana,38.5133912654302,-6.11230521683746
+2026-10-05,Montijo,Guadiana,11,11,0.0,0,0,100.0,Montijo,Embalse de Montijo,Guadiana,Guadiana,38.933125,-6.4090668
+2026-10-05,Nogales,Nogales,18,12,1.0,0,0,66.7,Nogales,Embalse de Nogales,Nogales,Guadiana,38.5570713159997,-6.73067026391768
+2026-10-05,Orellana,Guadiana,808,593,0.0,20,0,73.4,Orellana,Embalse de Orellana,Guadiana,Guadiana,39.0324017,-5.3965729
+2026-10-05,Peñarroya,Guadiana,51,44,0.0,0,0,86.3,Peñarroya,Embalse de Peñarroya,Guadiana,Guadiana,39.0346779871601,-2.96199078698037
+2026-10-05,Piedra Aguda,Olivenza,16,12,0.0,0,0,75.0,Piedra Aguda,Embalse de Piedra Aguda,Olivenza,Guadiana,38.6630572,-7.0296822
+2026-10-05,Proserpina,Pardilla,5,4,0.0,0,0,80.0,Proserpina,Embalse de Proserpina,Pardilla,Guadiana,38.969544,-6.366433
+2026-10-05,Pto. Vallehermoso,Azuer,7,6,0.0,0,0,85.7,Pto. Vallehermoso,Embalse de Pto. Vallehermoso,Azuer,Guadiana,38.8614509645976,-3.16267524939947
+2026-10-05,Ruecas,Ruecas,42,28,0.0,0,0,66.7,Ruecas,Embalse del Ruecas,Ruecas,Guadiana,39.2829457084821,-5.47769001359411
+2026-10-05,Sierra Brava,Pizarroso,233,82,0.0,0,0,35.2,Sierra Brava,Embalse de Sierra Brava,Pizarroso,Guadiana,39.2315102,-5.6300233
+2026-10-05,Tentudia,Bodión,5,4,0.0,0,0,80.0,Tentudia,Embalse de Tentudia,Bodión,Guadiana,38.0935964,-6.3179551
+2026-10-05,Torre de Abrahán,Bullaque,183,134,-1.0,0,0,73.2,Torre de Abrahán,Embalse de Torre de Abrahán,Bullaque,Guadiana,39.3745771,-4.2477779
+2026-10-05,Valuengo,Ardila,20,7,0.0,0,0,35.0,Valuengo,Embalse de Valuengo,Ardila,Guadiana,38.3048965,-6.6678214
+2026-10-05,Vega del Jabalón,Jabalón,34,12,0.0,0,0,35.3,Vega del Jabalón,Embalse de Vega del Jabalón,Jabalón,Guadiana,38.8288405024577,-3.93834886181352
+2026-10-05,Villalba de los Barros,Guadajira,106,94,0.0,0,0,88.7,Villalba de los Barros,Embalse de Villalba de los Barros,Guadajira,Guadiana,38.5820754,-6.5051827
+2026-10-05,Villar del Rey,Zapatón,131,95,-1.0,0,0,72.5,Villar del Rey,Embalse de Villar del Rey,Zapatón,Guadiana,39.1319915,-6.8478307
+2026-10-05,Zújar,Zújar,302,260,2.0,18,14,86.1,Zújar,Embalse de Zújar,Zújar,Guadiana,38.916944,-5.478889
+2026-10-05,Corumbel Bajo,Corumbel,19,13,0.0,0,0,68.4,Corumbel Bajo,Embalse de Corumbel Bajo,Corumbel,"Tinto, Odiel y Piedras",37.4390078,-6.5576553
+2026-10-05,Jarrama,Jarrama,43,26,0.0,0,0,60.5,Jarrama,Embalse de Jarrama,Jarrama,"Tinto, Odiel y Piedras",37.6675839,-6.5094369
+2026-10-05,Los Machos,Piedras,12,3,0.0,0,0,25.0,Los Machos,Embalse de Los Machos,Piedras,"Tinto, Odiel y Piedras",37.3550949248481,-7.2544986479835
+2026-10-05,Odiel,Odiel,8,7,0.0,0,0,87.5,Odiel,Embalse de Odiel,Odiel,"Tinto, Odiel y Piedras",37.4699852233098,-6.74990954008527
+2026-10-05,Olivargas,Olivargas,29,22,0.0,0,0,75.9,Olivargas,Embalse de Olivargas,Olivargas,"Tinto, Odiel y Piedras",37.7195741,-6.8123247
+2026-10-05,Piedras,Piedras,60,26,-4.0,0,0,43.3,Piedras,Embalse de Piedras,Piedras,"Tinto, Odiel y Piedras",37.386156,-7.2679832
+2026-10-05,Sancho,Meca,58,48,0.0,0,0,82.8,Sancho,Embalse de Sancho,Meca,"Tinto, Odiel y Piedras",37.4793975,-7.0216191
+2026-10-05,Almodóvar,Almodóvar,6,3,0.0,0,0,50.0,Almodóvar,Embalse de Almodóvar,Almodóvar,Guadalete-Barbate,36.1560848,-5.6444806
+2026-10-05,Arcos de la Frontera,Guadalete,14,13,0.0,0,0,92.9,Arcos de la Frontera,Embalse de Arcos de la Frontera,Guadalete,Guadalete-Barbate,36.7638075,-5.7892476
+2026-10-05,Barbate,Barbate,228,157,-1.0,0,0,68.9,Barbate,Embalse de Barbate,Barbate,Guadalete-Barbate,36.381161,-5.7141879
+2026-10-05,Bornos,Guadalete,200,129,-1.0,18,10,64.5,Bornos,Embalse de Bornos,Guadalete,Guadalete-Barbate,36.8117195,-5.7141879
+2026-10-05,Celemín,Celemín,45,33,0.0,0,0,73.3,Celemín,Embalse de Celemín,Celemín,Guadalete-Barbate,36.3063696,-5.7536812
+2026-10-05,Guadalcacín II,Majaceite,800,675,-4.0,0,0,84.4,Guadalcacín II,Embalse de Guadalcacín II,Majaceite,Guadalete-Barbate,36.6333463680494,-5.7016050421496
+2026-10-05,"Hurones, Los",Majaceite,135,87,-2.0,23,12,64.4,Los Hurones,Embalse de Los Hurones,Majaceite,Guadalete-Barbate,36.6872725,-5.5341696
+2026-10-05,Zahara-El Gastor,Guadalete,223,146,-2.0,0,0,65.5,Zahara-El Gastor,Embalse de Zahara-El Gastor,Guadalete,Guadalete-Barbate,36.841141,-5.3704009
+2026-10-05,Agrio (Aznalcollar),Agrio,20,16,0.0,0,0,80.0,Agrio (Aznalcollar),Embalse de Agrio (Aznalcollar),Agrio,Guadalquivir,37.5191373,-6.2681327
+2026-10-05,Aguascebas,Aguascebas,6,3,0.0,0,0,50.0,Aguascebas,Embalse de Aguascebas,Aguascebas,Guadalquivir,38.0440983,-2.9506893
+2026-10-05,Aracena,Rivera de Huelva,129,103,0.0,0,0,79.8,Aracena,Embalse de Aracena,Rivera de Huelva,Guadalquivir,37.9205421,-6.4583355
+2026-10-05,Arenoso,Arenoso,167,116,0.0,0,0,69.5,Arenoso,Embalse de Arenoso,Arenoso,Guadalquivir,40.0938706,-0.5596874
+2026-10-05,Bembézar,Bembézar,328,254,-3.0,53,38,77.4,Bembézar,Embalse de Bembézar,Bembézar,Guadalquivir,37.977222,-5.302278
+2026-10-05,Bermejales,Cacín,91,61,-1.0,6,5,67.0,Bermejales,Embalse de Bermejales,Cacín,Guadalquivir,36.9846076,-3.8884417
+2026-10-05,"Bolera, La",Guadalentín,54,25,-1.0,0,0,46.3,La Bolera,Embalse de La Bolera,Guadalentín,Guadalquivir,37.7799373,-2.8963776
+2026-10-05,"Breña II, La",Guadiato,823,627,-1.0,0,0,76.2,La Breña II,Embalse de La Breña II,Guadiato,Guadalquivir,37.845556,-5.050556
+2026-10-05,Cala,Rivera de Cala,59,28,0.0,21,10,47.5,Cala,Embalse de Cala,Rivera de Cala,Guadalquivir,37.7113698,-6.1043336
+2026-10-05,Canales,Genil,70,57,0.0,43,39,81.4,Canales,Embalse de Canales,Genil,Guadalquivir,37.1569777,-3.4687701
+2026-10-05,Colomera,Colomera,40,31,0.0,0,0,77.5,Colomera,Embalse de Colomera,Colomera,Guadalquivir,37.4031614,-3.7193936
+2026-10-05,Cubillas,Cubillas,14,7,0.0,0,0,50.0,Cubillas,Embalse de Cubillas,Cubillas,Guadalquivir,37.2765577,-3.6711972
+2026-10-05,El Portillo,Castril,31,29,0.0,0,0,93.5,El Portillo,Embalse de El Portillo,Castril,Guadalquivir,37.805833,-2.788889
+2026-10-05,"Fernandina, La",Guarrizas,247,177,0.0,0,0,71.7,La Fernandina,Embalse de La Fernandina,Guarrizas,Guadalquivir,38.2070039,-3.5736771
+2026-10-05,Francisco Abellán,Fardes,58,25,0.0,0,0,43.1,Francisco Abellán,Embalse de Francisco Abellán,Fardes,Guadalquivir,37.3076425,-3.2703078
+2026-10-05,Fresneda,Fresneda,19,15,0.0,0,0,78.9,Fresneda,Embalse de Fresneda,Fresneda,Guadalquivir,38.5406973804847,-3.61862802771065
+2026-10-05,Gergal,Rivera de Huelva,35,23,-1.0,0,0,65.7,Gergal,Embalse de Gergal,Rivera de Huelva,Guadalquivir,37.570278,-6.049167
+2026-10-05,Giribaile,Guadalimar,491,341,-4.0,0,0,69.5,Giribaile,Embalse de Giribaile,Guadalimar,Guadalquivir,38.1100868,-3.4624575
+2026-10-05,Guadalén,Guadalén,163,72,0.0,13,5,44.2,Guadalén,Embalse de Guadalén,Guadalén,Guadalquivir,38.1890877,-3.4675075
+2026-10-05,Guadalmellato,Guadalmellato,145,119,0.0,13,10,82.1,Guadalmellato,Embalse de Guadalmellato,Guadalmellato,Guadalquivir,38.068056,-4.689167
+2026-10-05,Guadalmena,Guadalmena,345,270,-3.0,86,37,78.3,Guadalmena,Embalse de Guadalmena,Guadalmena,Guadalquivir,38.3939057,-2.9051132
+2026-10-05,Huesna,Rivera de Huesna,135,91,0.0,0,0,67.4,Huesna,Embalse de Huesna,Rivera de Huesna,Guadalquivir,37.7834728470249,-5.68847713732673
+2026-10-05,Iznájar,Genil,920,673,-3.0,279,103,73.2,Iznájar,Embalse de Iznájar,Genil,Guadalquivir,37.258424,-4.3282595
+2026-10-05,Jándula,Jándula,325,180,-2.0,86,13,55.4,Jándula,Embalse de Jándula,Jándula,Guadalquivir,38.2587298,-3.9342953
+2026-10-05,José Torán,Guadalbarcar,101,57,0.0,0,0,56.4,José Torán,Embalse de José Torán,Guadalbarcar,Guadalquivir,37.7480606,-5.4845959
+2026-10-05,Martín Gonzalo,Martín Gonzalo,20,13,0.0,0,0,65.0,Martín Gonzalo,Embalse de Martín Gonzalo,Martín Gonzalo,Guadalquivir,38.1018411,-4.3301854
+2026-10-05,"Melonares, Los",Viar,186,159,-3.0,0,0,85.5,Los Melonares,Embalse de Los Melonares,Viar,Guadalquivir,37.765257,-5.890794
+2026-10-05,"Minilla, La",Rivera de Huelva,58,31,-4.0,0,0,53.4,La Minilla,Embalse de La Minilla,Rivera de Huelva,Guadalquivir,37.6893836,-6.1957953
+2026-10-05,Montoro,Montoro,105,93,-1.0,0,0,88.6,Montoro,Embalse de Montoro,Montoro,Guadalquivir,38.0226527,-4.3834962
+2026-10-05,Negratín,Guadiana Menor,571,334,-1.0,45,25,58.5,Negratín,Embalse de Negratín,Guadiana Menor,Guadalquivir,37.5928463,-2.8315345
+2026-10-05,"Pintado, El",Viar,215,166,0.0,77,56,77.2,El Pintado,Embalse de El Pintado,Viar,Guadalquivir,37.9869909,-5.9554931
+2026-10-05,Puebla de Cazalla,Carbones,63,38,-1.0,0,0,60.3,Puebla de Cazalla,Embalse de Puebla de Cazalla,Carbones,Guadalquivir,37.1223564,-5.2201428
+2026-10-05,Puente Nuevo,Guadiato,281,209,-2.0,9,5,74.4,Puente Nuevo,Embalse de Puente Nuevo,Guadiato,Guadalquivir,38.1022203,-4.9402863
+2026-10-05,Quéntar,Aguas Blancas,14,3,-1.0,0,0,21.4,Quéntar,Embalse de Quéntar,Aguas Blancas,Guadalquivir,37.2081452,-3.4340605
+2026-10-05,Quiebrajano,Quiebrajano,33,27,0.0,4,3,81.8,Quiebrajano,Embalse de Quiebrajano,Quiebrajano,Guadalquivir,37.6292053,-3.7270077
+2026-10-05,Retortillo,Retortillo,61,42,-1.0,2,1,68.9,Retortillo,Embalse de Retortillo,Retortillo,Guadalquivir,37.8522348,-5.3717092
+2026-10-05,Rumblar,Rumblar,140,81,-1.0,16,10,57.9,Rumblar,Embalse de Rumblar,Rumblar,Guadalquivir,38.1911604,-3.7854209
+2026-10-05,San Clemente,Guardal,117,21,0.0,0,0,17.9,San Clemente,Embalse de San Clemente,Guardal,Guadalquivir,37.8666913,-2.6462262
+2026-10-05,San Rafael de Navallana,Guadalmellato,160,74,-2.0,0,0,46.2,San Rafael de Navallana,Embalse de San Rafael de Navallana,Guadalmellato,Guadalquivir,37.9896207,-4.6256661
+2026-10-05,Sierra Boyera,Guadiato,39,29,0.0,0,0,74.4,Sierra Boyera,Embalse de Sierra Boyera,Guadiato,Guadalquivir,38.2744896,-5.2488573
+2026-10-05,Siles,Guadalimar,30,21,0.0,0,0,70.0,Siles,Embalse de Siles,Guadalimar,Guadalquivir,38.405301761574,-2.60556982434747
+2026-10-05,Torre del Águila,Salado,48,8,-1.0,0,0,16.7,Torre del Águila,Embalse de Torre del Águila,Salado,Guadalquivir,37.0524002,-5.7518088
+2026-10-05,Tranco de Beas,Guadalquivir,506,364,-3.0,175,66,71.9,Tranco de Beas,Embalse de Tranco de Beas,Guadalquivir,Guadalquivir,38.1286111,-2.7758333
+2026-10-05,Vadomojón,Guadajoz,146,115,-2.0,0,0,78.8,Vadomojón,Embalse de Vadomojón,Guadajoz,Guadalquivir,37.6350312,-4.2256464
+2026-10-05,Víboras,Víboras,17,8,0.0,0,0,47.1,Víboras,Embalse de Víboras,Víboras,Guadalquivir,37.6381932656207,-3.98761741964581
+2026-10-05,Yeguas,Yeguas,229,176,-1.0,29,22,76.9,Yeguas,Embalse de Yeguas,Yeguas,Guadalquivir,38.080556,-4.230556
+2026-10-05,Zufre,Rivera de Huelva,175,134,-1.0,0,0,76.6,Zufre,Embalse de Zufre,Rivera de Huelva,Guadalquivir,37.8275653,-6.297357
+2026-10-05,Benínar,Grande de Adra,63,10,0.0,0,0,15.9,Benínar,Embalse de Benínar,Grande de Adra,Cuenca Mediterránea Andaluza,36.8825,-3.025278
+2026-10-05,Béznar,Izbor,53,36,-1.0,0,0,67.9,Béznar,Embalse de Béznar,Izbor,Cuenca Mediterránea Andaluza,36.921389,-3.552222
+2026-10-05,Casasola,Campanillas,22,7,0.0,0,0,31.8,Casasola,Embalse de Casasola,Campanillas,Cuenca Mediterránea Andaluza,36.8081341064868,-4.49235673083119
+2026-10-05,Charco Redondo,Palmones,82,50,-1.0,0,0,61.0,Charco Redondo,Embalse de Charco Redondo,Palmones,Cuenca Mediterránea Andaluza,36.253889,-5.565
+2026-10-05,Concepción,Verde de Marbella,62,30,-1.0,0,0,48.4,Concepción,Embalse de Concepción,Verde de Marbella,Cuenca Mediterránea Andaluza,36.548231,-4.9623639
+2026-10-05,Conde Guadalhorce,Turón,66,41,-1.0,5,4,62.1,Conde Guadalhorce,Embalse de Conde Guadalhorce,Turón,Cuenca Mediterránea Andaluza,36.7100573211009,-4.57549907665795
+2026-10-05,Cuevas de Almanzora,Almanzora,161,15,1.0,0,0,9.3,Cuevas de Almanzora,Embalse de Cuevas de Almanzora,Almanzora,Cuenca Mediterránea Andaluza,37.3315192,-1.8964922
+2026-10-05,Guadalhorce-Guadalteba,Gudalhorce-Guadalteba,279,250,-1.0,23,23,89.6,Guadalhorce-Guadalteba,Embalse de Guadalhorce-Guadalteba,Gudalhorce-Guadalteba,Cuenca Mediterránea Andaluza,36.9551122,-4.8391015
+2026-10-05,Guadarranque,Guadarranque,88,67,0.0,0,0,76.1,Guadarranque,Embalse de Guadarranque,Guadarranque,Cuenca Mediterránea Andaluza,36.318611,-5.468333
+2026-10-05,Limonero,Guadalmedina,22,14,0.0,0,0,63.6,Limonero,Embalse de Limonero,Guadalmedina,Cuenca Mediterránea Andaluza,36.7703091,-4.4317144
+2026-10-05,Rules,Guadalfeo,111,91,-1.0,0,0,82.0,Rules,Embalse de Rules,Guadalfeo,Cuenca Mediterránea Andaluza,36.8598329,-3.4953143
+2026-10-05,"Viñuela, La",Guaro,165,139,0.0,0,0,84.2,La Viñuela,Embalse de La Viñuela,Guaro,Cuenca Mediterránea Andaluza,36.8785087,-4.1692941
+2026-10-05,Alfonso XIII,Quípar,22,0,0.0,4,0,0.0,Alfonso XIII,Embalse de Alfonso XIII,Quípar,Segura,38.2146862,-1.6044591
+2026-10-05,Algeciras,Algeciras,45,8,0.0,0,0,17.8,Algeciras,Embalse de Algeciras,Algeciras,Segura,37.8921029,-1.3915491
+2026-10-05,Anchuricas,Segura,6,1,0.0,4,1,16.7,Anchuricas,Embalse de Anchuricas,Segura,Segura,38.1958611,-2.5430087
+2026-10-05,Argos,Argos,10,6,0.0,2,1,60.0,Argos,Embalse de Argos,Argos,Segura,38.1685604,-1.7398895
+2026-10-05,Camarillas,Mundo,36,9,0.0,8,2,25.0,Camarillas,Embalse de Camarillas,Mundo,Segura,38.3605308,-1.6347878
+2026-10-05,Cenajo,Segura,437,256,-5.0,103,57,58.6,Cenajo,Embalse de Cenajo,Segura,Segura,38.3722005,-1.8257384
+2026-10-05,"Cierva, La",Mula,7,4,0.0,0,0,57.1,La Cierva,Embalse de La Cierva,Mula,Segura,38.0611831,-1.4865835
+2026-10-05,Crevillente,Rambla de Bosch,13,8,0.0,0,0,61.5,Crevillente,Embalse de Crevillente,Rambla de Bosch,Segura,38.2446844,-0.8113636
+2026-10-05,Fuensanta,Segura,210,152,-4.0,45,34,72.4,Fuensanta,Embalse de Fuensanta,Segura,Segura,38.4066732,-2.2642702
+2026-10-05,La Pedrera,Dep.Arr.Grande,246,88,1.0,0,0,35.8,La Pedrera,Embalse de La Pedrera,Dep.Arr.Grande,Segura,38.0338723,-0.8710856
+2026-10-05,Puentes,Guadalentín,26,12,0.0,0,0,46.2,Puentes,Embalse de Puentes,Guadalentín,Segura,37.7348846,-1.8192702
+2026-10-05,Santomera,Rambla Salada,26,2,-1.0,0,0,7.7,Santomera,Embalse de Santomera,Rambla Salada,Segura,38.0953218,-1.0885631
+2026-10-05,Taibilla,Taibilla,9,8,0.0,2,2,88.9,Taibilla,Embalse de Taibilla,Taibilla,Segura,38.1930152,-2.2615004
+2026-10-05,Talave,Mundo,35,8,0.0,10,2,22.9,Talave,Embalse de Talave,Mundo,Segura,38.5094017,-1.8781829
+2026-10-05,Valdeinfierno,Alcaide,12,0,0.0,0,0,0.0,Valdeinfierno,Embalse de Valdeinfierno,Alcaide,Segura,37.8109247,-1.9710284
+2026-10-05,Alarcón,Júcar,1118,798,1.0,1596,1145,71.4,Alarcón,Embalse de Alarcón,Júcar,Júcar,39.6539699,-2.2162882
+2026-10-05,Algar,Palancia,6,0,0.0,0,0,0.0,Algar,Embalse de Algar,Palancia,Júcar,39.7879092,-0.3765436
+2026-10-05,Amadorio,Amadorio,16,4,0.0,0,0,25.0,Amadorio,Embalse de Amadorio,Amadorio,Júcar,38.535209,-0.2632115
+2026-10-05,Arenós,Mijares,137,52,0.0,113,45,38.0,Arenós,Embalse de Arenós,Mijares,Júcar,40.0938706,-0.5596874
+2026-10-05,Arquillo de San Blas,Turia,21,14,0.0,7,5,66.7,Arquillo de San Blas,Embalse de Arquillo de San Blas,Turia,Júcar,40.3718676,-1.2295586
+2026-10-05,Bellús,Albaida,69,11,1.0,0,0,15.9,Bellús,Embalse de Bellús,Albaida,Júcar,38.9312654,-0.4755993
+2026-10-05,Benagéber,Turia,221,80,1.0,59,21,36.2,Benagéber,Embalse de Benagéber,Turia,Júcar,39.7419003,-1.1137191
+2026-10-05,Beniarrés,Serpis,27,6,0.0,0,0,22.2,Beniarrés,Embalse de Beniarrés,Serpis,Júcar,38.8149329,-0.3561709
+2026-10-05,Buseo,Sot de Chera,8,1,0.0,0,0,12.5,Buseo,Embalse de Buseo,Sot de Chera,Júcar,39.594722,-0.938611
+2026-10-05,Contreras,Cabriel,361,247,-3.0,232,159,68.4,Contreras,Embalse de Contreras,Cabriel,Júcar,39.5928206,-1.5232832
+2026-10-05,Cortes II,Júcar,118,109,-1.0,17,12,92.4,Cortes II,Embalse de Cortes II,Júcar,Júcar,39.2620263,-0.9183368
+2026-10-05,El Naranjero,Júcar,29,22,-3.0,0,0,75.9,El Naranjero,Embalse de El Naranjero,Júcar,Júcar,39.275282,-0.8609602
+2026-10-05,Escalona,Escalona,99,5,0.0,0,0,5.1,Escalona,Embalse de Escalona,Escalona,Júcar,39.1281706,-0.7063724
+2026-10-05,Forata,Magro,37,17,0.0,0,0,45.9,Forata,Embalse de Forata,Magro,Júcar,39.3420541,-0.8663219
+2026-10-05,Guadalest,Guadalest,13,3,0.0,0,0,23.1,Guadalest,Embalse de Guadalest,Guadalest,Júcar,38.6836086,-0.2004374
+2026-10-05,La Muela,Júcar,20,10,4.0,0,0,50.0,La Muela,Embalse de La Muela,Júcar,Júcar,39.2620263,-0.9183368
+2026-10-05,La Toba,Júcar,10,4,0.0,17,7,40.0,La Toba,Embalse de La Toba,Júcar,Júcar,40.2082812,-1.9068708
+2026-10-05,Loriguilla,Turia,73,22,0.0,18,6,30.1,Loriguilla,Embalse de Loriguilla,Turia,Júcar,39.675286,-0.9187842
+2026-10-05,María Cristina,Rambla Viuda,18,5,0.0,0,0,27.8,María Cristina,Embalse de María Cristina,Rambla Viuda,Júcar,40.0356395,-0.1606176
+2026-10-05,Regajo,Palancia,6,2,0.0,0,0,33.3,Regajo,Embalse de Regajo,Palancia,Júcar,39.8933544,-0.5275546
+2026-10-05,Sichar,Mijares,49,15,0.0,3,1,30.6,Sichar,Embalse de Sichar,Mijares,Júcar,40.0156221,-0.2420576
+2026-10-05,Tous - La Ribera,Júcar,379,42,-1.0,0,0,11.1,Tous - La Ribera,Embalse de Tous - La Ribera,Júcar,Júcar,39.145556,-0.66
+2026-10-05,Ulldecona,Cenia,11,7,-1.0,0,0,63.6,Ulldecona,Embalse de Ulldecona,Cenia,Júcar,40.670833,0.231111
+2026-10-05,Albiña,Albiña,5,3,0.0,3,2,60.0,Albiña,Embalse de Albiña,Albiña,Ebro,43.0027839,-2.6276116
+2026-10-05,Alcañiz (Estanca),Guadalope,7,6,0.0,3,2,85.7,Alcañiz (Estanca),Embalse de Alcañiz (Estanca),Guadalope,Ebro,41.0510353,-0.1335373
+2026-10-05,Alloz,Salado,66,21,-2.0,40,12,31.8,Alloz,Embalse de Alloz,Salado,Ebro,42.7218764,-1.936573
+2026-10-05,Barasona,Ésera,85,14,-1.0,54,9,16.5,Barasona,Embalse de Barasona,Ésera,Ebro,42.1411111,0.3261111
+2026-10-05,Baserca,Noguera-Ribagorzana,22,13,0.0,98,58,59.1,Baserca,Embalse de Baserca,Noguera-Ribagorzana,Ebro,42.5913193,0.7615995
+2026-10-05,Búbal,Gállego,63,3,0.0,73,3,4.8,Búbal,Embalse de Búbal,Gállego,Ebro,42.7010756,-0.312503
+2026-10-05,Calanda,Guadalope,54,26,-1.0,16,7,48.1,Calanda,Embalse de Calanda,Guadalope,Ebro,40.9067308,-0.2092267
+2026-10-05,Camarasa,Noguera-Pallaresa,163,85,-2.0,63,19,52.1,Camarasa,Embalse de Camarasa,Noguera-Pallaresa,Ebro,41.9350644,0.8567905
+2026-10-05,Canelles,Noguera-Ribagorzana,679,313,-4.0,395,156,46.1,Canelles,Embalse de Canelles,Noguera-Ribagorzana,Ebro,41.9784145,0.61246
+2026-10-05,Cañón de Santolea,Guadalope,82,15,0.0,9,0,18.3,Cañón de Santolea,Embalse del Cañón de Santolea,Guadalupe,Ebro,40.7564462,-0.3538888
+2026-10-05,Caspe,Guadalope,82,51,0.0,17,10,62.2,Caspe,Embalse de Caspe,Guadalope,Ebro,41.1212587,-0.0244872
+2026-10-05,Cavallers,Noguera de Tort,16,12,0.0,54,41,75.0,Cavallers,Embalse de Cavallers,Noguera de Tort,Ebro,42.5906494,0.8567905
+2026-10-05,Certescáns,Certescáns,16,8,0.0,97,45,50.0,Certescáns,Embalse de Certescáns,Certescáns,Ebro,42.703887,1.3065128
+2026-10-05,Ciurana,Ciurana,12,9,0.0,0,0,75.0,Ciurana,Embalse de Ciurana,Ciurana,Ebro,41.2508273,0.9126746
+2026-10-05,Cueva Foradada,Martín,22,16,0.0,4,3,72.7,Cueva Foradada,Embalse de Cueva Foradada,Martín,Ebro,40.9704816,-0.6950987
+2026-10-05,Ebro,Ebro,541,287,-7.0,468,248,53.0,Ebro,Embalse de Ebro,Ebro,Ebro,43.0206347,-3.9164585
+2026-10-05,Enciso,Cidacos,46,18,0.0,19,7,39.1,Enciso,Embalse de Enciso,Cidacos,Ebro,42.1426477081533,-2.27923341045313
+2026-10-05,Escales,Noguera-Ribagorzana,152,124,-4.0,149,119,81.6,Escales,Embalse de Escales,Noguera-Ribagorzana,Ebro,42.3259265,0.742902
+2026-10-05,Eúgui,Arga,21,10,0.0,10,4,47.6,Eúgui,Embalse de Eúgui,Arga,Ebro,42.9790958,-1.5172315
 2026-10-05,Flix,Ebro,11,10,,2,2,90.9,Flix,Embalse de Flix,Ebro,Ebro,41.235,0.5526
-2026-10-05,González Lacasa,Albercos,33,7,0,20,4,21.2,González Lacasa,Embalse de González Lacasa,Albercos,Ebro,42.173919,-2.672878
-2026-10-05,"Grado, El",Cinca,400,166,-6,112,43,41.5,El Grado,Embalse de El Grado,Cinca,Ebro,42.313333,0.210833
-2026-10-05,Guiamets,Asmat,10,7,0,0,0,70.0,Guiamets,Embalse de Guiamets,Asmat,Ebro,41.0954794,0.7598168
-2026-10-05,Ip,Barranco de Ip,5,2,0,14,4,40.0,Ip,Embalse de Ip,Barranco de Ip,Ebro,42.7204180136845,-0.45648767763092
-2026-10-05,Irabia,Irati,14,3,-1,17,4,21.4,Irabia,Embalse de Irabia,Irati,Ebro,42.9900764,-1.1466976
-2026-10-05,Itoiz,Irati,417,137,-5,234,73,32.9,Itoiz,Embalse de Itoiz,Irati,Ebro,42.8014564,-1.3635333
-2026-10-05,Lanuza,Gállego,17,3,0,34,6,17.6,Lanuza,Embalse de Lanuza,Gállego,Ebro,42.75,-0.3
-2026-10-05,Las Fitas,Barranco Carnerario,9,5,0,5,3,55.6,Las Fitas,Embalse de Las Fitas,Barranco Carnerario,Ebro,41.7975,-0.0597
-2026-10-05,Laverné,Barranco Vitale,38,10,3,8,3,26.3,Laverné,Embalse de Laverné,Barranco Vitale,Ebro,42.0805793,-1.075377
-2026-10-05,Lechago,Pancrudo,18,11,0,6,26,61.1,Lechago,Embalse de Lechago,Pancrudo,Ebro,40.9586292,-1.2728557
-2026-10-05,Llauset,Llauset,17,9,0,49,0,52.9,Llauset,Embalse de Llauset,Llauset,Ebro,42.5838189,0.6885733
-2026-10-05,Loteta (La),Derivación Canal Imperial,104,7,0,30,4,6.7,La Loteta,Embalse de La Loteta,Derivación Canal Imperial,Ebro,41.8189369,-1.3240277
-2026-10-05,Maidevera,Aranda,20,13,0,6,20,65.0,Maidevera,Embalse de Maidevera,Aranda,Ebro,41.5815582,-1.7575326
-2026-10-05,Mansilla,Najerilla,68,22,-2,62,43,32.4,Mansilla,Embalse de Mansilla,Najerilla,Ebro,42.15,-2.95
-2026-10-05,Mediano,Cinca,435,74,-2,267,122,17.0,Mediano,Embalse de Mediano,Cinca,Ebro,42.3420153,0.1939932
-2026-10-05,Mequinenza,Ebro,1373,789,-6,239,1,57.5,Mequinenza,Embalse de Mequinenza,Ebro,Ebro,41.3835966,0.1237623
-2026-10-05,Moneva,Aguas Vivas,8,4,0,2,2,50.0,Moneva,Embalse de Moneva,Aguas Vivas,Ebro,41.1660616,-0.8329718
-2026-10-05,Monteagudo,Nájima,10,7,0,3,5,70.0,Monteagudo,Embalse de Monteagudo,Nájima,Ebro,41.3883333,-2.1819444
-2026-10-05,Montearagón,Flumen,52,25,0,12,2,48.1,Montearagón,Embalse de Montearagón,Flumen,Ebro,42.1535225,-0.3443688
-2026-10-05,Nagore,Urrobi,5,3,0,3,29,60.0,Nagore,Embalse de Nagore,Urrobi,Ebro,42.8533433,-1.3755931
-2026-10-05,Oliana,Segre,84,40,-2,57,9,47.6,Oliana,Embalse de Oliana,Segre,Ebro,42.1189708,1.3071642
-2026-10-05,Pajares,Lumbreras,35,15,-1,21,1,42.9,Pajares,Embalse de Pajares,Lumbreras,Ebro,42.0821421,-2.6028036
-2026-10-05,Parras (Las),Martín,5,3,0,1,2,60.0,Las Parras,Embalse de Las Parras,Martín,Ebro,40.8255265,-0.9201274
-2026-10-05,Pena,Pena,18,12,0,2,5,66.7,Pena,Embalse de Pena,Pena,Ebro,40.8132933,0.12961
-2026-10-05,"Peña, La",Gállego,15,9,-1,10,6,60.0,La Peña,Embalse de La Peña,Gállego,Ebro,42.3833333,-0.7166667
-2026-10-05,Puente de Santolea,Guadalope,18,18,0,7,121,100.0,Puente de Santolea,Embalse de Puente de Santolea,Guadalope,Ebro,40.7472972,-0.3580665
-2026-10-05,Rialb,Segre,404,206,2,217,11,51.0,Rialb,Embalse de Rialb,Segre,Ebro,41.9399743,1.1933618
-2026-10-05,Ribarroja,Ebro,210,203,2,12,10,96.7,Ribarroja,Embalse de Ribarroja,Ebro,Ebro,41.2436599,0.4327914
-2026-10-05,Sallente,Flamisell,6,1,-2,25,1,16.7,Sallente,Embalse de Sallente,Flamisell,Ebro,42.503113,0.9908288
-2026-10-05,San Bartolomé,Arba,6,3,0,2,3,50.0,San Bartolomé,Embalse de San Bartolomé,Arba,Ebro,42.216303,-1.1514966
-2026-10-05,San Lorenzo,Segre,10,9,0,4,10,90.0,San Lorenzo,Embalse de San Lorenzo,Segre,Ebro,41.8548,0.837
-2026-10-05,San Salvador,Arroyo la Clamor,137,49,-2,30,42,35.8,San Salvador,Embalse de San Salvador,Arroyo la Clamor,Ebro,41.7806104,0.1976587
-2026-10-05,Santa Ana,Noguera-Ribagorzana,237,122,2,92,0,51.5,Santa Ana,Embalse de Santa Ana,Noguera-Ribagorzana,Ebro,41.9007222,0.5991042
-2026-10-05,Santa María de Belsué,Flumen,14,1,0,1,1,7.1,Santa María de Belsué,Embalse de Santa María de Belsué,Flumen,Ebro,42.3060248696357,-0.347810306047974
-2026-10-05,Santolea,Guadalope,5,3,1,12,23,60.0,Santolea,Embalse de Santolea,Guadalope,Ebro,40.755,-0.3258333
-2026-10-05,Sistema Aguas Limpias,Aguas Limpias,18,6,0,68,16,33.3,Sistema Aguas Limpias,Embalse de Sistema Aguas Limpias,Aguas Limpias,Ebro,41.848661590286,-1.65764633660542
-2026-10-05,Sistema Alto Caldarés,Caldarés,18,4,0,70,114,22.2,Sistema Alto Caldarés,Embalse de Sistema Alto Caldarés,Caldarés,Ebro,42.768745084792,-0.230915501436636
-2026-10-05,Sistema Capdella,Flamisell,50,30,0,191,4,60.0,Sistema Capdella,Embalse de Sistema Capdella,Flamisell,Ebro,39.5787022,2.4692829
-2026-10-05,Sistema Escarra,Escarra,5,1,0,14,30,20.0,Sistema Escarra,Embalse de Sistema Escarra,Escarra,Ebro,42.7410076865582,-0.361490351735927
-2026-10-05,Sistema Lagos Espot,Espot,10,9,0,33,27,90.0,Sistema Lagos Espot,Embalse de Sistema Lagos Espot,Espot,Ebro,42.5758342,1.0879541
-2026-10-05,Sistema Valle de Arán,Valartíes,22,9,6,172,10,40.9,Sistema Valle de Arán,Embalse de Sistema Valle de Arán,Valartíes,Ebro,42.7439754,0.7913227
-2026-10-05,Sobrón,Ebro,20,17,1,12,0,85.0,Sobrón,Embalse de Sobrón,Ebro,Ebro,42.759444,-3.155278
-2026-10-05,Sotonera,Sotón,189,38,-2,44,18,20.1,Sotonera,Embalse de Sotonera,Sotón,Ebro,42.1107767,-0.682049
-2026-10-05,Terradets,Noguera-Pallaresa,33,31,-2,19,0,93.9,Terradets,Embalse de Terradets,Noguera-Pallaresa,Ebro,42.0677778,0.8891667
-2026-10-05,Terroba,Leza,8,1,0,4,1,12.5,Terroba,Embalse de Terroba,Leza,Ebro,42.2580359,-2.4446549
-2026-10-05,"Torcas, Las",Huerva,7,2,0,2,14,28.6,Las Torcas,Embalse de Las Torcas,Huerva,Ebro,41.2888427,-1.0951427
-2026-10-05,"Tranquera, La",Piedra,82,40,1,29,88,48.8,La Tranquera,Embalse de La Tranquera,Piedra,Ebro,41.2382131,-1.784315
-2026-10-05,Tremp ó Talárn,Noguera-Pallaresa,227,97,-4,213,52,42.7,Tremp ó Talárn,Embalse de Tremp ó Talárn,Noguera-Pallaresa,Ebro,42.1861584,0.8999973
-2026-10-05,Ullivarri,Zadorra,146,91,-1,85,2,62.3,Ullivarri,Embalse de Ullivarri,Zadorra,Ebro,42.9250658,-2.5718122
-2026-10-05,Urdalur,Alzama,6,3,0,4,5,50.0,Urdalur,Embalse de Urdalur,Alzama,Ebro,42.9144488,-2.2365821
-2026-10-05,Urdiceto,Urdiceto,5,2,0,13,20,40.0,Urdiceto,Embalse de Urdiceto,Urdiceto,Ebro,42.677114,0.271321
-2026-10-05,Urrunaga,Sta.Engracia,72,42,-1,37,1,58.3,Urrunaga,Embalse de Urrunaga,Sta.Engracia,Ebro,42.976738,-2.6511914
-2026-10-05,Vadiello,Guatizalema,16,7,1,3,4,43.8,Vadiello,Embalse de Vadiello,Guatizalema,Ebro,42.2423876,-0.2752098
-2026-10-05,"Val, El",Val,24,11,0,9,0,45.8,El Val,Embalse de El Val,Val,Ebro,38.1286111,-2.7758333
-2026-10-05,Valdepatao,Cinca,6,1,0,1,14,16.7,Valdepatao,Embalse de Valdepatao,Cinca,Ebro,41.5017605722193,0.0608397079802383
-2026-10-05,Yesa,Aragón,447,62,-12,152,5,13.9,Yesa,Embalse de Yesa,Aragón,Ebro,42.6069069,-1.1041302
-2026-10-05,Boadella,Muga,61,38,0,0,0,62.3,Boadella,Embalse de Boadella,Muga,Cuencas Internas de Cataluña,42.3481674,2.8215666
-2026-10-05,La Baells,Llobregat,109,77,-1,0,0,70.6,La Baells,Embalse de La Baells,Llobregat,Cuencas Internas de Cataluña,42.1358767,1.8720815
-2026-10-05,La Llosa del Cavall,Cardener,80,60,-1,0,0,75.0,La Llosa del Cavall,Embalse de La Llosa del Cavall,Cardener,Cuencas Internas de Cataluña,42.1195448,1.6038527
-2026-10-05,Riudecanyes,Riudecanyes,5,2,0,0,0,40.0,Riudecanyes,Embalse de Riudecanyes,Riudecanyes,Cuencas Internas de Cataluña,41.1336068,0.9589598
-2026-10-05,Sant Pons,Cardener,24,20,1,0,0,83.3,Sant Pons,Embalse de Sant Pons,Cardener,Cuencas Internas de Cataluña,41.9717308,1.6020337
-2026-10-05,Sau,Ter,165,113,-3,0,0,68.5,Sau,Embalse de Sau,Ter,Cuencas Internas de Cataluña,41.9717273,2.3887675
-2026-10-05,Susqueda,Ter,233,184,0,0,0,79.0,Susqueda,Embalse de Susqueda,Ter,Cuencas Internas de Cataluña,41.9794496,2.5273756
+2026-10-05,González Lacasa,Albercos,33,7,0.0,20,4,21.2,González Lacasa,Embalse de González Lacasa,Albercos,Ebro,42.173919,-2.672878
+2026-10-05,"Grado, El",Cinca,400,166,-6.0,112,43,41.5,El Grado,Embalse de El Grado,Cinca,Ebro,42.313333,0.210833
+2026-10-05,Guiamets,Asmat,10,7,0.0,0,0,70.0,Guiamets,Embalse de Guiamets,Asmat,Ebro,41.0954794,0.7598168
+2026-10-05,Ip,Barranco de Ip,5,2,0.0,14,4,40.0,Ip,Embalse de Ip,Barranco de Ip,Ebro,42.7204180136845,-0.45648767763092
+2026-10-05,Irabia,Irati,14,3,-1.0,17,4,21.4,Irabia,Embalse de Irabia,Irati,Ebro,42.9900764,-1.1466976
+2026-10-05,Itoiz,Irati,417,137,-5.0,234,73,32.9,Itoiz,Embalse de Itoiz,Irati,Ebro,42.8014564,-1.3635333
+2026-10-05,Lanuza,Gállego,17,3,0.0,34,6,17.6,Lanuza,Embalse de Lanuza,Gállego,Ebro,42.75,-0.3
+2026-10-05,Las Fitas,Barranco Carnerario,9,5,0.0,5,3,55.6,Las Fitas,Embalse de Las Fitas,Barranco Carnerario,Ebro,41.7975,-0.0597
+2026-10-05,Laverné,Barranco Vitale,38,10,3.0,8,3,26.3,Laverné,Embalse de Laverné,Barranco Vitale,Ebro,42.0805793,-1.075377
+2026-10-05,Lechago,Pancrudo,18,11,0.0,6,26,61.1,Lechago,Embalse de Lechago,Pancrudo,Ebro,40.9586292,-1.2728557
+2026-10-05,Llauset,Llauset,17,9,0.0,49,0,52.9,Llauset,Embalse de Llauset,Llauset,Ebro,42.5838189,0.6885733
+2026-10-05,Loteta (La),Derivación Canal Imperial,104,7,0.0,30,4,6.7,La Loteta,Embalse de La Loteta,Derivación Canal Imperial,Ebro,41.8189369,-1.3240277
+2026-10-05,Maidevera,Aranda,20,13,0.0,6,20,65.0,Maidevera,Embalse de Maidevera,Aranda,Ebro,41.5815582,-1.7575326
+2026-10-05,Mansilla,Najerilla,68,22,-2.0,62,43,32.4,Mansilla,Embalse de Mansilla,Najerilla,Ebro,42.15,-2.95
+2026-10-05,Mediano,Cinca,435,74,-2.0,267,122,17.0,Mediano,Embalse de Mediano,Cinca,Ebro,42.3420153,0.1939932
+2026-10-05,Mequinenza,Ebro,1373,789,-6.0,239,1,57.5,Mequinenza,Embalse de Mequinenza,Ebro,Ebro,41.3835966,0.1237623
+2026-10-05,Moneva,Aguas Vivas,8,4,0.0,2,2,50.0,Moneva,Embalse de Moneva,Aguas Vivas,Ebro,41.1660616,-0.8329718
+2026-10-05,Monteagudo,Nájima,10,7,0.0,3,5,70.0,Monteagudo,Embalse de Monteagudo,Nájima,Ebro,41.3883333,-2.1819444
+2026-10-05,Montearagón,Flumen,52,25,0.0,12,2,48.1,Montearagón,Embalse de Montearagón,Flumen,Ebro,42.1535225,-0.3443688
+2026-10-05,Nagore,Urrobi,5,3,0.0,3,29,60.0,Nagore,Embalse de Nagore,Urrobi,Ebro,42.8533433,-1.3755931
+2026-10-05,Oliana,Segre,84,40,-2.0,57,9,47.6,Oliana,Embalse de Oliana,Segre,Ebro,42.1189708,1.3071642
+2026-10-05,Pajares,Lumbreras,35,15,-1.0,21,1,42.9,Pajares,Embalse de Pajares,Lumbreras,Ebro,42.0821421,-2.6028036
+2026-10-05,Parras (Las),Martín,5,3,0.0,1,2,60.0,Las Parras,Embalse de Las Parras,Martín,Ebro,40.8255265,-0.9201274
+2026-10-05,Pena,Pena,18,12,0.0,2,5,66.7,Pena,Embalse de Pena,Pena,Ebro,40.8132933,0.12961
+2026-10-05,"Peña, La",Gállego,15,9,-1.0,10,6,60.0,La Peña,Embalse de La Peña,Gállego,Ebro,42.3833333,-0.7166667
+2026-10-05,Puente de Santolea,Guadalope,18,18,0.0,7,121,100.0,Puente de Santolea,Embalse de Puente de Santolea,Guadalope,Ebro,40.7472972,-0.3580665
+2026-10-05,Rialb,Segre,404,206,2.0,217,11,51.0,Rialb,Embalse de Rialb,Segre,Ebro,41.9399743,1.1933618
+2026-10-05,Ribarroja,Ebro,210,203,2.0,12,10,96.7,Ribarroja,Embalse de Ribarroja,Ebro,Ebro,41.2436599,0.4327914
+2026-10-05,Sallente,Flamisell,6,1,-2.0,25,1,16.7,Sallente,Embalse de Sallente,Flamisell,Ebro,42.503113,0.9908288
+2026-10-05,San Bartolomé,Arba,6,3,0.0,2,3,50.0,San Bartolomé,Embalse de San Bartolomé,Arba,Ebro,42.216303,-1.1514966
+2026-10-05,San Lorenzo,Segre,10,9,0.0,4,10,90.0,San Lorenzo,Embalse de San Lorenzo,Segre,Ebro,41.8548,0.837
+2026-10-05,San Salvador,Arroyo la Clamor,137,49,-2.0,30,42,35.8,San Salvador,Embalse de San Salvador,Arroyo la Clamor,Ebro,41.7806104,0.1976587
+2026-10-05,Santa Ana,Noguera-Ribagorzana,237,122,2.0,92,0,51.5,Santa Ana,Embalse de Santa Ana,Noguera-Ribagorzana,Ebro,41.9007222,0.5991042
+2026-10-05,Santa María de Belsué,Flumen,14,1,0.0,1,1,7.1,Santa María de Belsué,Embalse de Santa María de Belsué,Flumen,Ebro,42.3060248696357,-0.347810306047974
+2026-10-05,Santolea,Guadalope,5,3,1.0,12,23,60.0,Santolea,Embalse de Santolea,Guadalope,Ebro,40.755,-0.3258333
+2026-10-05,Sistema Aguas Limpias,Aguas Limpias,18,6,0.0,68,16,33.3,Sistema Aguas Limpias,Embalse de Sistema Aguas Limpias,Aguas Limpias,Ebro,41.848661590286,-1.65764633660542
+2026-10-05,Sistema Alto Caldarés,Caldarés,18,4,0.0,70,114,22.2,Sistema Alto Caldarés,Embalse de Sistema Alto Caldarés,Caldarés,Ebro,42.768745084792,-0.230915501436636
+2026-10-05,Sistema Capdella,Flamisell,50,30,0.0,191,4,60.0,Sistema Capdella,Embalse de Sistema Capdella,Flamisell,Ebro,39.5787022,2.4692829
+2026-10-05,Sistema Escarra,Escarra,5,1,0.0,14,30,20.0,Sistema Escarra,Embalse de Sistema Escarra,Escarra,Ebro,42.7410076865582,-0.361490351735927
+2026-10-05,Sistema Lagos Espot,Espot,10,9,0.0,33,27,90.0,Sistema Lagos Espot,Embalse de Sistema Lagos Espot,Espot,Ebro,42.5758342,1.0879541
+2026-10-05,Sistema Valle de Arán,Valartíes,22,9,6.0,172,10,40.9,Sistema Valle de Arán,Embalse de Sistema Valle de Arán,Valartíes,Ebro,42.7439754,0.7913227
+2026-10-05,Sobrón,Ebro,20,17,1.0,12,0,85.0,Sobrón,Embalse de Sobrón,Ebro,Ebro,42.759444,-3.155278
+2026-10-05,Sotonera,Sotón,189,38,-2.0,44,18,20.1,Sotonera,Embalse de Sotonera,Sotón,Ebro,42.1107767,-0.682049
+2026-10-05,Terradets,Noguera-Pallaresa,33,31,-2.0,19,0,93.9,Terradets,Embalse de Terradets,Noguera-Pallaresa,Ebro,42.0677778,0.8891667
+2026-10-05,Terroba,Leza,8,1,0.0,4,1,12.5,Terroba,Embalse de Terroba,Leza,Ebro,42.2580359,-2.4446549
+2026-10-05,"Torcas, Las",Huerva,7,2,0.0,2,14,28.6,Las Torcas,Embalse de Las Torcas,Huerva,Ebro,41.2888427,-1.0951427
+2026-10-05,"Tranquera, La",Piedra,82,40,1.0,29,88,48.8,La Tranquera,Embalse de La Tranquera,Piedra,Ebro,41.2382131,-1.784315
+2026-10-05,Tremp ó Talárn,Noguera-Pallaresa,227,97,-4.0,213,52,42.7,Tremp ó Talárn,Embalse de Tremp ó Talárn,Noguera-Pallaresa,Ebro,42.1861584,0.8999973
+2026-10-05,Ullivarri,Zadorra,146,91,-1.0,85,2,62.3,Ullivarri,Embalse de Ullivarri,Zadorra,Ebro,42.9250658,-2.5718122
+2026-10-05,Urdalur,Alzama,6,3,0.0,4,5,50.0,Urdalur,Embalse de Urdalur,Alzama,Ebro,42.9144488,-2.2365821
+2026-10-05,Urdiceto,Urdiceto,5,2,0.0,13,20,40.0,Urdiceto,Embalse de Urdiceto,Urdiceto,Ebro,42.677114,0.271321
+2026-10-05,Urrunaga,Sta.Engracia,72,42,-1.0,37,1,58.3,Urrunaga,Embalse de Urrunaga,Sta.Engracia,Ebro,42.976738,-2.6511914
+2026-10-05,Vadiello,Guatizalema,16,7,1.0,3,4,43.8,Vadiello,Embalse de Vadiello,Guatizalema,Ebro,42.2423876,-0.2752098
+2026-10-05,"Val, El",Val,24,11,0.0,9,0,45.8,El Val,Embalse de El Val,Val,Ebro,38.1286111,-2.7758333
+2026-10-05,Valdepatao,Cinca,6,1,0.0,1,14,16.7,Valdepatao,Embalse de Valdepatao,Cinca,Ebro,41.5017605722193,0.0608397079802383
+2026-10-05,Yesa,Aragón,447,62,-12.0,152,5,13.9,Yesa,Embalse de Yesa,Aragón,Ebro,42.6069069,-1.1041302
+2026-10-05,Boadella,Muga,61,38,0.0,0,0,62.3,Boadella,Embalse de Boadella,Muga,Cuencas Internas de Cataluña,42.3481674,2.8215666
+2026-10-05,La Baells,Llobregat,109,77,-1.0,0,0,70.6,La Baells,Embalse de La Baells,Llobregat,Cuencas Internas de Cataluña,42.1358767,1.8720815
+2026-10-05,La Llosa del Cavall,Cardener,80,60,-1.0,0,0,75.0,La Llosa del Cavall,Embalse de La Llosa del Cavall,Cardener,Cuencas Internas de Cataluña,42.1195448,1.6038527
+2026-10-05,Riudecanyes,Riudecanyes,5,2,0.0,0,0,40.0,Riudecanyes,Embalse de Riudecanyes,Riudecanyes,Cuencas Internas de Cataluña,41.1336068,0.9589598
+2026-10-05,Sant Pons,Cardener,24,20,1.0,0,0,83.3,Sant Pons,Embalse de Sant Pons,Cardener,Cuencas Internas de Cataluña,41.9717308,1.6020337
+2026-10-05,Sau,Ter,165,113,-3.0,0,0,68.5,Sau,Embalse de Sau,Ter,Cuencas Internas de Cataluña,41.9717273,2.3887675
+2026-10-05,Susqueda,Ter,233,184,0.0,0,0,79.0,Susqueda,Embalse de Susqueda,Ter,Cuencas Internas de Cataluña,41.9794496,2.5273756
+2026-10-19,Añarbe,Añarbe,38,20,-1.0,0,0,52.6,Añarbe,Embalse de Añarbe,Añarbe,Cantábrico Oriental,43.2205115,-1.8751321
+2026-10-19,Ibiur,Ibiur,8,5,0.0,0,0,62.5,Ibiur,Embalse de Ibiur,Ibiur,Cantábrico Oriental,43.081951,-2.1254698
+2026-10-19,Ordunte,Ordunte,22,11,0.0,0,0,50.0,Ordunte,Embalse del Ordunte,Ordunte,Cantábrico Oriental,43.1611914,-3.2823462
+2026-10-19,San Antón,Endara,5,3,0.0,0,0,60.0,San Antón,Embalse de San Antón,Endara,Cantábrico Oriental,43.2743832838029,-1.77348065861694
+2026-10-19,Alfilorios,Barrea,8,3,0.0,0,0,37.5,Alfilorios,Embalse de Alfilorios,Barrea,Cantábrico Occidental,43.2917805,-5.917858
+2026-10-19,Alsa - Mediajo,Torina,22,19,0.0,27,16,86.4,Alsa - Mediajo,Embalse de Alsa - Mediajo,Torina,Cantábrico Occidental,43.078611,-3.957222
+2026-10-19,Arbón,Navia,41,38,2.0,1,1,92.7,Arbón,Embalse de Arbón,Navia,Cantábrico Occidental,43.4770527,-6.7302435
+2026-10-19,"Barca, La",Narcea,29,24,0.0,3,2,82.8,La Barca,Embalse de La Barca,Narcea,Cantábrico Occidental,43.296808,-6.3405544
+2026-10-19,"Cohilla, La",Nansa,12,3,0.0,16,4,25.0,La Cohilla,Embalse de La Cohilla,Nansa,Cantábrico Occidental,43.1332518,-4.3902585
+2026-10-19,Doiras,Navia,97,71,-1.0,19,12,73.2,Doiras,Embalse de Doiras,Navia,Cantábrico Occidental,43.387222,-6.823889
+2026-10-19,Rioseco,Nalón,4,3,0.0,0,0,75.0,Rioseco,Embalse de Rioseco,Nalón,Cantábrico Occidental,43.2246056,-5.4633649
+2026-10-19,Salime,Navia,238,88,-7.0,99,27,37.0,Salime,Embalse de Salime,Navia,Cantábrico Occidental,43.1590562,-6.8692778
+2026-10-19,Tanes,Nalón,34,22,0.0,6,3,64.7,Tanes,Embalse de Tanes,Nalón,Cantábrico Occidental,43.2050532,-5.4050813
+2026-10-19,Albarellos,Avia,91,20,-1.0,32,6,22.0,Albarellos,Embalse de Albarellos,Avia,Miño-Sil,42.3991760357656,-8.20234891317513
+2026-10-19,Bao,Bibey,238,193,-8.0,290,224,81.1,Bao,Embalse de Bao,Bibey,Miño-Sil,42.2484,-7.1664
+2026-10-19,Bárcena,Sil,341,207,-4.0,333,169,60.7,Bárcena,Embalse de Bárcena,Sil,Miño-Sil,42.5775131,-6.559887
+2026-10-19,Belesar,Miño,655,177,-2.0,370,67,27.0,Belesar,Embalse de Belesar,Miño,Miño-Sil,42.6286685,-7.7121655
+2026-10-19,"Campañana, La",Sil,14,8,-1.0,8,2,57.1,La Campañana,Embalse de La Campañana,Sil,Miño-Sil,42.5056303,-6.7818585
+2026-10-19,Castrelo,Miño,60,51,0.0,4,3,85.0,Castrelo,Embalse de Castrelo,Miño,Miño-Sil,42.4811884,-8.803152
+2026-10-19,Cenza,Cenza,40,10,1.0,112,19,25.0,Cenza,Embalse de Cenza,Cenza,Miño-Sil,42.2009154691097,-7.26317246356753
+2026-10-19,Chandrexa,Navea,61,19,-3.0,101,20,31.1,Chandrexa,Embalse de Chandrexa,Navea,Miño-Sil,42.2500206,-7.4172309
+2026-10-19,"Conchas, Las",Limia,80,25,-2.0,30,8,31.2,Las Conchas,Embalse de Las Conchas,Limia,Miño-Sil,41.9691216790891,-7.97958471458453
+2026-10-19,Edrada-Mao,Mao,14,3,0.0,22,5,21.4,Edrada-Mao,Embalse de Edrada-Mao,Mao,Miño-Sil,42.1489919,-7.2346105
+2026-10-19,Frieira,Miño,44,37,0.0,1,1,84.1,Frieira,Embalse de Frieira,Miño,Miño-Sil,42.2099606,-8.1919112
+2026-10-19,Guístolas,Navea,5,3,0.0,4,1,60.0,Guístolas,Embalse de Guístolas,Navea,Miño-Sil,42.3387768910082,-7.31496286831345
+2026-10-19,Matalavilla,Valseco,65,26,-2.0,115,38,40.0,Matalavilla,Embalse de Matalavilla,Valseco,Miño-Sil,42.8353684,-6.4330305
+2026-10-19,Montefurado,Bibey-Sil,10,10,0.0,4,4,100.0,Montefurado,Embalse de Montefurado,Bibey-Sil,Miño-Sil,42.3956785,-7.2029234
+2026-10-19,"Peares, Os",Miño,182,148,-13.0,50,38,81.3,Os Peares,Embalse de Os Peares,Miño,Miño-Sil,42.532535,-7.7104428
+2026-10-19,Peñarrubia,Sil,13,11,0.0,5,5,84.6,Peñarrubia,Embalse de Peñarrubia,Sil,Miño-Sil,42.4625865,-6.8123247
+2026-10-19,Pías (San Agustín),Bibey,10,5,0.0,19,7,50.0,Pías (San Agustín),Embalse de Pías (San Agustín),Bibey,Miño-Sil,42.1110396,-6.9893766
+2026-10-19,"Portas, Las",Camba,536,274,-13.0,906,386,51.1,Las Portas,Embalse de Las Portas,Camba,Miño-Sil,42.1167,-7.2093
+2026-10-19,Prada,Jares,122,77,-2.0,221,136,63.1,Prada,Embalse de Prada,Jares,Miño-Sil,42.2996301,-7.0377463
+2026-10-19,"Rozas, Las",Sil,28,4,-1.0,55,7,14.3,Las Rozas,Embalse de Las Rozas,Sil,Miño-Sil,42.9182108,-6.3398896
+2026-10-19,Salas,Salas,87,25,0.0,79,21,28.7,Salas,Embalse de Salas,Salas,Miño-Sil,41.9864525860087,-7.99955535999446
+2026-10-19,San. Estevo,Sil,213,171,9.0,77,59,80.3,San. Estevo,Embalse de San. Estevo,Sil,Miño-Sil,42.3854073227088,-7.51184114103975
+2026-10-19,San Martiño,Sil,10,9,0.0,2,2,90.0,San Martiño,Embalse de San Martiño,Sil,Miño-Sil,42.3854742850496,-7.11754672838874
+2026-10-19,San Pedro,Sil,6,5,0.0,1,0,83.3,San Pedro,Embalse de San Pedro,Sil,Miño-Sil,42.4525907727791,-7.71931774590953
+2026-10-19,San Sebastián,Bibey,46,14,0.0,116,33,30.4,San Sebastián,Embalse de San Sebastián,Bibey,Miño-Sil,42.1487345,-6.935674
+2026-10-19,Santa Eulalia,Jares,10,8,0.0,7,4,80.0,Santa Eulalia,Embalse de Santa Eulalia,Jares,Miño-Sil,42.3497,-7.0625
+2026-10-19,Sequeiros,Sil,11,7,-1.0,3,1,63.6,Sequeiros,Embalse de Sequeiros,Sil,Miño-Sil,42.4377020336185,-7.21673321471883
+2026-10-19,Velle,Miño,17,13,0.0,1,1,76.5,Velle,Embalse de Velle,Miño,Miño-Sil,42.3787614,-7.8265973
+2026-10-19,Vilasouto,Mao,21,7,0.0,0,0,33.3,Vilasouto,Embalse de Vilasouto,Mao,Miño-Sil,42.6639318,-7.417857
+2026-10-19,Barrie de la Maza,Tambre,31,10,0.0,8,2,32.3,Barrie de la Maza,Embalse de Barrie de la Maza,Tambre,Galicia Costa,42.8727676,-8.7584426
+2026-10-19,Cecebre,Mero,22,9,-1.0,0,0,40.9,Cecebre,Embalse de Cecebre,Mero,Galicia Costa,43.2829606,-8.2977251
+2026-10-19,Eiras,Oitavén,22,9,-1.0,0,0,40.9,Eiras,Embalse de Eiras,Oitavén,Galicia Costa,42.3461379,-8.4903865
+2026-10-19,Eume,Eume,123,81,-1.0,54,35,65.9,Eume,Embalse de Eume,Eume,Galicia Costa,43.3763925,-7.9906232
+2026-10-19,Fervenza,Jallas,103,37,-1.0,112,39,35.9,Fervenza,Embalse de Fervenza,Jallas,Galicia Costa,42.9975289,-8.9935558
+2026-10-19,"Forcadas, As",Forcadas,11,3,0.0,0,0,27.3,As Forcadas,Embalse de As Forcadas,Forcadas,Galicia Costa,43.6176,-8.0839
+2026-10-19,Portodemouros,Ulla,297,126,-6.0,39,10,42.4,Portodemouros,Embalse de Portodemouros,Ulla,Galicia Costa,42.8388311,-8.1297595
+2026-10-19,"Ribeira, A",Eume,33,17,0.0,16,7,51.5,A Ribeira,Embalse de A Ribeira,Eume,Galicia Costa,42.5540645,-8.9922481
+2026-10-19,Riocobo,Cobo,6,2,0.0,0,0,33.3,Riocobo,Embalse de Riocobo,Cobo,Galicia Costa,43.6748439567132,-7.44653815686947
+2026-10-19,Sta Uxia,Jallas,18,11,-1.0,7,3,61.1,Sta Uxia,Embalse de Sta Uxia,Jallas,Galicia Costa,42.9176447321584,-9.09925275911726
+2026-10-19,Villagudín,Veduino,18,15,0.0,0,0,83.3,Villagudín,Embalse de Villagudín,Veduino,Galicia Costa,43.094887,-8.4915277
+2026-10-19,Ibai-Eder,Ibai-Eder,11,7,0.0,0,0,63.6,Ibai-Eder,Embalse de Ibai-Eder,Ibai-Eder,Cuencas Internas del País Vasco,43.1234072098623,-2.22521233982946
+2026-10-19,Urkulu,Urkulu,10,8,0.0,0,0,80.0,Urkulu,Embalse de Urkulu,Urkulu,Cuencas Internas del País Vasco,43.0190927,-2.4784518
+2026-10-19,"Agavanzal, Nª Sª de",Tera,36,33,-2.0,34,28,91.7,Nuestra Señora de Agavanzal,Embalse de Nuestra Señora de Agavanzal,Tera,Duero,41.9751551189605,-6.15928175503354
+2026-10-19,Águeda,Águeda,15,10,0.0,0,0,66.7,Águeda,Embalse de Águeda,Águeda,Duero,40.5298774,-6.4816084
+2026-10-19,Aguilar,Pisuerga,247,97,0.0,66,26,39.3,Aguilar,Embalse de Aguilar,Pisuerga,Duero,42.8095736,-4.3128549
+2026-10-19,Aldeadávila,Duero,114,103,-5.0,35,30,90.4,Aldeadávila,Embalse de Aldeadávila,Duero,Duero,41.2113789,-6.6862008
+2026-10-19,Almendra,Tormes,2649,1371,-51.0,3458,1758,51.8,Almendra,Embalse de Almendra,Tormes,Duero,41.2607875,-6.2694608
+2026-10-19,Arlanzón,Arlanzón,22,8,0.0,4,2,36.4,Arlanzón,Embalse de Arlanzón,Arlanzón,Duero,42.252480475864,-3.33593499944234
+2026-10-19,Barrios de Luna,Luna,311,70,-2.0,252,54,22.5,Barrios de Luna,Embalse de Barrios de Luna,Luna,Duero,42.8497549,-5.8637585
+2026-10-19,Burgomillodo,Duratón,14,7,-1.0,6,3,50.0,Burgomillodo,Embalse de Burgomillodo,Duratón,Duero,41.3315989,-3.880167
+2026-10-19,Camporredondo,Carrión,69,14,-1.0,43,7,20.3,Camporredondo,Embalse de Camporredondo,Carrión,Duero,42.9,-4.7166667
+2026-10-19,Casares de Arbas,Casares,37,14,-1.0,0,0,37.8,Casares de Arbas,Embalse de Casares de Arbas,Casares,Duero,42.927778,-5.758889
+2026-10-19,Castro,Duero,27,26,1.0,14,14,96.3,Castro,Embalse de Castro,Duero,Duero,41.5814768,-6.1676132
+2026-10-19,Castro de las Cogotas,Adaja,58,22,0.0,18,7,37.9,Castro de las Cogotas,Embalse de Castro de las Cogotas,Adaja,Duero,40.723889,-4.698333
+2026-10-19,Cernadilla,Tera,255,34,-1.0,297,34,13.3,Cernadilla,Embalse de Cernadilla,Tera,Duero,42.0124314,-6.5203088
+2026-10-19,Cervera,Rivera,10,8,-1.0,3,2,80.0,Cervera,Embalse de Cervera,Rivera,Duero,42.866667,-4.528889
+2026-10-19,Compuerto,Carrión,95,23,0.0,42,9,24.2,Compuerto,Embalse de Compuerto,Carrión,Duero,42.8789433,-4.8015285
+2026-10-19,Cuerda del Pozo,Duero,249,126,-1.0,58,31,50.6,Cuerda del Pozo,Embalse de Cuerda del Pozo,Duero,Duero,41.8546786,-2.7456298
+2026-10-19,Irueña,Águeda,110,54,-1.0,0,0,49.1,Irueña,Embalse de Irueña,Águeda,Duero,40.4463,-6.5766
+2026-10-19,Linares del Arroyo,Riaza,54,20,0.0,14,5,37.0,Linares del Arroyo,Embalse de Linares del Arroyo,Riaza,Duero,41.5060816,-3.5268841
+2026-10-19,"Pontón Alto, El",Eresma,7,5,0.0,0,0,71.4,El Pontón Alto,Embalse de El Pontón Alto,Eresma,Duero,40.9142742,-4.0318696
+2026-10-19,Porma-(Juan Benet),Porma,318,121,0.0,137,47,38.1,Porma-(Juan Benet),Embalse de Porma-(Juan Benet),Porma,Duero,42.9488854,-5.2815051
+2026-10-19,Puente Porto,Segundera,23,2,-1.0,54,2,8.7,Puente Porto,Embalse de Puente Porto,Segundera,Duero,42.1130422,-6.83376
+2026-10-19,Rábanos,Duero,8,6,0.0,3,2,75.0,Rábanos,Embalse de Rábanos,Duero,Duero,41.7264342231568,2.4518845045754
+2026-10-19,Requejada,Pisuerga,59,33,0.0,23,12,55.9,Requejada,Embalse de Requejada,Pisuerga,Duero,42.9155016,-4.4992928
+2026-10-19,Riaño,Esla,641,240,-1.0,372,97,37.4,Riaño,Embalse de Riaño,Esla,Duero,42.9705355,-5.0156456
+2026-10-19,Ricobayo,Esla,1145,398,-13.0,945,301,34.8,Ricobayo,Embalse de Ricobayo,Esla,Duero,41.6588218,-5.8591247
+2026-10-19,San José,Duero,6,6,0.0,2,2,100.0,San José,Embalse de San José,Duero,Duero,41.4038271,-5.2730534
+2026-10-19,Santa Teresa,Tormes,496,230,-3.0,406,182,46.4,Santa Teresa,Embalse de Santa Teresa,Tormes,Duero,40.6690424,-5.6044606
+2026-10-19,Saucelle,Duero,181,177,-1.0,10,9,97.8,Saucelle,Embalse de Saucelle,Duero,Duero,41.0872746,-6.7698536
+2026-10-19,Serones,Voltoya,6,6,0.0,0,0,100.0,Serones,Embalse de Serones,Voltoya,Duero,40.689722,-4.473889
+2026-10-19,Úzquiza,Arlanzón,75,45,-1.0,15,9,60.0,Úzquiza,Embalse de Úzquiza,Arlanzón,Duero,42.3069973,-3.3477076
+2026-10-19,Valparaíso,Tera,169,156,-2.0,165,146,92.3,Valparaíso,Embalse de Valparaíso,Tera,Duero,41.9677297,-6.2933711
+2026-10-19,"Vencías, Las",Duratón,5,0,-4.0,2,0,0.0,Las Vencías,Embalse de Las Vencías,Duratón,Duero,41.4201845,-3.9604246
+2026-10-19,Villagonzalo,Tormes,6,6,0.0,3,3,100.0,Villagonzalo,Embalse de Villagonzalo,Tormes,Duero,40.8731953,-5.4951721
+2026-10-19,Villalcampo,Duero,66,60,-2.0,41,36,90.9,Villalcampo,Embalse de Villalcampo,Duero,Duero,41.491111,-6.085278
+2026-10-19,Villameca,Tuerto,19,2,0.0,6,0,10.5,Villameca,Embalse de Villameca,Tuerto,Duero,42.6534432,-6.0778484
+2026-10-19,Aceña,Aceña,24,13,-1.0,0,0,54.2,Aceña,Embalse de Aceña,Aceña,Tajo,40.6192838,-4.2211616
+2026-10-19,Alcántara,Tajo,3160,1561,-114.0,791,269,49.4,Alcántara,Embalse de Alcántara,Tajo,Tajo,39.73,-6.884722
+2026-10-19,Alcorlo,Bornova,180,96,0.0,0,0,53.3,Alcorlo,Embalse de Alcorlo,Bornova,Tajo,41.022516,-3.0250778
+2026-10-19,Almoguera,Tajo,7,6,0.0,2,1,85.7,Almoguera,Embalse de Almoguera,Tajo,Tajo,40.275556,-2.9575
+2026-10-19,"Atance, El",Salado,35,18,0.0,0,0,51.4,El Atance,Embalse de El Atance,Salado,Tajo,41.0954055,-2.7792261
+2026-10-19,"Atazar, El",Lozoya,426,280,-3.0,0,0,65.7,El Atazar,Embalse de El Atazar,Lozoya,Tajo,40.9018994,-3.5433199
+2026-10-19,Azután,Tajo,113,75,-4.0,59,32,66.4,Azután,Embalse de Azután,Tajo,Tajo,39.7780137,-5.0884823
+2026-10-19,Baños,Baños,41,25,0.0,0,0,61.0,Baños,Embalse de Baños,Baños,Tajo,40.29054,-5.8894741
+2026-10-19,Beleña,Sorbe,53,19,-1.0,0,0,35.8,Beleña,Embalse de Beleña,Sorbe,Tajo,40.950963,-3.2018198
+2026-10-19,Bolarque,Tajo,31,26,-1.0,15,9,83.9,Bolarque,Embalse de Bolarque,Tajo,Tajo,40.3637929600671,-2.81585645197501
+2026-10-19,Borbollon,Árrago,88,37,-1.0,30,9,42.0,Borbollon,Embalse de Borbollon,Árrago,Tajo,40.141467,-6.5543199
+2026-10-19,Buendía,Guadiela,1705,797,1.0,1515,591,46.7,Buendía,Embalse de Buendía,Guadiela,Tajo,40.4132674480319,-2.72240670641006
+2026-10-19,Burguillo - Puente Nuevo,Alberche,201,84,-3.0,218,57,41.8,Burguillo - Puente Nuevo,Embalse de Burguillo - Puente Nuevo,Alberche,Tajo,40.4234346,-4.5817889
+2026-10-19,Cáceres - Guadiloba,Guadiloba,20,10,0.0,0,0,50.0,Cáceres - Guadiloba,Embalse de Cáceres - Guadiloba,Guadiloba,Tajo,39.4859827,-6.2867284
+2026-10-19,Castrejón,Tajo,44,43,0.0,15,13,97.7,Castrejón,Embalse de Castrejón,Tajo,Tajo,39.8585834,-4.2871904
+2026-10-19,"Castro, El",Algodor,8,3,0.0,0,0,37.5,"Castro, El","Embalse de Castro, El",Algodor,Tajo,39.8079,-3.7514
+2026-10-19,Cazalegas,Alberche,7,6,0.0,0,0,85.7,Cazalegas,Embalse de Cazalegas,Alberche,Tajo,40.0169519,-4.6993044
+2026-10-19,Cedillo,Tajo,260,252,1.0,17,16,96.9,Cedillo,Embalse de Cedillo,Tajo,Tajo,39.666759981849,-7.53050026604892
+2026-10-19,Entrepeñas,Tajo,813,485,-1.0,782,382,59.7,Entrepeñas,Embalse de Entrepeñas,Tajo,Tajo,40.5136201,-2.7307058
+2026-10-19,Finisterre,Algodor,133,24,0.0,0,0,18.0,Finisterre,Embalse de Finisterre,Algodor,Tajo,39.6192717,-3.6876803
+2026-10-19,Gabriel y Galán,Alagón,911,344,2.0,419,41,37.8,Gabriel y Galán,Embalse de Gabriel y Galán,Alagón,Tajo,40.2819282,-6.1288426
+2026-10-19,Guajaraz,Guajaraz,18,15,0.0,0,0,83.3,Guajaraz,Embalse de Guajaraz,Guajaraz,Tajo,39.7957553,-4.0894544
+2026-10-19,Guijo de Granadilla,Alagón,13,10,-2.0,3,1,76.9,Guijo de Granadilla,Embalse de Guijo de Granadilla,Alagón,Tajo,40.1928553,-6.1639671
+2026-10-19,"Jarosa, La",La Jarosa,7,3,0.0,0,0,42.9,La Jarosa,Embalse de La Jarosa,La Jarosa,Tajo,40.6690996,-4.1219537
+2026-10-19,Jerte - Plasencia,Jerte,59,28,-1.0,0,0,47.5,Jerte - Plasencia,Embalse de Jerte - Plasencia,Jerte,Tajo,40.0776825,-6.0136694
+2026-10-19,Molino de Chincha,Guadiela,6,5,-1.0,4,3,83.3,Molino de Chincha,Embalse de Molino de Chincha,Guadiela,Tajo,40.5441727052279,-2.16835837509503
+2026-10-19,Navacerrada,Navacerrada,11,4,0.0,0,0,36.4,Navacerrada,Embalse de Navacerrada,Navacerrada,Tajo,40.7187095,-4.0069802
+2026-10-19,Navalcán,Guayerbas,34,20,-1.0,0,0,58.8,Navalcán,Embalse de Navalcán,Guayerbas,Tajo,40.0352162,-5.1145455
+2026-10-19,Navamuño,Angostura,14,5,-1.0,0,0,35.7,Navamuño,Embalse de Navamuño,Angostura,Tajo,40.3431491,-5.7817325
+2026-10-19,Pálmaces,Cañamares,31,19,0.0,0,0,61.3,Pálmaces,Embalse de Pálmaces,Cañamares,Tajo,41.0593077,-2.9163471
+2026-10-19,"Pardo, El",Manzanares,43,13,0.0,0,0,30.2,El Pardo,Embalse de El Pardo,Manzanares,Tajo,40.538611,-3.786944
+2026-10-19,Picadas,Alberche,15,10,0.0,9,5,66.7,Picadas,Embalse de Picadas,Alberche,Tajo,40.3332076,-4.2491977
+2026-10-19,Pinilla,Lozoya,38,16,-1.0,0,0,42.1,Pinilla,Embalse de Pinilla,Lozoya,Tajo,40.9392529,-3.7955506
+2026-10-19,Portaje,Fresnedilla,23,16,0.0,0,0,69.6,Portaje,Embalse de Portaje,Fresnedilla,Tajo,39.8772877,-6.527643
+2026-10-19,"Portiña, La",Portiña,5,2,0.0,0,0,40.0,La Portiña,Embalse de La Portiña,Portiña,Tajo,40.0001945,-4.8423417
+2026-10-19,Puentes Viejas,Lozoya,53,32,-1.0,0,0,60.4,Puentes Viejas,Embalse de Puentes Viejas,Lozoya,Tajo,40.9931645,-3.5709094
+2026-10-19,Riosequillo,Lozoya,50,30,0.0,0,0,60.0,Riosequillo,Embalse de Riosequillo,Lozoya,Tajo,40.9830271,-3.6509177
+2026-10-19,Rivera de Gata,Rivera de Gata,49,8,0.0,0,0,16.3,Rivera de Gata,Embalse de Rivera de Gata,Rivera de Gata,Tajo,40.0663136276903,-6.6691687765364
+2026-10-19,Rosarito,Tiétar,82,12,0.0,0,0,14.6,Rosarito,Embalse de Rosarito,Tiétar,Tajo,40.1032226,-5.3076366
+2026-10-19,Salor,Salor,14,7,0.0,0,0,50.0,Salor,Embalse de Salor,Salor,Tajo,39.3541485830414,-6.28382202672256
+2026-10-19,San Juan,Alberche,138,70,0.0,104,29,50.7,San Juan,Embalse de San Juan,Alberche,Tajo,40.3867776,-4.3449529
+2026-10-19,Santillana,Manzanares,91,50,-1.0,0,0,54.9,Santillana,Embalse de Santillana,Manzanares,Tajo,40.7183943,-3.8697527
+2026-10-19,"Tajera, La",Tajuña,64,32,-1.0,0,0,50.0,La Tajera,Embalse de La Tajera,Tajuña,Tajo,40.8549702,-2.6003235
+2026-10-19,Torcón,Torcón,7,3,0.0,0,0,42.9,Torcón,Embalse de Torcón,Torcón,Tajo,39.7667868188369,-4.41306706786682
+2026-10-19,Torrejón (Tajo - Tietar),Tiétar,188,158,1.0,25,9,84.0,Torrejón (Tajo - Tietar),Embalse de Torrejón (Tajo - Tietar),Tiétar,Tajo,40.1956649164494,-4.8739305422929
+2026-10-19,"Vado, El",Jarama,56,14,-1.0,0,0,25.0,El Vado,Embalse de El Vado,Jarama,Tajo,41.0034172,-3.3008706
+2026-10-19,Valdecañas,Tajo,1446,850,30.0,664,285,58.8,Valdecañas,Embalse de Valdecañas,Tajo,Tajo,39.8189578,-5.4201377
+2026-10-19,Valdeobispo,Alagón,53,50,-1.0,14,11,94.3,Valdeobispo,Embalse de Valdeobispo,Alagón,Tajo,40.1168156,-6.2389221
+2026-10-19,Valmayor,Aulencia,124,84,0.0,0,0,67.7,Valmayor,Embalse de Valmayor,Aulencia,Tajo,40.5458978,-4.0567709
+2026-10-19,"Vellón,El-(Pedrezuela)",Guadalix,41,32,0.0,0,0,78.0,El Vellón (Pedrezuela),Embalse de El Vellón (Pedrezuela),Guadalix,Tajo,40.7619893,-3.6244392
+2026-10-19,"Villar, El",Lozoya,23,15,0.0,0,0,65.2,El Villar,Embalse de El Villar,Lozoya,Tajo,40.9474275,-3.5630884
+2026-10-19,"Aguijón, El",Alcarrache,11,10,0.0,0,0,90.9,El Aguijón,Embalse de El Aguijón,Alcarrache,Guadiana,38.1286111,-2.7758333
+2026-10-19,Alange,Matachel,852,433,0.0,0,0,50.8,Alange,Embalse de Alange,Matachel,Guadiana,38.7478671,-6.2482149
+2026-10-19,Alcollarín,Alcollarín,52,19,0.0,0,0,36.5,Alcollarín,Embalse de Alcollarín,Alcollarín,Guadiana,39.2472299,-5.7484747
+2026-10-19,Andévalo,Malagón,634,537,-2.0,0,0,84.7,Andévalo,Embalse de Andévalo,Malagón,Guadiana,37.6753112,-7.179026
+2026-10-19,Boquerón,Rosal,6,3,0.0,0,0,50.0,Boquerón,Embalse de Boquerón,Rosal,Guadiana,39.1728495281979,-6.42720979818816
+2026-10-19,Brovales,Brovales,7,5,0.0,0,0,71.4,Brovales,Embalse de Brovales,Brovales,Guadiana,38.3558277,-6.6945568
+2026-10-19,Búrdalo,Búrdalo,79,22,0.0,0,0,27.8,Búrdalo,Embalse de Búrdalo,Búrdalo,Guadiana,39.1467077899557,-5.9623467648986
+2026-10-19,Canchales,Lácara,26,19,0.0,0,0,73.1,Canchales,Embalse de Canchales,Lácara,Guadiana,37.1569777,-3.4687701
+2026-10-19,Cancho del Fresno,Ruecas,15,11,0.0,0,0,73.3,Cancho del Fresno,Embalse de Cancho del Fresno,Ruecas,Guadiana,39.4020651,-5.3874113
+2026-10-19,Chanza,Chanza,338,182,-6.0,0,0,53.8,Chanza,Embalse de Chanza,Chanza,Guadiana,37.5584663,-7.5207942
+2026-10-19,Cijara,Guadiana,1505,1137,-1.0,296,216,75.5,Cijara,Embalse de Cijara,Guadiana,Guadiana,39.3244044,-4.8909681
+2026-10-19,Cornalbo,Albarregas,3,2,0.0,0,0,66.7,Cornalbo,Embalse de Cornalbo,Albarregas,Guadiana,38.9883478,-6.1910614
+2026-10-19,Cubilar,Cubilar,6,5,0.0,0,0,83.3,Cubilar,Embalse de Cubilar,Cubilar,Guadiana,37.2765577,-3.6711972
+2026-10-19,El Vicario,Guadiana,32,19,0.0,0,0,59.4,El Vicario,Embalse de El Vicario,Guadiana,Guadiana,39.059722,-3.995556
+2026-10-19,García de Sola,Guadiana,554,265,-1.0,38,5,47.8,García de Sola,Embalse de García de Sola,Guadiana,Guadiana,39.1682283294725,-5.21867504845419
+2026-10-19,Gargáligas,Gargáligas,21,14,0.0,0,0,66.7,Gargáligas,Embalse de Gargáligas,Gargáligas,Guadiana,39.0527721,-5.6523679
+2026-10-19,Gasset,Becea,39,25,0.0,0,0,64.1,Gasset,Embalse de Gasset,Becea,Guadiana,39.1420809,-3.9546877
+2026-10-19,Horno Tejero,Lácara,24,13,0.0,0,0,54.2,Horno Tejero,Embalse de Horno Tejero,Lácara,Guadiana,39.1563553,-6.431699
+2026-10-19,La Cabezuela,Jabalón,43,23,0.0,0,0,53.5,La Cabezuela,Embalse de La Cabezuela,Jabalón,Guadiana,38.7143280356693,-3.25317552830371
+2026-10-19,La Colada,Guadamatilla,58,47,0.0,0,0,81.0,La Colada,Embalse de La Colada,Guadamatilla,Guadiana,38.5475,-5.0093
+2026-10-19,La Serena,Zújar,3219,2628,-2.0,421,343,81.6,La Serena,Embalse de La Serena,Zújar,Guadiana,38.9285143,-5.2214477
+2026-10-19,Llerena,Conejo,8,7,0.0,0,0,87.5,Llerena,Embalse de Llerena,Conejo,Guadiana,38.3087412,-5.9105957
+2026-10-19,Los Molinos,Matachel,34,30,0.0,0,0,88.2,Los Molinos,Embalse de Los Molinos,Matachel,Guadiana,38.5133912654302,-6.11230521683746
+2026-10-19,Montijo,Guadiana,11,11,0.0,0,0,100.0,Montijo,Embalse de Montijo,Guadiana,Guadiana,38.933125,-6.4090668
+2026-10-19,Nogales,Nogales,18,12,0.0,0,0,66.7,Nogales,Embalse de Nogales,Nogales,Guadiana,38.5570713159997,-6.73067026391768
+2026-10-19,Orellana,Guadiana,808,590,-2.0,20,0,73.0,Orellana,Embalse de Orellana,Guadiana,Guadiana,39.0324017,-5.3965729
+2026-10-19,Peñarroya,Guadiana,51,46,1.0,0,0,90.2,Peñarroya,Embalse de Peñarroya,Guadiana,Guadiana,39.0346779871601,-2.96199078698037
+2026-10-19,Piedra Aguda,Olivenza,16,12,0.0,0,0,75.0,Piedra Aguda,Embalse de Piedra Aguda,Olivenza,Guadiana,38.6630572,-7.0296822
+2026-10-19,Proserpina,Pardilla,5,4,0.0,0,0,80.0,Proserpina,Embalse de Proserpina,Pardilla,Guadiana,38.969544,-6.366433
+2026-10-19,Pto. Vallehermoso,Azuer,7,6,0.0,0,0,85.7,Pto. Vallehermoso,Embalse de Pto. Vallehermoso,Azuer,Guadiana,38.8614509645976,-3.16267524939947
+2026-10-19,Ruecas,Ruecas,42,28,0.0,0,0,66.7,Ruecas,Embalse del Ruecas,Ruecas,Guadiana,39.2829457084821,-5.47769001359411
+2026-10-19,Sierra Brava,Pizarroso,233,81,-1.0,0,0,34.8,Sierra Brava,Embalse de Sierra Brava,Pizarroso,Guadiana,39.2315102,-5.6300233
+2026-10-19,Tentudia,Bodión,5,4,0.0,0,0,80.0,Tentudia,Embalse de Tentudia,Bodión,Guadiana,38.0935964,-6.3179551
+2026-10-19,Torre de Abrahán,Bullaque,183,134,0.0,0,0,73.2,Torre de Abrahán,Embalse de Torre de Abrahán,Bullaque,Guadiana,39.3745771,-4.2477779
+2026-10-19,Valuengo,Ardila,20,7,0.0,0,0,35.0,Valuengo,Embalse de Valuengo,Ardila,Guadiana,38.3048965,-6.6678214
+2026-10-19,Vega del Jabalón,Jabalón,34,12,0.0,0,0,35.3,Vega del Jabalón,Embalse de Vega del Jabalón,Jabalón,Guadiana,38.8288405024577,-3.93834886181352
+2026-10-19,Villalba de los Barros,Guadajira,106,94,0.0,0,0,88.7,Villalba de los Barros,Embalse de Villalba de los Barros,Guadajira,Guadiana,38.5820754,-6.5051827
+2026-10-19,Villar del Rey,Zapatón,131,94,-1.0,0,0,71.8,Villar del Rey,Embalse de Villar del Rey,Zapatón,Guadiana,39.1319915,-6.8478307
+2026-10-19,Zújar,Zújar,302,258,-1.0,18,13,85.4,Zújar,Embalse de Zújar,Zújar,Guadiana,38.916944,-5.478889
+2026-10-19,Corumbel Bajo,Corumbel,19,13,0.0,0,0,68.4,Corumbel Bajo,Embalse de Corumbel Bajo,Corumbel,"Tinto, Odiel y Piedras",37.4390078,-6.5576553
+2026-10-19,Jarrama,Jarrama,43,26,0.0,0,0,60.5,Jarrama,Embalse de Jarrama,Jarrama,"Tinto, Odiel y Piedras",37.6675839,-6.5094369
+2026-10-19,Los Machos,Piedras,12,3,0.0,0,0,25.0,Los Machos,Embalse de Los Machos,Piedras,"Tinto, Odiel y Piedras",37.3550949248481,-7.2544986479835
+2026-10-19,Odiel,Odiel,8,7,0.0,0,0,87.5,Odiel,Embalse de Odiel,Odiel,"Tinto, Odiel y Piedras",37.4699852233098,-6.74990954008527
+2026-10-19,Olivargas,Olivargas,29,21,0.0,0,0,72.4,Olivargas,Embalse de Olivargas,Olivargas,"Tinto, Odiel y Piedras",37.7195741,-6.8123247
+2026-10-19,Piedras,Piedras,60,22,0.0,0,0,36.7,Piedras,Embalse de Piedras,Piedras,"Tinto, Odiel y Piedras",37.386156,-7.2679832
+2026-10-19,Sancho,Meca,58,48,0.0,0,0,82.8,Sancho,Embalse de Sancho,Meca,"Tinto, Odiel y Piedras",37.4793975,-7.0216191
+2026-10-19,Almodóvar,Almodóvar,6,3,0.0,0,0,50.0,Almodóvar,Embalse de Almodóvar,Almodóvar,Guadalete-Barbate,36.1560848,-5.6444806
+2026-10-19,Arcos de la Frontera,Guadalete,14,13,-1.0,0,0,92.9,Arcos de la Frontera,Embalse de Arcos de la Frontera,Guadalete,Guadalete-Barbate,36.7638075,-5.7892476
+2026-10-19,Barbate,Barbate,228,155,-1.0,0,0,68.0,Barbate,Embalse de Barbate,Barbate,Guadalete-Barbate,36.381161,-5.7141879
+2026-10-19,Bornos,Guadalete,200,127,0.0,18,10,63.5,Bornos,Embalse de Bornos,Guadalete,Guadalete-Barbate,36.8117195,-5.7141879
+2026-10-19,Celemín,Celemín,45,33,0.0,0,0,73.3,Celemín,Embalse de Celemín,Celemín,Guadalete-Barbate,36.3063696,-5.7536812
+2026-10-19,Guadalcacín II,Majaceite,800,672,-1.0,0,0,84.0,Guadalcacín II,Embalse de Guadalcacín II,Majaceite,Guadalete-Barbate,36.6333463680494,-5.7016050421496
+2026-10-19,"Hurones, Los",Majaceite,135,84,-2.0,23,11,62.2,Los Hurones,Embalse de Los Hurones,Majaceite,Guadalete-Barbate,36.6872725,-5.5341696
+2026-10-19,Zahara-El Gastor,Guadalete,223,144,-1.0,0,0,64.6,Zahara-El Gastor,Embalse de Zahara-El Gastor,Guadalete,Guadalete-Barbate,36.841141,-5.3704009
+2026-10-19,Agrio (Aznalcollar),Agrio,20,15,-1.0,0,0,75.0,Agrio (Aznalcollar),Embalse de Agrio (Aznalcollar),Agrio,Guadalquivir,37.5191373,-6.2681327
+2026-10-19,Aguascebas,Aguascebas,6,3,0.0,0,0,50.0,Aguascebas,Embalse de Aguascebas,Aguascebas,Guadalquivir,38.0440983,-2.9506893
+2026-10-19,Aracena,Rivera de Huelva,129,103,0.0,0,0,79.8,Aracena,Embalse de Aracena,Rivera de Huelva,Guadalquivir,37.9205421,-6.4583355
+2026-10-19,Arenoso,Arenoso,167,115,0.0,0,0,68.9,Arenoso,Embalse de Arenoso,Arenoso,Guadalquivir,40.0938706,-0.5596874
+2026-10-19,Bembézar,Bembézar,328,250,-2.0,53,37,76.2,Bembézar,Embalse de Bembézar,Bembézar,Guadalquivir,37.977222,-5.302278
+2026-10-19,Bermejales,Cacín,91,60,0.0,6,5,65.9,Bermejales,Embalse de Bermejales,Cacín,Guadalquivir,36.9846076,-3.8884417
+2026-10-19,"Bolera, La",Guadalentín,54,23,-1.0,0,0,42.6,La Bolera,Embalse de La Bolera,Guadalentín,Guadalquivir,37.7799373,-2.8963776
+2026-10-19,"Breña II, La",Guadiato,823,630,1.0,0,0,76.5,La Breña II,Embalse de La Breña II,Guadiato,Guadalquivir,37.845556,-5.050556
+2026-10-19,Cala,Rivera de Cala,59,25,-2.0,21,9,42.4,Cala,Embalse de Cala,Rivera de Cala,Guadalquivir,37.7113698,-6.1043336
+2026-10-19,Canales,Genil,70,57,0.0,43,39,81.4,Canales,Embalse de Canales,Genil,Guadalquivir,37.1569777,-3.4687701
+2026-10-19,Colomera,Colomera,40,31,0.0,0,0,77.5,Colomera,Embalse de Colomera,Colomera,Guadalquivir,37.4031614,-3.7193936
+2026-10-19,Cubillas,Cubillas,14,8,1.0,0,0,57.1,Cubillas,Embalse de Cubillas,Cubillas,Guadalquivir,37.2765577,-3.6711972
+2026-10-19,El Portillo,Castril,31,28,0.0,0,0,90.3,El Portillo,Embalse de El Portillo,Castril,Guadalquivir,37.805833,-2.788889
+2026-10-19,"Fernandina, La",Guarrizas,247,176,0.0,0,0,71.3,La Fernandina,Embalse de La Fernandina,Guarrizas,Guadalquivir,38.2070039,-3.5736771
+2026-10-19,Francisco Abellán,Fardes,58,25,0.0,0,0,43.1,Francisco Abellán,Embalse de Francisco Abellán,Fardes,Guadalquivir,37.3076425,-3.2703078
+2026-10-19,Fresneda,Fresneda,19,15,0.0,0,0,78.9,Fresneda,Embalse de Fresneda,Fresneda,Guadalquivir,38.5406973804847,-3.61862802771065
+2026-10-19,Gergal,Rivera de Huelva,35,24,1.0,0,0,68.6,Gergal,Embalse de Gergal,Rivera de Huelva,Guadalquivir,37.570278,-6.049167
+2026-10-19,Giribaile,Guadalimar,491,342,1.0,0,0,69.7,Giribaile,Embalse de Giribaile,Guadalimar,Guadalquivir,38.1100868,-3.4624575
+2026-10-19,Guadalén,Guadalén,163,71,-1.0,13,5,43.6,Guadalén,Embalse de Guadalén,Guadalén,Guadalquivir,38.1890877,-3.4675075
+2026-10-19,Guadalmellato,Guadalmellato,145,118,0.0,13,10,81.4,Guadalmellato,Embalse de Guadalmellato,Guadalmellato,Guadalquivir,38.068056,-4.689167
+2026-10-19,Guadalmena,Guadalmena,345,265,-2.0,86,36,76.8,Guadalmena,Embalse de Guadalmena,Guadalmena,Guadalquivir,38.3939057,-2.9051132
+2026-10-19,Huesna,Rivera de Huesna,135,90,0.0,0,0,66.7,Huesna,Embalse de Huesna,Rivera de Huesna,Guadalquivir,37.7834728470249,-5.68847713732673
+2026-10-19,Iznájar,Genil,920,677,2.0,279,104,73.6,Iznájar,Embalse de Iznájar,Genil,Guadalquivir,37.258424,-4.3282595
+2026-10-19,Jándula,Jándula,325,180,0.0,86,13,55.4,Jándula,Embalse de Jándula,Jándula,Guadalquivir,38.2587298,-3.9342953
+2026-10-19,José Torán,Guadalbarcar,101,56,-1.0,0,0,55.4,José Torán,Embalse de José Torán,Guadalbarcar,Guadalquivir,37.7480606,-5.4845959
+2026-10-19,Martín Gonzalo,Martín Gonzalo,20,13,0.0,0,0,65.0,Martín Gonzalo,Embalse de Martín Gonzalo,Martín Gonzalo,Guadalquivir,38.1018411,-4.3301854
+2026-10-19,"Melonares, Los",Viar,186,155,-2.0,0,0,83.3,Los Melonares,Embalse de Los Melonares,Viar,Guadalquivir,37.765257,-5.890794
+2026-10-19,"Minilla, La",Rivera de Huelva,58,30,0.0,0,0,51.7,La Minilla,Embalse de La Minilla,Rivera de Huelva,Guadalquivir,37.6893836,-6.1957953
+2026-10-19,Montoro,Montoro,105,93,0.0,0,0,88.6,Montoro,Embalse de Montoro,Montoro,Guadalquivir,38.0226527,-4.3834962
+2026-10-19,Negratín,Guadiana Menor,571,331,-1.0,45,25,58.0,Negratín,Embalse de Negratín,Guadiana Menor,Guadalquivir,37.5928463,-2.8315345
+2026-10-19,"Pintado, El",Viar,215,166,1.0,77,56,77.2,El Pintado,Embalse de El Pintado,Viar,Guadalquivir,37.9869909,-5.9554931
+2026-10-19,Puebla de Cazalla,Carbones,63,37,0.0,0,0,58.7,Puebla de Cazalla,Embalse de Puebla de Cazalla,Carbones,Guadalquivir,37.1223564,-5.2201428
+2026-10-19,Puente Nuevo,Guadiato,281,205,-1.0,9,5,73.0,Puente Nuevo,Embalse de Puente Nuevo,Guadiato,Guadalquivir,38.1022203,-4.9402863
+2026-10-19,Quéntar,Aguas Blancas,14,1,-1.0,0,0,7.1,Quéntar,Embalse de Quéntar,Aguas Blancas,Guadalquivir,37.2081452,-3.4340605
+2026-10-19,Quiebrajano,Quiebrajano,33,27,0.0,4,3,81.8,Quiebrajano,Embalse de Quiebrajano,Quiebrajano,Guadalquivir,37.6292053,-3.7270077
+2026-10-19,Retortillo,Retortillo,61,42,0.0,2,1,68.9,Retortillo,Embalse de Retortillo,Retortillo,Guadalquivir,37.8522348,-5.3717092
+2026-10-19,Rumblar,Rumblar,140,80,-1.0,16,10,57.1,Rumblar,Embalse de Rumblar,Rumblar,Guadalquivir,38.1911604,-3.7854209
+2026-10-19,San Clemente,Guardal,117,20,-1.0,0,0,17.1,San Clemente,Embalse de San Clemente,Guardal,Guadalquivir,37.8666913,-2.6462262
+2026-10-19,San Rafael de Navallana,Guadalmellato,160,72,-1.0,0,0,45.0,San Rafael de Navallana,Embalse de San Rafael de Navallana,Guadalmellato,Guadalquivir,37.9896207,-4.6256661
+2026-10-19,Sierra Boyera,Guadiato,39,28,-1.0,0,0,71.8,Sierra Boyera,Embalse de Sierra Boyera,Guadiato,Guadalquivir,38.2744896,-5.2488573
+2026-10-19,Siles,Guadalimar,30,21,0.0,0,0,70.0,Siles,Embalse de Siles,Guadalimar,Guadalquivir,38.405301761574,-2.60556982434747
+2026-10-19,Torre del Águila,Salado,48,8,0.0,0,0,16.7,Torre del Águila,Embalse de Torre del Águila,Salado,Guadalquivir,37.0524002,-5.7518088
+2026-10-19,Tranco de Beas,Guadalquivir,506,362,-1.0,175,66,71.5,Tranco de Beas,Embalse de Tranco de Beas,Guadalquivir,Guadalquivir,38.1286111,-2.7758333
+2026-10-19,Vadomojón,Guadajoz,146,111,-2.0,0,0,76.0,Vadomojón,Embalse de Vadomojón,Guadajoz,Guadalquivir,37.6350312,-4.2256464
+2026-10-19,Víboras,Víboras,17,8,0.0,0,0,47.1,Víboras,Embalse de Víboras,Víboras,Guadalquivir,37.6381932656207,-3.98761741964581
+2026-10-19,Yeguas,Yeguas,229,175,-1.0,29,22,76.4,Yeguas,Embalse de Yeguas,Yeguas,Guadalquivir,38.080556,-4.230556
+2026-10-19,Zufre,Rivera de Huelva,175,132,-1.0,0,0,75.4,Zufre,Embalse de Zufre,Rivera de Huelva,Guadalquivir,37.8275653,-6.297357
+2026-10-19,Benínar,Grande de Adra,63,10,0.0,0,0,15.9,Benínar,Embalse de Benínar,Grande de Adra,Cuenca Mediterránea Andaluza,36.8825,-3.025278
+2026-10-19,Béznar,Izbor,53,36,0.0,0,0,67.9,Béznar,Embalse de Béznar,Izbor,Cuenca Mediterránea Andaluza,36.921389,-3.552222
+2026-10-19,Casasola,Campanillas,22,7,0.0,0,0,31.8,Casasola,Embalse de Casasola,Campanillas,Cuenca Mediterránea Andaluza,36.8081341064868,-4.49235673083119
+2026-10-19,Charco Redondo,Palmones,82,49,0.0,0,0,59.8,Charco Redondo,Embalse de Charco Redondo,Palmones,Cuenca Mediterránea Andaluza,36.253889,-5.565
+2026-10-19,Concepción,Verde de Marbella,62,28,-1.0,0,0,45.2,Concepción,Embalse de Concepción,Verde de Marbella,Cuenca Mediterránea Andaluza,36.548231,-4.9623639
+2026-10-19,Conde Guadalhorce,Turón,66,39,-1.0,5,4,59.1,Conde Guadalhorce,Embalse de Conde Guadalhorce,Turón,Cuenca Mediterránea Andaluza,36.7100573211009,-4.57549907665795
+2026-10-19,Cuevas de Almanzora,Almanzora,161,15,0.0,0,0,9.3,Cuevas de Almanzora,Embalse de Cuevas de Almanzora,Almanzora,Cuenca Mediterránea Andaluza,37.3315192,-1.8964922
+2026-10-19,Guadalhorce-Guadalteba,Gudalhorce-Guadalteba,279,247,-1.0,23,23,88.5,Guadalhorce-Guadalteba,Embalse de Guadalhorce-Guadalteba,Gudalhorce-Guadalteba,Cuenca Mediterránea Andaluza,36.9551122,-4.8391015
+2026-10-19,Guadarranque,Guadarranque,88,66,0.0,0,0,75.0,Guadarranque,Embalse de Guadarranque,Guadarranque,Cuenca Mediterránea Andaluza,36.318611,-5.468333
+2026-10-19,Limonero,Guadalmedina,22,14,0.0,0,0,63.6,Limonero,Embalse de Limonero,Guadalmedina,Cuenca Mediterránea Andaluza,36.7703091,-4.4317144
+2026-10-19,Rules,Guadalfeo,111,90,-1.0,0,0,81.1,Rules,Embalse de Rules,Guadalfeo,Cuenca Mediterránea Andaluza,36.8598329,-3.4953143
+2026-10-19,"Viñuela, La",Guaro,165,138,0.0,0,0,83.6,La Viñuela,Embalse de La Viñuela,Guaro,Cuenca Mediterránea Andaluza,36.8785087,-4.1692941
+2026-10-19,Alfonso XIII,Quípar,22,0,0.0,4,0,0.0,Alfonso XIII,Embalse de Alfonso XIII,Quípar,Segura,38.2146862,-1.6044591
+2026-10-19,Algeciras,Algeciras,45,8,0.0,0,0,17.8,Algeciras,Embalse de Algeciras,Algeciras,Segura,37.8921029,-1.3915491
+2026-10-19,Anchuricas,Segura,6,1,0.0,4,1,16.7,Anchuricas,Embalse de Anchuricas,Segura,Segura,38.1958611,-2.5430087
+2026-10-19,Argos,Argos,10,7,0.0,2,1,70.0,Argos,Embalse de Argos,Argos,Segura,38.1685604,-1.7398895
+2026-10-19,Camarillas,Mundo,36,10,1.0,8,2,27.8,Camarillas,Embalse de Camarillas,Mundo,Segura,38.3605308,-1.6347878
+2026-10-19,Cenajo,Segura,437,247,-5.0,103,54,56.5,Cenajo,Embalse de Cenajo,Segura,Segura,38.3722005,-1.8257384
+2026-10-19,"Cierva, La",Mula,7,4,0.0,0,0,57.1,La Cierva,Embalse de La Cierva,Mula,Segura,38.0611831,-1.4865835
+2026-10-19,Crevillente,Rambla de Bosch,13,8,0.0,0,0,61.5,Crevillente,Embalse de Crevillente,Rambla de Bosch,Segura,38.2446844,-0.8113636
+2026-10-19,Fuensanta,Segura,210,148,-2.0,45,32,70.5,Fuensanta,Embalse de Fuensanta,Segura,Segura,38.4066732,-2.2642702
+2026-10-19,La Pedrera,Dep.Arr.Grande,246,88,0.0,0,0,35.8,La Pedrera,Embalse de La Pedrera,Dep.Arr.Grande,Segura,38.0338723,-0.8710856
+2026-10-19,Puentes,Guadalentín,26,13,1.0,0,0,50.0,Puentes,Embalse de Puentes,Guadalentín,Segura,37.7348846,-1.8192702
+2026-10-19,Santomera,Rambla Salada,26,3,0.0,0,0,11.5,Santomera,Embalse de Santomera,Rambla Salada,Segura,38.0953218,-1.0885631
+2026-10-19,Taibilla,Taibilla,9,8,0.0,2,2,88.9,Taibilla,Embalse de Taibilla,Taibilla,Segura,38.1930152,-2.2615004
+2026-10-19,Talave,Mundo,35,8,0.0,10,2,22.9,Talave,Embalse de Talave,Mundo,Segura,38.5094017,-1.8781829
+2026-10-19,Valdeinfierno,Alcaide,12,0,0.0,0,0,0.0,Valdeinfierno,Embalse de Valdeinfierno,Alcaide,Segura,37.8109247,-1.9710284
+2026-10-19,Alarcón,Júcar,1118,795,-2.0,1596,1141,71.1,Alarcón,Embalse de Alarcón,Júcar,Júcar,39.6539699,-2.2162882
+2026-10-19,Algar,Palancia,6,0,0.0,0,0,0.0,Algar,Embalse de Algar,Palancia,Júcar,39.7879092,-0.3765436
+2026-10-19,Amadorio,Amadorio,16,3,-1.0,0,0,18.8,Amadorio,Embalse de Amadorio,Amadorio,Júcar,38.535209,-0.2632115
+2026-10-19,Arenós,Mijares,137,52,0.0,113,45,38.0,Arenós,Embalse de Arenós,Mijares,Júcar,40.0938706,-0.5596874
+2026-10-19,Arquillo de San Blas,Turia,21,14,0.0,7,4,66.7,Arquillo de San Blas,Embalse de Arquillo de San Blas,Turia,Júcar,40.3718676,-1.2295586
+2026-10-19,Bellús,Albaida,69,12,1.0,0,0,17.4,Bellús,Embalse de Bellús,Albaida,Júcar,38.9312654,-0.4755993
+2026-10-19,Benagéber,Turia,221,81,1.0,59,21,36.7,Benagéber,Embalse de Benagéber,Turia,Júcar,39.7419003,-1.1137191
+2026-10-19,Beniarrés,Serpis,27,6,0.0,0,0,22.2,Beniarrés,Embalse de Beniarrés,Serpis,Júcar,38.8149329,-0.3561709
+2026-10-19,Buseo,Sot de Chera,8,1,0.0,0,0,12.5,Buseo,Embalse de Buseo,Sot de Chera,Júcar,39.594722,-0.938611
+2026-10-19,Contreras,Cabriel,361,247,0.0,232,159,68.4,Contreras,Embalse de Contreras,Cabriel,Júcar,39.5928206,-1.5232832
+2026-10-19,Cortes II,Júcar,118,98,-13.0,17,6,83.1,Cortes II,Embalse de Cortes II,Júcar,Júcar,39.2620263,-0.9183368
+2026-10-19,El Naranjero,Júcar,29,23,2.0,0,0,79.3,El Naranjero,Embalse de El Naranjero,Júcar,Júcar,39.275282,-0.8609602
+2026-10-19,Escalona,Escalona,99,5,0.0,0,0,5.1,Escalona,Embalse de Escalona,Escalona,Júcar,39.1281706,-0.7063724
+2026-10-19,Forata,Magro,37,17,0.0,0,0,45.9,Forata,Embalse de Forata,Magro,Júcar,39.3420541,-0.8663219
+2026-10-19,Guadalest,Guadalest,13,3,0.0,0,0,23.1,Guadalest,Embalse de Guadalest,Guadalest,Júcar,38.6836086,-0.2004374
+2026-10-19,La Muela,Júcar,20,14,6.0,0,0,70.0,La Muela,Embalse de La Muela,Júcar,Júcar,39.2620263,-0.9183368
+2026-10-19,La Toba,Júcar,10,4,0.0,17,7,40.0,La Toba,Embalse de La Toba,Júcar,Júcar,40.2082812,-1.9068708
+2026-10-19,Loriguilla,Turia,73,21,-1.0,18,6,28.8,Loriguilla,Embalse de Loriguilla,Turia,Júcar,39.675286,-0.9187842
+2026-10-19,María Cristina,Rambla Viuda,18,5,0.0,0,0,27.8,María Cristina,Embalse de María Cristina,Rambla Viuda,Júcar,40.0356395,-0.1606176
+2026-10-19,Regajo,Palancia,6,2,0.0,0,0,33.3,Regajo,Embalse de Regajo,Palancia,Júcar,39.8933544,-0.5275546
+2026-10-19,Sichar,Mijares,49,16,0.0,3,1,32.7,Sichar,Embalse de Sichar,Mijares,Júcar,40.0156221,-0.2420576
+2026-10-19,Tous - La Ribera,Júcar,379,53,6.0,0,0,14.0,Tous - La Ribera,Embalse de Tous - La Ribera,Júcar,Júcar,39.145556,-0.66
+2026-10-19,Ulldecona,Cenia,11,7,0.0,0,0,63.6,Ulldecona,Embalse de Ulldecona,Cenia,Júcar,40.670833,0.231111
+2026-10-19,Albiña,Albiña,5,3,0.0,3,2,60.0,Albiña,Embalse de Albiña,Albiña,Ebro,43.0027839,-2.6276116
+2026-10-19,Alcañiz (Estanca),Guadalope,7,6,0.0,3,2,85.7,Alcañiz (Estanca),Embalse de Alcañiz (Estanca),Guadalope,Ebro,41.0510353,-0.1335373
+2026-10-19,Alloz,Salado,66,20,0.0,40,11,30.3,Alloz,Embalse de Alloz,Salado,Ebro,42.7218764,-1.936573
+2026-10-19,Barasona,Ésera,85,18,2.0,54,11,21.2,Barasona,Embalse de Barasona,Ésera,Ebro,42.1411111,0.3261111
+2026-10-19,Baserca,Noguera-Ribagorzana,22,14,-1.0,98,64,63.6,Baserca,Embalse de Baserca,Noguera-Ribagorzana,Ebro,42.5913193,0.7615995
+2026-10-19,Búbal,Gállego,63,5,0.0,73,5,7.9,Búbal,Embalse de Búbal,Gállego,Ebro,42.7010756,-0.312503
+2026-10-19,Calanda,Guadalope,54,26,0.0,16,7,48.1,Calanda,Embalse de Calanda,Guadalope,Ebro,40.9067308,-0.2092267
+2026-10-19,Camarasa,Noguera-Pallaresa,163,77,-3.0,63,15,47.2,Camarasa,Embalse de Camarasa,Noguera-Pallaresa,Ebro,41.9350644,0.8567905
+2026-10-19,Canelles,Noguera-Ribagorzana,679,305,-4.0,395,152,44.9,Canelles,Embalse de Canelles,Noguera-Ribagorzana,Ebro,41.9784145,0.61246
+2026-10-19,Cañón de Santolea,Guadalope,82,15,0.0,9,5,18.3,Cañón de Santolea,Embalse del Cañón de Santolea,Guadalupe,Ebro,40.7564462,-0.3538888
+2026-10-19,Caspe,Guadalope,82,51,0.0,17,10,62.2,Caspe,Embalse de Caspe,Guadalope,Ebro,41.1212587,-0.0244872
+2026-10-19,Cavallers,Noguera de Tort,16,12,0.0,54,41,75.0,Cavallers,Embalse de Cavallers,Noguera de Tort,Ebro,42.5906494,0.8567905
+2026-10-19,Certescáns,Certescáns,16,7,0.0,97,43,43.8,Certescáns,Embalse de Certescáns,Certescáns,Ebro,42.703887,1.3065128
+2026-10-19,Ciurana,Ciurana,12,9,0.0,0,0,75.0,Ciurana,Embalse de Ciurana,Ciurana,Ebro,41.2508273,0.9126746
+2026-10-19,Cueva Foradada,Martín,22,16,0.0,4,3,72.7,Cueva Foradada,Embalse de Cueva Foradada,Martín,Ebro,40.9704816,-0.6950987
+2026-10-19,Ebro,Ebro,541,285,-3.0,468,245,52.7,Ebro,Embalse de Ebro,Ebro,Ebro,43.0206347,-3.9164585
+2026-10-19,Enciso,Cidacos,46,18,0.0,19,7,39.1,Enciso,Embalse de Enciso,Cidacos,Ebro,42.1426477081533,-2.27923341045313
+2026-10-19,Escales,Noguera-Ribagorzana,152,119,-3.0,149,115,78.3,Escales,Embalse de Escales,Noguera-Ribagorzana,Ebro,42.3259265,0.742902
+2026-10-19,Eúgui,Arga,21,9,-1.0,10,4,42.9,Eúgui,Embalse de Eúgui,Arga,Ebro,42.9790958,-1.5172315
+2026-10-19,Flix,Ebro,11,10,-1.0,2,0,90.9,Flix,Embalse de Flix,Ebro,Ebro,41.235,0.5526
+2026-10-19,González Lacasa,Albercos,33,7,0.0,20,4,21.2,González Lacasa,Embalse de González Lacasa,Albercos,Ebro,42.173919,-2.672878
+2026-10-19,"Grado, El",Cinca,400,164,0.0,112,43,41.0,El Grado,Embalse de El Grado,Cinca,Ebro,42.313333,0.210833
+2026-10-19,Guiamets,Asmat,10,7,0.0,0,0,70.0,Guiamets,Embalse de Guiamets,Asmat,Ebro,41.0954794,0.7598168
+2026-10-19,Ip,Barranco de Ip,5,2,0.0,14,4,40.0,Ip,Embalse de Ip,Barranco de Ip,Ebro,42.7204180136845,-0.45648767763092
+2026-10-19,Irabia,Irati,14,4,0.0,17,5,28.6,Irabia,Embalse de Irabia,Irati,Ebro,42.9900764,-1.1466976
+2026-10-19,Itoiz,Irati,417,132,-3.0,234,70,31.7,Itoiz,Embalse de Itoiz,Irati,Ebro,42.8014564,-1.3635333
+2026-10-19,Lanuza,Gállego,17,3,0.0,34,5,17.6,Lanuza,Embalse de Lanuza,Gállego,Ebro,42.75,-0.3
+2026-10-19,Las Fitas,Barranco Carnerario,9,5,0.0,5,3,55.6,Las Fitas,Embalse de Las Fitas,Barranco Carnerario,Ebro,41.7975,-0.0597
+2026-10-19,Laverné,Barranco Vitale,38,10,-1.0,8,2,26.3,Laverné,Embalse de Laverné,Barranco Vitale,Ebro,42.0805793,-1.075377
+2026-10-19,Lechago,Pancrudo,18,11,0.0,6,3,61.1,Lechago,Embalse de Lechago,Pancrudo,Ebro,40.9586292,-1.2728557
+2026-10-19,Llauset,Llauset,17,6,-1.0,49,18,35.3,Llauset,Embalse de Llauset,Llauset,Ebro,42.5838189,0.6885733
+2026-10-19,Loteta (La),Derivación Canal Imperial,104,7,0.0,30,0,6.7,La Loteta,Embalse de La Loteta,Derivación Canal Imperial,Ebro,41.8189369,-1.3240277
+2026-10-19,Maidevera,Aranda,20,13,0.0,6,4,65.0,Maidevera,Embalse de Maidevera,Aranda,Ebro,41.5815582,-1.7575326
+2026-10-19,Mansilla,Najerilla,68,19,-1.0,62,16,27.9,Mansilla,Embalse de Mansilla,Najerilla,Ebro,42.15,-2.95
+2026-10-19,Mediano,Cinca,435,93,3.0,267,55,21.4,Mediano,Embalse de Mediano,Cinca,Ebro,42.3420153,0.1939932
+2026-10-19,Mequinenza,Ebro,1373,767,-15.0,239,117,55.9,Mequinenza,Embalse de Mequinenza,Ebro,Ebro,41.3835966,0.1237623
+2026-10-19,Moneva,Aguas Vivas,8,4,0.0,2,1,50.0,Moneva,Embalse de Moneva,Aguas Vivas,Ebro,41.1660616,-0.8329718
+2026-10-19,Monteagudo,Nájima,10,7,0.0,3,2,70.0,Monteagudo,Embalse de Monteagudo,Nájima,Ebro,41.3883333,-2.1819444
+2026-10-19,Montearagón,Flumen,52,25,0.0,12,5,48.1,Montearagón,Embalse de Montearagón,Flumen,Ebro,42.1535225,-0.3443688
+2026-10-19,Nagore,Urrobi,5,3,0.0,3,2,60.0,Nagore,Embalse de Nagore,Urrobi,Ebro,42.8533433,-1.3755931
+2026-10-19,Oliana,Segre,84,39,-1.0,57,28,46.4,Oliana,Embalse de Oliana,Segre,Ebro,42.1189708,1.3071642
+2026-10-19,Pajares,Lumbreras,35,14,-1.0,21,8,40.0,Pajares,Embalse de Pajares,Lumbreras,Ebro,42.0821421,-2.6028036
+2026-10-19,Parras (Las),Martín,5,3,0.0,1,1,60.0,Las Parras,Embalse de Las Parras,Martín,Ebro,40.8255265,-0.9201274
+2026-10-19,Pena,Pena,18,11,0.0,2,2,61.1,Pena,Embalse de Pena,Pena,Ebro,40.8132933,0.12961
+2026-10-19,"Peña, La",Gállego,15,8,-2.0,10,4,53.3,La Peña,Embalse de La Peña,Gállego,Ebro,42.3833333,-0.7166667
+2026-10-19,Puente de Santolea,Guadalope,18,18,0.0,7,6,100.0,Puente de Santolea,Embalse de Puente de Santolea,Guadalope,Ebro,40.7472972,-0.3580665
+2026-10-19,Rialb,Segre,404,212,3.0,217,125,52.5,Rialb,Embalse de Rialb,Segre,Ebro,41.9399743,1.1933618
+2026-10-19,Ribarroja,Ebro,210,199,-1.0,12,11,94.8,Ribarroja,Embalse de Ribarroja,Ebro,Ebro,41.2436599,0.4327914
+2026-10-19,Sallente,Flamisell,6,1,-2.0,25,5,16.7,Sallente,Embalse de Sallente,Flamisell,Ebro,42.503113,0.9908288
+2026-10-19,San Bartolomé,Arba,6,3,0.0,2,1,50.0,San Bartolomé,Embalse de San Bartolomé,Arba,Ebro,42.216303,-1.1514966
+2026-10-19,San Lorenzo,Segre,10,9,0.0,4,3,90.0,San Lorenzo,Embalse de San Lorenzo,Segre,Ebro,41.8548,0.837
+2026-10-19,San Salvador,Arroyo la Clamor,137,48,0.0,30,9,35.0,San Salvador,Embalse de San Salvador,Arroyo la Clamor,Ebro,41.7806104,0.1976587
+2026-10-19,Santa Ana,Noguera-Ribagorzana,237,132,5.0,92,46,55.7,Santa Ana,Embalse de Santa Ana,Noguera-Ribagorzana,Ebro,41.9007222,0.5991042
+2026-10-19,Santa María de Belsué,Flumen,14,1,0.0,1,0,7.1,Santa María de Belsué,Embalse de Santa María de Belsué,Flumen,Ebro,42.3060248696357,-0.347810306047974
+2026-10-19,Santolea,Guadalope,5,2,-1.0,12,1,40.0,Santolea,Embalse de Santolea,Guadalope,Ebro,40.755,-0.3258333
+2026-10-19,Sistema Aguas Limpias,Aguas Limpias,18,6,0.0,68,23,33.3,Sistema Aguas Limpias,Embalse de Sistema Aguas Limpias,Aguas Limpias,Ebro,41.848661590286,-1.65764633660542
+2026-10-19,Sistema Alto Caldarés,Caldarés,18,4,0.0,70,16,22.2,Sistema Alto Caldarés,Embalse de Sistema Alto Caldarés,Caldarés,Ebro,42.768745084792,-0.230915501436636
+2026-10-19,Sistema Capdella,Flamisell,50,30,0.0,191,114,60.0,Sistema Capdella,Embalse de Sistema Capdella,Flamisell,Ebro,39.5787022,2.4692829
+2026-10-19,Sistema Escarra,Escarra,5,1,0.0,14,4,20.0,Sistema Escarra,Embalse de Sistema Escarra,Escarra,Ebro,42.7410076865582,-0.361490351735927
+2026-10-19,Sistema Lagos Espot,Espot,10,9,0.0,33,30,90.0,Sistema Lagos Espot,Embalse de Sistema Lagos Espot,Espot,Ebro,42.5758342,1.0879541
+2026-10-19,Sistema Valle de Arán,Valartíes,22,9,0.0,172,69,40.9,Sistema Valle de Arán,Embalse de Sistema Valle de Arán,Valartíes,Ebro,42.7439754,0.7913227
+2026-10-19,Sobrón,Ebro,20,15,-1.0,12,9,75.0,Sobrón,Embalse de Sobrón,Ebro,Ebro,42.759444,-3.155278
+2026-10-19,Sotonera,Sotón,189,39,0.0,44,0,20.6,Sotonera,Embalse de Sotonera,Sotón,Ebro,42.1107767,-0.682049
+2026-10-19,Terradets,Noguera-Pallaresa,33,31,-1.0,19,17,93.9,Terradets,Embalse de Terradets,Noguera-Pallaresa,Ebro,42.0677778,0.8891667
+2026-10-19,Terroba,Leza,8,1,0.0,4,0,12.5,Terroba,Embalse de Terroba,Leza,Ebro,42.2580359,-2.4446549
+2026-10-19,"Torcas, Las",Huerva,7,1,-1.0,2,0,14.3,Las Torcas,Embalse de Las Torcas,Huerva,Ebro,41.2888427,-1.0951427
+2026-10-19,"Tranquera, La",Piedra,82,42,1.0,29,15,51.2,La Tranquera,Embalse de La Tranquera,Piedra,Ebro,41.2382131,-1.784315
+2026-10-19,Tremp ó Talárn,Noguera-Pallaresa,227,97,-2.0,213,83,42.7,Tremp ó Talárn,Embalse de Tremp ó Talárn,Noguera-Pallaresa,Ebro,42.1861584,0.8999973
+2026-10-19,Ullivarri,Zadorra,146,88,-1.0,85,50,60.3,Ullivarri,Embalse de Ullivarri,Zadorra,Ebro,42.9250658,-2.5718122
+2026-10-19,Urdalur,Alzama,6,3,0.0,4,2,50.0,Urdalur,Embalse de Urdalur,Alzama,Ebro,42.9144488,-2.2365821
+2026-10-19,Urdiceto,Urdiceto,5,2,0.0,13,5,40.0,Urdiceto,Embalse de Urdiceto,Urdiceto,Ebro,42.677114,0.271321
+2026-10-19,Urrunaga,Sta.Engracia,72,41,-1.0,37,20,56.9,Urrunaga,Embalse de Urrunaga,Sta.Engracia,Ebro,42.976738,-2.6511914
+2026-10-19,Vadiello,Guatizalema,16,7,0.0,3,1,43.8,Vadiello,Embalse de Vadiello,Guatizalema,Ebro,42.2423876,-0.2752098
+2026-10-19,"Val, El",Val,24,11,0.0,9,4,45.8,El Val,Embalse de El Val,Val,Ebro,38.1286111,-2.7758333
+2026-10-19,Valdepatao,Cinca,6,1,0.0,1,0,16.7,Valdepatao,Embalse de Valdepatao,Cinca,Ebro,41.5017605722193,0.0608397079802383
+2026-10-19,Yesa,Aragón,447,59,-1.0,152,8,13.2,Yesa,Embalse de Yesa,Aragón,Ebro,42.6069069,-1.1041302
+2026-10-19,Boadella,Muga,61,38,0.0,0,0,62.3,Boadella,Embalse de Boadella,Muga,Cuencas Internas de Cataluña,42.3481674,2.8215666
+2026-10-19,La Baells,Llobregat,109,77,0.0,0,0,70.6,La Baells,Embalse de La Baells,Llobregat,Cuencas Internas de Cataluña,42.1358767,1.8720815
+2026-10-19,La Llosa del Cavall,Cardener,80,59,-1.0,0,0,73.8,La Llosa del Cavall,Embalse de La Llosa del Cavall,Cardener,Cuencas Internas de Cataluña,42.1195448,1.6038527
+2026-10-19,Riudecanyes,Riudecanyes,5,1,0.0,0,0,20.0,Riudecanyes,Embalse de Riudecanyes,Riudecanyes,Cuencas Internas de Cataluña,41.1336068,0.9589598
+2026-10-19,Sant Pons,Cardener,24,21,1.0,0,0,87.5,Sant Pons,Embalse de Sant Pons,Cardener,Cuencas Internas de Cataluña,41.9717308,1.6020337
+2026-10-19,Sau,Ter,165,114,-3.0,0,0,69.1,Sau,Embalse de Sau,Ter,Cuencas Internas de Cataluña,41.9717273,2.3887675
+2026-10-19,Susqueda,Ter,233,184,0.0,0,0,79.0,Susqueda,Embalse de Susqueda,Ter,Cuencas Internas de Cataluña,41.9794496,2.5273756
