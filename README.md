@@ -80,6 +80,18 @@ vacíos, para que la línea del gráfico se corte en esas semanas.
 | Cuencas | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/cuencas/datos.csv | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/cuencas/metadata.json |
 | Embalses | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/embalses/datos.csv | https://raw.githubusercontent.com/Newtral-datos/embalses_automatico/main/graficos/embalses/metadata.json |
 
+### Republicación semanal
+
+Con la opción "Use Datawrapper server", Datawrapper solo vuelve a leer el CSV durante los 30 días
+siguientes a la última publicación. Por eso cada job termina con `python -m procesos.publicar <proceso>`,
+que republica su gráfico por la API y reinicia ese plazo. Se republica aunque no haya boletín nuevo.
+
+- El ID de cada gráfico está en `config/config.json`, en `"datawrapper"`. Un ID vacío se salta con un aviso.
+- Los gráficos están en dos cuentas de Datawrapper, así que hay dos secrets: `DATAWRAPPER_TOKEN` y
+  `DATAWRAPPER_TOKEN_2`. En `config/config.json`, `"token"` indica cuál usa cada gráfico. Los tokens se
+  crean en Datawrapper (Settings → API Tokens) con el permiso `chart:write`, cada uno desde su cuenta.
+- Si la republicación falla, el job termina en rojo, pero los datos ya se han subido.
+
 ## Si llega un correo de error
 
 GitHub manda un correo cuando un job termina en rojo. Mientras tanto, ese gráfico sigue con el último dato válido.

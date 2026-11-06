@@ -70,3 +70,11 @@ jobs:
           done
           echo "::error title=$PROCESO - push::No se ha podido subir el commit tras 5 intentos"
           exit 1
+
+      # Se republica aunque no haya boletín nuevo: Datawrapper solo vuelve a leer el CSV durante
+      # los 30 días siguientes a la última publicación, y republicar reinicia ese plazo.
+      - name: Republicar en Datawrapper
+        env:
+          DATAWRAPPER_TOKEN: ${{ secrets.DATAWRAPPER_TOKEN }}
+          DATAWRAPPER_TOKEN_2: ${{ secrets.DATAWRAPPER_TOKEN_2 }}
+        run: python -m procesos.publicar ${{ matrix.proceso }}
