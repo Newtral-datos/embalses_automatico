@@ -5,9 +5,9 @@
     "embalses": "Datos actualizados a {fecha}"
   },
   "datawrapper": {
-    "linea": {"id": "UwBAZ", "token": "DATAWRAPPER_TOKEN"},
-    "cuencas": {"id": "Cg11S", "token": "DATAWRAPPER_TOKEN_2"},
-    "embalses": {"id": "4emlX", "token": "DATAWRAPPER_TOKEN"}
+    "linea": {"id": "UwBAZ", "token": "DATAWRAPPER_TOKEN_E1"},
+    "cuencas": {"id": "Cg11S", "token": "DATAWRAPPER_TOKEN_E2"},
+    "embalses": {"id": "4emlX", "token": "DATAWRAPPER_TOKEN_E1"}
   },
   "validacion": {
     "dias_max_antiguedad": 14,

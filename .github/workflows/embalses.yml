@@ -75,6 +75,6 @@ jobs:
       # los 30 días siguientes a la última publicación, y republicar reinicia ese plazo.
       - name: Republicar en Datawrapper
         env:
-          DATAWRAPPER_TOKEN: ${{ secrets.DATAWRAPPER_TOKEN }}
-          DATAWRAPPER_TOKEN_2: ${{ secrets.DATAWRAPPER_TOKEN_2 }}
+          DATAWRAPPER_TOKEN_E1: ${{ secrets.DATAWRAPPER_TOKEN_E1 }}
+          DATAWRAPPER_TOKEN_E2: ${{ secrets.DATAWRAPPER_TOKEN_E2 }}
         run: python -m procesos.publicar ${{ matrix.proceso }}
