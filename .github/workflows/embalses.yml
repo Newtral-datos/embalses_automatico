@@ -36,8 +36,17 @@ jobs:
           distribution: temurin
           java-version: "17"
 
-      - name: Instalar Ghostscript   # camelot (respaldo de pdfium)
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq ghostscript
+      # Solo lo usa camelot (respaldo de pdfium), y camelot solo se usa en "embalses".
+      # Si los repositorios de Ubuntu no responden (ha pasado: fallos de DNS en el runner),
+      # se corta pronto y se sigue sin Ghostscript en vez de tumbar el trabajo.
+      - name: Instalar Ghostscript
+        if: matrix.proceso == 'embalses'
+        timeout-minutes: 5
+        continue-on-error: true
+        run: |
+          APT_OPTS="-o Acquire::Retries=2 -o Acquire::http::Timeout=20 -o Acquire::https::Timeout=20"
+          sudo apt-get update -qq $APT_OPTS
+          sudo apt-get install -y -qq --no-install-recommends $APT_OPTS ghostscript
 
       - name: Instalar dependencias
         run: pip install -r requirements.txt
